@@ -187,10 +187,22 @@ Hvis vi hør støtte til makkers major-åpning bruker vi disse meldingene:
 |===
 | styrke | melding
 
-|
+| 5-6
+| 1M -> 1 NT -> 2 X -> 2M. +
+  Må gå via 1 NT med "søppel". +
+  NB! Denne sekvensen kan også vise to kort farge-preferanse.
+
+| 7-9
+| 1M -> 2M. +
+  Direkte støtte viser sterkere enn via 1 NT
+
+| 10-12
+| 1 M -> 1NT -> 2x. -> 3 M +
+  Hoppstøtte via 1 NT. Viser limit raise
+
 
 | GF
-| meld først 2/1, deretter støtte makkers major. Dette viser ALLTID 3 korts støtte.
+| Meld først 2/1, deretter støtte makkers major. Dette viser ALLTID 3 korts støtte.
 
 
 |===
