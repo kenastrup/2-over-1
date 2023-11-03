@@ -45,6 +45,15 @@ Etter 1 [red]#♥#: TODO
 
 |===
 
+== 1 [red]#♥# -> [black]#♠#
+Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
+
+NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
+
+== 1 [red]#♥# -> 2 [black]#♠#
+Hva fan skal den brukes til?
+Sperr eller sterk?
+
 == 1 NT Forcing
 
 Dette er ulempen med 2/1. Man må opprette en melding som man kan bruke for å vise en rekke ulike hender. 1 NT er denne meldingen.
