@@ -1,0 +1,5 @@
+= Prinsipper
+
+Vi følger disse prinsippene.
+
+include::prinsipper/fast-arrival.adoc[]

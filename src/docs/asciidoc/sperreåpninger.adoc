@@ -1,0 +1,3 @@
+= Sperreåpninger
+
+Vi bruker mer aggressive sperreåpninger enn det som er normalt.

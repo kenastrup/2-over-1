@@ -1,0 +1,30 @@
+= 1 NT åpning
+
+Åpning 1 NT
+
+* viser 14-16 hp
+* kan inneholde 5-kort major og 5-3-3-2
+
+== Svar på 1 NT åpning
+
+Oppsummert:
+
+* 2 [black]#&clubs;#: Stayman
+* 2 [red]#&diams;#, 2 [red]#&hearts;#, Overføring
+* 2 [black]#&spades;#: Minor stayman
+* 2 NT: Invitt, normalt uten 4 kort major
+
+=== 2 [black]#&clubs;# Stayman
+
+I dette systemet kan Stayman være en svak melding som søker etter en major tilpass.
+
+* Etter 2 [red]#&diams;# er majormelding svak og minormelding sterk.
+* Etter 2 [red]#&hearts;# er 2 ny spørremelding med naturlige svar
+Etter 2 er 3 ny spørremelding med naturlige svar bortsett fra at 3 viser kløver
+
+
+Dette er stayman.
+
+=== 3 [black]#&clubs;#
+Dette er puppet stayman
+
