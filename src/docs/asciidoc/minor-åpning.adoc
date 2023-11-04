@@ -2,3 +2,13 @@
 
 Minor åpning er beste minor, dvs kan være på tre kort.
 
+Svar:
+
+|===
+| melding | beskrivelse
+
+| 1 [red]#♦# | Walsh diamond (alert), 6+ hp
+| 1 [red]#♥# / [black]#♠# | 4-kort, 6+ hp
+| 1 NT
+|===
+

@@ -1,0 +1,24 @@
+= Walsh diamond
+
+Dette gjelder kun etter 1 åpning.
+
+Med både ruter og en majorfarge, vil vi kun melde ruteren hvis vi kan kreve til utgang, ellers melder vi 4-korts major.
+
+Unntaket er når vi har en svak hånd med minst 7 ruter og en svak major, da melder vi ruteren først.
+
+Dette betyr at man ofte melder major på tross at man har like lang eller lengre ruter.
+
+Dette innebærer at 1 [red]#♦# vanligvis benekter 4-korts major.  Hvis den ikke benekter major, har man verdier til utgang.
+
+Det betyr også at hvis man melder ruter først, og senere melder major, er dette utgangskrav.
+Dette innebærer også at 1 [black]#♣# - 1 [red]#♥#
+ /1 [black]#♠#; 1NT - 2 [red]#♦# viser 4-korts major og normalt 5-6 korts ruter og svak hånd.
+
+Åpners andre melding er normalt basert på fordeling.  Har man grandfordeling, så meldes ikke eventuell(e) 4-korts major(er).
+
+Et par unntak finnes.
+
+* Hvis man har 4-4-3-2 fordeling og alle poengene i 4-korts fargene, så er det bedre å melde farge framfor fordeling.
+* Andre unntak er med 4-korts spar å vurdere å melde 1 etter 1 - 1, avhengig av poengfordelingen.
+
+TODO: ikke ferdig.

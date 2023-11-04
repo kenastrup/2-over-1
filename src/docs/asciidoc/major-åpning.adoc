@@ -27,7 +27,7 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 Etter 1 [red]#♥#: TODO
 
 | 2 NT
-| Jacoby
+| 4-kort støtte jevn hånd (ingen single/renons). GF.
 
 | 3 [black]#♣#
 | nøyaktig 4 kort støtte. 7-10 hp. Se Bergen raises
@@ -48,143 +48,13 @@ Etter 1 [red]#♥#: TODO
 == 1 [red]#♥# -> [black]#♠#
 Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
 
-NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
+NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet for å etablere GF, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
 
 == 1 [red]#♥# -> 2 [black]#♠#
 Hva fan skal den brukes til?
 Sperr eller sterk?
 
-== 1 NT Forcing
-
-Dette er ulempen med 2/1. Man må opprette en melding som man kan bruke for å vise en rekke ulike hender. 1 NT er denne meldingen.
-
-1 NT forcing er som navnet antyder ABSOLUTT krav til runde.
-
-Etter majoråpning er svar 1 NT en "sekkemelding" som viser 6-12 hp. Du kan IKKE ha 4-kort støtte. Vi kan ikke melde lavere farger på to-trinnet siden det er GF.
-
-Etter 1 [red]#♥# benekter den også 4-kort spar?
-
-=== Åpners svar på 1 NT forcing
-
-|===
-| svar | beskrivelse
-
-| 2 [black]#♣#/[red]#♦#
-| Minst 3-kort farge. +
-  NB! 2 [black]#♣# KAN vise nøyaktig 4-5-2-2 fordeling, altså 2-kort farge i kløver hvis man ikke har styrke til revers melding. +
-   1 [red]#♥# -> 1 NT -> 2 [black]#♠# er revers og viser ekstra verdier.
-
-| 2 i motsatt major
-| minst 4-kort.
-
-| 2 i åpningsfargen
-| 6+ kort. Ikke krav.
-
-| 2 NT
-| Sterk NT, balansert. Altså 17+
-
-| 3 trinnet
-| Som vanlig
-|===
-
-Eksempler etter 1 [black]#♠# -> 1 NT:
-
-|===
-| A | B | C | D | E
-
-| [black]#♠# A Q 9 8 2
-| [black]#♠# Q J 10 6 5 2
-| [black]#♠# A K Q 5 2
-| [black]#♠# A J 5 4 2
-| [black]#♠# A Q J 10 5 4 2
-
-| [red]#♥# A 5 2
-| [red]#♥# A 5 2
-| [red]#♥# A K Q 10 2
-| [red]#♥# A K 2
-| [red]#♥# A J 2
-
-| [red]#♦# Q J 2
-| [red]#♦# Q J 2
-| [red]#♦# 10 5 2
-| [red]#♦# K 2
-| [red]#♦# K 2
-
-| [black]#♣# 7 3
-| [black]#♣# A
-| [black]#♣# -
-| [black]#♣# K 8 3
-| [black]#♣# 3
-
-|===
-
-Svar:
-
-A. 2 [red]#♦#
-B. 2 [black]#♠#. Viser 6 kort og minimum
-C. 3 [red]#♥#. Naturlig hopp. GF.
-D. 2 NT. 18-19. balansert
-E. 4 [black]#♠#. Ekstra lengde. Ekstra poeng.
-
-Legg merke til at alle svar unntatt A er som i normale system. Med A ville man ha passet i andre systemer.
-
-=== Videre meldinger etter 1 NT forcing
-
-|===
-| melding | beskrivelse
-
-| Ny farge på to-trinnet
-| Naturlig. Ikke krav
-
-| Støtte i åpningsfargen
-| Farge-preferanse. Normalt 2-korts støtte. 6-9 hp +
-  Men kan også være en elendig 3-korts støtte 5-6 hp. Godt alternativ til å passe åpningen.
-
-| 2 NT
-| Invitt. Naturlig
-
-| Høyning i åpningsfargen
-| Naturlig invitt. 5+ kort
-
-| Hopp støtte i åpningsfargen
-| 3 kort støtte. 10-12 hp
-|===
-
-Eksempler. Etter 1 [black]#♠# -> 1 NT -> 2 [black]#♣#
-
-|===
-| A | B | C | D | E
-
-| [black]#♠# 6
-| [black]#♠# A 5 2
-| [black]#♠# Q 7
-| [black]#♠# 10
-| [black]#♠# 4
-
-| [red]#♥# 10 3 2
-| [red]#♥# Q J 9 8 2
-| [red]#♥# A Q 6 2
-| [red]#♥# Q 10 9 8 7
-| [red]#♥# K Q 10 8 7 6
-
-| [red]#♦# Q 5 4 2
-| [red]#♦# K 10 2
-| [red]#♦# 9 8 7 6
-| [red]#♦# K Q 10 8 7
-| [red]#♦# Q 4 3 2
-
-| [black]#♣# A K J 6 4
-| [black]#♣# 10 9
-| [black]#♣# 5 4 2
-| [black]#♣# A 8 2
-| [black]#♣# J 2
-|===
-
-A. 3 [black]#♣#. Støtte invitt
-B. 3 [black]#♠#. 3 kort 10-12hp
-C. 2 [black]#♠#. Normalt 2-kort, men også 3-kort "søppel-hånd"
-D. 2 NT. Naturlig invitt
-E. 2 [red]#♥#. Naturlig ikke krav.
+include::konvensjoner/1-NT-forcing.adoc[]
 
 == Støtt med støtte
 
@@ -213,125 +83,9 @@ Hvis vi hør støtte til makkers major-åpning bruker vi disse meldingene.
 | Meld først 2/1, deretter støtte makkers major. Dette viser ALLTID 3 korts støtte.
 |===
 
-=== Nøyaktig 4 kort støtte: Bergen raises
+include::konvensjoner/bergen-raises.adoc[]
 
-Bergen raises er basert på https://www.bridgebum.com/law_of_total_tricks.php[Law of Total Tricks], som sier at man kan spille til det nivået man har nok trumf til. Har man ni trumf kan man melde 3.
-
-Bergen raises oppstår etter åpning i 1 major farge og farge svar på 3-trinnet.
-
-Det er ikke alle som liker denne!
-
-Bergen raises er kun på hvis pass eller doble fra fienden. Ellers ikke.
-
-Ideen er:
-
-* Vi ikke har nok rom verdier til å kreve til utgang, da bruker vi andre metoder.
-* Eller vi har krav til utgang og en single/renons.
-* Vi vet hvilken trumf vi kan spille, og vi har minst 9 stk. Ifølge Loven.
-* Vi sperrer motparten til venstre ute fra hele to-trinnet. Vanskeligere å komme inn
-
-==== Meldinger etter Bergen raises
-
-===== Etter 3 [black]#♣#
-
-|===
-| melding | Beskrivelse
-
-| 3 [red]#♦#
-| Viser sidefarge. Interesse for utgang. +
-  Åpner slår av i 3 major med minimum. +
-  Åpner melder utgang med max.
-
-| 3 [red]#♥#
-| Hvis major er [red]#♥# = Avslag +
-  Hvis major er [black]#♠# = sidefarge. Invitt.
-
-| 3 [black]#♠#
-| Hvis major er [black]#♠# = Avslag +
-  Hvis major er [red]#♥# = Sterk og naturlig med interesse for slem. Svarhånda forventes å oppføre seg intelligent. Avslå med utgang, eller cue-bids
-|===
-
-===== Etter 3 [red]#♦#
-
-|===
-| melding | beskrivelse
-
-| 3 [red]#♥#
-| Hvis major er [red]#♥# = Avslag +
-  Hvis major er [black]#♠# = Sidefarge med interesse for utgang
-
-| 3 [black]#♠#
-| Hvis major er [black]#♠# = Avslag +
-  Hvis major er [red]#♥# = Sterk naturlig med interesse for slem.
-|===
-
-===== Etter sperr i major
-
-|===
-| melding | beskrivelse
-
-| Pass
-| Javel! Mindre enn 18 hp
-
-| 4 M
-| Vi knaller til! 18+
-|===
-
-===== Åpners melding etter 1 [black]#♠# -> 3 [red]#♥#
-
-Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
-
-|===
-| melding | beskrivelse
-
-| 3 [black]#♠#
-| Rele. Spør etter kortfargen +
-  3 NT = kortfarge [black]#♣# +
-  4 [black]#♣# kortfarge [red]#♦# +
-  4 [red]#♦# kortfarge [red]#♥#
-
-| 4 [black]#♠#
-| Avslag
-|===
-
-Eksempel etter 1 [red]#♥# -> 3 [black]#♠#:
-
-|===
-| Åpner | Svarer
-
-| [black]#♠# A5 | [black]#♠# KQ42
-| [red]#♥# AK843 | [red]#♥# QJ52
-| [red]#♦# DKJT9 | [red]#♦# 5
-| [black]#♣# T5 | [black]#♣# A983
-
-| meldinger
-|
-
-| 1 [red]#♥# | 3 [black]#♠# (1)
-| 3 NT (2) | 4 [red]#♦# (3)
-| 4 [red]#♥# (4)
-|===
-
-1. GF. 4-kort støtte. Ukjent kortfarge
-2. Javel, jeg kan være interessert i slem! Hvilken kort farge har du?
-3. Rutern min er kort!
-4. Fan, da har jeg bortkastede verdier i ruter. Hvorfor var du ikke kort i kløver istedet?
-
-===== Åpners melding etter 1 [red]#♥# -> 3 [black]#♠#
-
-Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
-
-|===
-| melding | beskrivelse
-
-| 3 NT
-| Rele. Spør etter kortfargen +
-4 [black]#♣# / [red]#♦# / [red]#♥# viser den.
-
-| 4 hj
-| Avslag
-|===
-
+include::konvensjoner/modified-jacoby-2NT.adoc[]
 
 === Oppsummering støtt med støtte
 
@@ -378,3 +132,4 @@ Udefinert single/renons
 | 1 [black]#♠# -> 2 NT. Modified Jacoby. +
   Ingen single/renons
 |===
+

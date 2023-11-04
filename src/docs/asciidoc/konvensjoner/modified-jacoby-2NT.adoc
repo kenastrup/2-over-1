@@ -1,0 +1,87 @@
+= Modified Jacoby 2 NT
+Med 4-kort støtte, GF, uten kortfarger melder man 2 NT.
+
+Svar:
+|===
+| melding |beskrivelse
+
+| Utgang | Drittåpning. 5332
+| 3 [black]#♣# | alle andre minimum (TODO, hva betyr det?)
+| 3 [red]#♦# | ikke minimum med single eller renons
+| 3 [red]#♥# | ikke minimum hvilken som helst 5422
+| 3 [black]#♠# | ikke minimum 6+ trumf, ingen kortfarger
+|===
+
+== 1 [black]#♠# -> 2 NT -> 3 [black]#♣#
+Dette viser minimumshånd, ikke helt dritt.
+3 [red]#♦# er rele
+|===
+| melding | beskrivelse
+
+| 4 i majoren | 5332
+| 3 [red]#♥# | Jeg har kortfarge!
+| 3 [black]#♠# | 5422
+| 3 NT | 6+ trumf ingen kortfarger
+| 4 ny farge | 5+ OK sidefarge ( bør ha ess eller konge)
+|===
+
+
+== 1 [black]#♠# -> 2 NT -> 3 [red]#♦#
+Denne viser ikke minimum + single eller renons
+
+3 [red]#♥# er rele: Hvor er du kort?
+|===
+| melding | beskrivelse
+
+| steg 1 | Jeg har renons! Nytt rele spør hvor renonsen er
+| steg 2 | single i [black]#♣#
+| steg 3 | single i [red]#♦#
+| steg 4 | single i den andre majoren
+|===
+
+=== 1 [black]#♠# -> 2 NT -> 3 [red]#♥#
+Denne viser ikke minimum og hvilken som helst 5422.
+3 [black]#♠# er rele
+
+|===
+| melding | beskrivelse
+
+| 1 steg | 4 kort [black]#♣#
+| 2 steg | 4 kort [red]#♦#
+| 3 steg | 4 kort i andre major
+|===
+
+== Innblanding fra fienden
+
+Jacoby er ikke på etter innmelding eller dobling av åpningen.
+
+Men hvis de blander seg inn etter 1 M -> 2 NT må vi takle det.
+|===
+| melding |beskrivelse
+
+| D | Jeg er kort i innmeldt farge!
+| Ny farge | Naturlig eller kontroll
+| 3 NT | Balansert minimum (K eller A i deres farge)
+| Pass | Ikke noe spesielt, flat hånd
+| Hopp til utgang | Absolutt minimum
+|===
+
+Hvis de dobler releer(spørremeldinger)
+
+|===
+|melding |beskrivelse
+
+| XX | business. Vi kan spille det
+| Pass | steg 1
+| neste melding | steg 2 osv
+|===
+
+Hvis de melder etter releer
+
+|===
+|melding | beskrivelse
+
+| D | business.
+| Pass | steg 1
+| neste melding | steg 2 osv
+|===
