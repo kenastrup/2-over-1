@@ -1,14 +1,59 @@
 = Minor åpning
 
-Minor åpning er beste minor, dvs kan være på tre kort.
+Minor åpning er beste minor, dvs kan være på tre kort. Etter 1 [black]#♣# finnes ingen 2-over-1 melding. Etter 1 [red]#♦# er det bare 2 [black]#♣# som er 2-over-1.
 
-Svar:
+med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
+
+== Svar
 
 |===
 | melding | beskrivelse
 
-| 1 [red]#♦# | Walsh diamond (alert), 6+ hp
-| 1 [red]#♥# / [black]#♠# | 4-kort, 6+ hp
+| 1 [red]#♦#
+| Walsh diamond (alert), 6+ hp. Hvis 3-3-5-2 og under 8 hp. alert! Benekter vanligvis 4 kort major.
+
+| 1 [red]#♥# / [black]#♠#
+| 4-kort, 6+ hp, kan ha like lang eller lengre ruter, alert.
+
 | 1 NT
+| 6-10 hp benekter 4 kort major, jevn fordeling, kan ha 5 kort ruter. men da 8-10 hp
+
+| 2 [black]#♣#
+| Etter 1 [black]#♣# omvendt minor +
+  Etter 1 [red]#♦#, 2/1
+
+| 2 [red]#♦#
+| Etter 1 [black]#♣# sperrebetont +
+  Etter 1 [red]#♦#, omvendt minor
+
+| 2 [red]#♥# / [black]#♠#
+| Lang egen farge, sperrebetont, under 6 hp
+
+| 2 NT
+| 11-12, benekter 4-kort major
+
+| 3 [black]#♣#
+| Etter 1 [black]#♣# omvendt minor +
+  Etter 1 [red]#♦# sperr, under 6 hp
+
+| 3 [red]#♦#
+| Etter 1 [black]#♣#. Sperr +
+  Etter 1 [red]#♦# omvendt minor.
+
+| 3 [red]#♥# / [black]#♠#
+| Sperr. under 6 hp
+
+| 3 NT
+| 13-15
+
 |===
 
+include::konvensjoner/walsh-diamond.adoc[]
+
+include::konvensjoner/omvendt-minor-høyning.adoc[]
+
+== I konkurranse
+
+Etter innmelding viser que-bid limit raise. Hoppstøtte er sperr
+
+Etter dobling er redobling 10+ og melding på 1-trinnet krav til runde.

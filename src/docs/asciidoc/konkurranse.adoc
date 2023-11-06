@@ -1,0 +1,75 @@
+= Konkurransemeldinger
+
+== De melder inn
+
+=== Motparten dobler
+
+|===
+| melding | beskrivelse
+
+| Redoble
+| 10+. Etter redoble er alle doblinger straff!
+
+| melding på en trinnet
+| naturlig. Krav til runde, kan være mer enn 10+
+
+| Melding på to-trinnet
+| Naturlig. Ikke krav
+
+| Hopp
+| Sperr
+
+| Hopp støtte
+| Sperr
+|===
+
+== Vi melder inn
+
+=== Direkte cue-bid:
+Viser 5-10 eller 15+
+
+I minor: Begge major.
+Makker prefererer farge eller melder 2NT = hvilken hånd har du?
+Cue-bidder melder 3 [red]#♥# med 5-10 (fast arrival), 3 [black]#♣# / [red]#♦# med 15+, viser den beste fargen
+
+I major: Minst 5-5 i den andre major + en minor.
+2 NT er spørsmål etter minoren. Hvis 2 NT melderen deretter melder majoren er det invitt.
+
+=== Innmelding
+
+Dette er når motparten har åpnet og vi melder inn.
+
+==== Vanlig innmelding
+
+På en trinnet er det tilstrekkelig med en OK 5-kort farge. 6-16
+
+På to trinnet, åpningsverdi med OK farge.
+
+Hvis 17+ hender, doble først.
+
+Etter innmelding er ny farge på en-trinnet ikke krav.
+Ny farge på to-trinnet er krav til runde.
+
+Cue-bid av åpners farge lover alltid 3 kort støtte. Invitt eller bedre
+
+Hopp cue-bid av åpners farge viser 4-kort støtte og 7-9
+
+==== Hoppinnmelding
+
+Når makker har passet og vi har 6-kort farge hopp inn! Avhengig av sone selvsagt. Dette kan vi gjøre også opptil 12 hp, siden vi ikke skal i utgang!
+
+==== Etter sterk NT (14+)
+
+DONT (Disturbing Opponents No-Trump)
+
+|===
+|melding |beskrivelse
+
+| Doble | En-farge hånd. Makker må melde 2 [black]#♣#
+| 2 [black]#♣# | 2 farge-hånd [black]#♣# og høyere
+| 2 [red]#♦# | 2 farge-hånd, [red]#♦# og høyere
+| 2 [red]#♥# | 2 farge-hånd, hjerter og spar
+| 2 [black]#♠# | Naturlig
+|===
+
+TODO: ikke ferdig.

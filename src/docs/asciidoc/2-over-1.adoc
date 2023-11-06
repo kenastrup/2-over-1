@@ -21,4 +21,8 @@ include::2NT-åpning.adoc[]
 
 include::sperreåpninger.adoc[]
 
+include::slemverktøy.adoc[]
+
+include::konkurranse.adoc[]
+
 include::prinsipper.adoc[]
