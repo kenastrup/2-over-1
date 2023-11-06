@@ -1,0 +1,7 @@
+= Ressurser
+
+Her har vi linker og evt annet som vi har brukt som kilder.
+
+* https://bridgewinners.com/article/series/lc-standard/[LC Standard], Larry Cohen standard 2 over 1
+* https://www.bridgebum.com/bergen_raises.php[Bergen Raises]
+* https://www.bridgehands.com/W/Walsh_Diamond_Responses.htm[Walsh Diamond]

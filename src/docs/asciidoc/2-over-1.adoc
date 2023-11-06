@@ -26,3 +26,5 @@ include::slemverktøy.adoc[]
 include::konkurranse.adoc[]
 
 include::prinsipper.adoc[]
+
+include::ressurser.adoc[]
