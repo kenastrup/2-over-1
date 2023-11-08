@@ -2,29 +2,44 @@
 :description: ejall
 :authors: Ken Are Astrup <ken.astrup@gmail.com>
 :icons: font
+:toc:
+:doctype: book
 
-include::introduksjon.adoc[]
+<<<
+include::introduksjon.adoc[levelOffset=+1]
 
-include::åpninger.adoc[]
+<<<
+include::åpninger.adoc[levelOffset=+1]
 
-include::etter-2-over-1.adoc[]
+<<<
+include::etter-2-over-1.adoc[levelOffset=+1]
 
-include::minor-åpning.adoc[]
+<<<
+include::minor-åpning.adoc[levelOffset=+1]
 
-include::major-åpning.adoc[]
+<<<
+include::major-åpning.adoc[levelOffset=+1]
 
-include::1NT-åpning.adoc[]
+<<<
+include::1NT-åpning.adoc[levelOffset=+1]
 
-include::2kl-åpning.adoc[]
+<<<
+include::2kl-åpning.adoc[levelOffset=+1]
 
-include::2NT-åpning.adoc[]
+<<<
+include::2NT-åpning.adoc[levelOffset=+1]
 
-include::sperreåpninger.adoc[]
+<<<
+include::sperreåpninger.adoc[levelOffset=+1]
 
-include::slemverktøy.adoc[]
+<<<
+include::slemverktøy.adoc[levelOffset=+1]
 
-include::konkurranse.adoc[]
+<<<
+include::konkurranse.adoc[levelOffset=+1]
 
-include::prinsipper.adoc[]
+<<<
+include::prinsipper.adoc[levelOffset=+1]
 
-include::ressurser.adoc[]
+<<<
+include::ressurser.adoc[levelOffset=+1]

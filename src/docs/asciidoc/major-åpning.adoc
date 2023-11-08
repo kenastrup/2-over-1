@@ -54,7 +54,7 @@ NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først
 Hva fan skal den brukes til?
 Sperr eller sterk?
 
-include::konvensjoner/1-NT-forcing.adoc[]
+include::konvensjoner/1-NT-forcing.adoc[levelOffset=+1]
 
 == Støtt med støtte
 
@@ -83,9 +83,9 @@ Hvis vi hør støtte til makkers major-åpning bruker vi disse meldingene.
 | Meld først 2/1, deretter støtte makkers major. Dette viser ALLTID 3 korts støtte.
 |===
 
-include::konvensjoner/bergen-raises.adoc[]
+include::konvensjoner/bergen-raises.adoc[levelOffset=+1]
 
-include::konvensjoner/modified-jacoby-2NT.adoc[]
+include::konvensjoner/modified-jacoby-2NT.adoc[levelOffset=+1]
 
 === Oppsummering støtt med støtte
 

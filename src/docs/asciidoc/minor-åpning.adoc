@@ -51,9 +51,9 @@ Med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 ko
 
 |===
 
-include::konvensjoner/walsh-diamond.adoc[]
+include::konvensjoner/walsh-diamond.adoc[levelOffset=+1]
 
-include::konvensjoner/omvendt-minor-høyning.adoc[]
+include::konvensjoner/omvendt-minor-høyning.adoc[levelOffset=+1]
 
 == I konkurranse
 

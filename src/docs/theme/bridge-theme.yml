@@ -11,11 +11,6 @@ role:
 font:
     catalog:
         merge: false
-        Noto Serif:
-            normal: NotoSerif-Regular.ttf
-            italic: NotoSerif-Italic.ttf
-            bold: NotoSerif-Bold.ttf
-            bold_italic: NotoSerif-BoldItalic.ttf
         Arial:
             normal: /System/Library/Fonts/Supplemental/Arial.ttf
             italic: /System/Library/Fonts/Supplemental/Arial Italic.ttf
