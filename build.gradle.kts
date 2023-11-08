@@ -19,12 +19,8 @@ tasks {
         sourceDir(file("src/docs/asciidoc"))
         baseDirFollowsSourceFile()
         setTheme("bridge")
-        //fontsDirs(file("src/docs/fonts/static"))
+        sources("2-over-1.adoc")
     }
-    // "asciidoctorPdf"(AsciidoctorTask::class) {
-    //     sourceDir(file("src/docs/asciidoc"))
-    //     baseDirFollowsSourceFile()
-    // }
 }
 
 pdfThemes {

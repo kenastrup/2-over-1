@@ -15,14 +15,14 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 | 1 NT forcing. Alltid krav til runde
 
 | 2 [black]#♣#
-| 2/1
+| 2/1 4+ kort
 
 | 2 [red]#♦#
-| 2/1
+| 2/1 4+ kort
 
 | 2 [red]#♥#
 | Etter 1 [red]#♥#: 3 kort støtte 7-10 +
-  Etter 1 [black]#♠#. 2/1. Minst 5 kort
+  Etter 1 [black]#♠#. 2/1. 5+ kort
 
 | 2 [black]#♠#
 | Etter 1 [black]#♠#: Nøyaktig 3 kort Støtte. +
@@ -53,8 +53,8 @@ Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
 NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet for å etablere GF, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
 
 == 1 [red]#♥# -> 2 [black]#♠#
-Hva fan skal den brukes til?
-Sperr eller sterk?
+
+Sperr 0-5 poeng, 6+ kort. OK farge.
 
 include::konvensjoner/1-NT-forcing.adoc[leveloffset=+1]
 
