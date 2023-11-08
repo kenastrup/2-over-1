@@ -1,4 +1,4 @@
-== Nøyaktig 4 kort støtte: Bergen raises
+= Nøyaktig 4 kort støtte: Bergen raises
 
 Bergen raises er basert på https://www.bridgebum.com/law_of_total_tricks.php[Law of Total Tricks], som sier at man kan spille til det nivået man har nok trumf til. Har man ni trumf kan man melde 3.
 

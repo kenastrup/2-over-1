@@ -21,9 +21,14 @@
 
 | Hopp støtte
 | Sperr
+
+| que-bid
+| limit raise
 |===
 
 == Vi melder inn
+
+Dette er når motparten har åpnet og vi melder inn.
 
 === Direkte cue-bid:
 Viser 5-10 eller 15+
@@ -35,11 +40,8 @@ Cue-bidder melder 3 [red]#♥# med 5-10 (fast arrival), 3 [black]#♣# / [red]#�
 I major: Minst 5-5 i den andre major + en minor.
 2 NT er spørsmål etter minoren. Hvis 2 NT melderen deretter melder majoren er det invitt.
 
-=== Innmelding
 
-Dette er når motparten har åpnet og vi melder inn.
-
-==== Vanlig innmelding
+=== Vanlig innmelding
 
 På en trinnet er det tilstrekkelig med en OK 5-kort farge. 6-16
 

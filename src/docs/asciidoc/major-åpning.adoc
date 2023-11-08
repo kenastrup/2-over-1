@@ -2,6 +2,8 @@
 
 Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 
+== Svar etter 1 major
+
 [cols="1, 6"]
 |===
 | melding | beskrivelse
@@ -45,7 +47,7 @@ Etter 1 [red]#♥#: TODO
 
 |===
 
-== 1 [red]#♥# -> [black]#♠#
+== 1 [red]#♥# -> 1 [black]#♠#
 Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
 
 NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet for å etablere GF, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
@@ -54,7 +56,7 @@ NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først
 Hva fan skal den brukes til?
 Sperr eller sterk?
 
-include::konvensjoner/1-NT-forcing.adoc[levelOffset=+1]
+include::konvensjoner/1-NT-forcing.adoc[leveloffset=+1]
 
 == Støtt med støtte
 
@@ -83,9 +85,9 @@ Hvis vi hør støtte til makkers major-åpning bruker vi disse meldingene.
 | Meld først 2/1, deretter støtte makkers major. Dette viser ALLTID 3 korts støtte.
 |===
 
-include::konvensjoner/bergen-raises.adoc[levelOffset=+1]
+include::konvensjoner/bergen-raises.adoc[leveloffset=+1]
 
-include::konvensjoner/modified-jacoby-2NT.adoc[levelOffset=+1]
+include::konvensjoner/modified-jacoby-2NT.adoc[leveloffset=+1]
 
 === Oppsummering støtt med støtte
 

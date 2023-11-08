@@ -7,7 +7,7 @@ Minor åpning er beste minor, dvs kan være på tre kort.
 
 Med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
 
-== Svar
+== Svar etter minor-åpning
 
 |===
 | melding | beskrivelse
@@ -51,12 +51,7 @@ Med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 ko
 
 |===
 
-include::konvensjoner/walsh-diamond.adoc[levelOffset=+1]
+include::konvensjoner/walsh-diamond.adoc[leveloffset=+1]
 
-include::konvensjoner/omvendt-minor-høyning.adoc[levelOffset=+1]
+include::konvensjoner/omvendt-minor-høyning.adoc[leveloffset=+1]
 
-== I konkurranse
-
-Etter innmelding viser que-bid limit raise. Hoppstøtte er sperr
-
-Etter dobling er redobling 10+ og melding på 1-trinnet krav til runde.

@@ -1,4 +1,4 @@
-= Omvendte minorhøyninger
+=== Omvendte minorhøyninger
 
 Vanligvis viser enkel høyning 6-9 og dobbelt høyning 10-12.
 
