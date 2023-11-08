@@ -7,24 +7,23 @@ Følgende hovedkjennetegn:
 * beste minor
 * 5-kort majoråpning
 * 14-16 NT
-* 2&clubs; er sterkere enn normalt
-* Aggressive sperremeldinger
+* 2 [black]#♣# er sterkere enn normalt
+* Mer aggressive sperremeldinger
 
 Navnet 2 over 1 kommer av at det blir etablert utgangskrav åpning 1 i farge, og svar i en lavere farge på to-trinnet. Dvs disse sekvensene:
 
-* 1 [red]#&diams;# -> 2 [black]#&clubs;#
-* 1 [red]#&hearts;# -> 2 [black]#&clubs;#
-* 1 [red]#&hearts;# -> 2 [red]#&diams;#
-* 1 [black]#&spades;# -> 2 [black]#&clubs;#
-* 1 [black]#&spades;# -> 2 [red]#&diams;#
-* 1 [black]#&spades;# -> 2 [red]#&hearts;#
+* 1 [red]#♦# -> 2 [black]#♣#
+* 1 [red]#♥# -> 2 [black]#♣#
+* 1 [red]#♥# -> 2 [red]#♦#
+* 1 [black]#♠# -> 2 [black]#♣#
+* 1 [black]#♠# -> 2 [red]#♦#
+* 1 [black]#♠# -> 2 [red]#♥#
 
 Dette gjelder selvsagt IKKE i 3 og 4 posisjon når svarer har passet først.
 
 2 over 1 kommer IKKE i effekt i disse situasjonene:
 
-* Etter åpning 1 [black]#&clubs;#, da gjelder normale meldinger.
-* Etter 1 [red]#&diams;# er alle andre svar enn 2 [black]#&clubs;# ikke GF.
+* Etter åpning 1 [black]#♣#, da gjelder normale meldinger.
+* Etter 1 [red]#♦# er alle andre svar enn 2 [black]#♣# ikke GF.
 * Når fienden melder inn eller dobler
 * Etter åpning i 3. og 4. hånd
-

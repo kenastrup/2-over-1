@@ -1,8 +1,11 @@
 = Minor åpning
 
-Minor åpning er beste minor, dvs kan være på tre kort. Etter 1 [black]#♣# finnes ingen 2-over-1 melding. Etter 1 [red]#♦# er det bare 2 [black]#♣# som er 2-over-1.
+Minor åpning er beste minor, dvs kan være på tre kort.
 
-med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
+* Etter 1 [black]#♣# finnes ingen 2-over-1 melding.
+* Etter 1 [red]#♦# er det bare 2 [black]#♣# som er 2-over-1.
+
+Med 3-3 i minor, åpne med 1 [black]#♣#. 1 [red]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
 
 == Svar
 
