@@ -9,22 +9,23 @@
 
 Oppsummert:
 
-* 2 [black]#&clubs;#: Stayman
-* 2 [red]#&diams;#, 2 [red]#&hearts;#, Overføring
-* 2 [black]#&spades;#: Minor stayman
+* 2 [black]#♣#: Stayman
+* 2 [red]#♦#, 2 [red]#♥# , Overføring
+* 2 [black]#♠#: Minor stayman
 * 2 NT: Invitt, normalt uten 4 kort major
 
-=== 2 [black]#&clubs;# Stayman
+=== 2 [black]#♣# Stayman
 
 I dette systemet kan Stayman være en svak melding som søker etter en major tilpass.
 
-* Etter 2 [red]#&diams;# er majormelding svak og minormelding sterk.
-* Etter 2 [red]#&hearts;# er 2 ny spørremelding med naturlige svar
-Etter 2 er 3 ny spørremelding med naturlige svar bortsett fra at 3 viser kløver
+* Etter 2 [red]#♦# er majormelding svak og minormelding sterk.
+* Etter 2 [red]#♥# er 2 [black]#♠# ny spørremelding med naturlige svar
+Etter 2 [black]#♠# er 3 [black]#♣# ny spørremelding med naturlige svar bortsett fra at 3 [red]#♥#
+ viser kløver
 
 
 Dette er stayman.
 
-=== 3 [black]#&clubs;#
+=== 3 [black]#♣#
 Dette er puppet stayman
 

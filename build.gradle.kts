@@ -1,7 +1,9 @@
 import org.asciidoctor.gradle.jvm.AsciidoctorTask
+import org.asciidoctor.gradle.jvm.pdf.AsciidoctorPdfTask
 
 plugins {
     id("org.asciidoctor.jvm.convert") version "3.3.2"
+    id("org.asciidoctor.jvm.pdf") version "3.3.2"
 }
 
 repositories {
@@ -10,10 +12,23 @@ repositories {
 
 tasks {
     "asciidoctor"(AsciidoctorTask::class) {
-        sourceDir("src/docs/asciidoc")
-        baseDirIsRootProjectDir()
-        //outputs.dir("build/docs")
-        //sourceDir = file("docs")
+        sourceDir(file("src/docs/asciidoc"))
+        baseDirFollowsSourceFile()
     }
+    "asciidoctorPdf"(AsciidoctorPdfTask::class) {
+        sourceDir(file("src/docs/asciidoc"))
+        baseDirFollowsSourceFile()
+        setTheme("bridge")
+        //fontsDirs(file("src/docs/fonts/static"))
+    }
+    // "asciidoctorPdf"(AsciidoctorTask::class) {
+    //     sourceDir(file("src/docs/asciidoc"))
+    //     baseDirFollowsSourceFile()
+    // }
 }
 
+pdfThemes {
+    local("bridge" ) {
+        themeDir = file("src/docs/theme")
+    }
+}
