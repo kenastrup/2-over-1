@@ -1,3 +1,22 @@
 = Sperreåpninger
 
-Vi bruker mer aggressive sperreåpninger enn det som er normalt.
+Vi bruker mer aggressive sperreåpninger enn det som er normalt. 5-10(11) hp, avhengig av hva man åpner med. Sone, fargekvalitet og posisjon er viktig.
+
+Svar:
+
+|===
+| melding | beskrivelse
+
+| Ny farge | Naturlig, krav til runde
+| 2 NT | Har du noen ressurser(ess/konge)? Ikke meld av single/renons.
+| Støtte | Ikke krav, kan være svært svak, men følger alltid Loven, vi må ha minst 9 trumf!
+|===
+
+== De melder inn etter sperr.
+
+Doble er for straff, en av de få gangene.
+
+== Aggresivitet
+
+
+

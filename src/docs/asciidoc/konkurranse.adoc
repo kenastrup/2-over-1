@@ -62,16 +62,47 @@ Når makker har passet og vi har 6-kort farge hopp inn! Avhengig av sone selvsag
 
 ==== Etter sterk NT (14+)
 
-DONT (Disturbing Opponents No-Trump)
+De fleste av fiendene har godt definerte NT-meldesekvenser. Det er derfor en forbrytelse å ikke forstyrre de så ofte man kan! Det er mange på lavt nivå som ikke har forsvar mot forsvarsmeldinger mot NT. Selv gode motspillere kommer fort ut på tynn is.
 
+Vi bruker DONT (Disturbing Opponents No-Trump). Det er superenkelt, og effektivt. Det brukes både hvis man sitter rett etter åpner eller i 4 hånd: 1 NT -> Pass -> Pass.
+
+Sone og posisjon er viktig. Vi melder ikke inn på med søppelfarger (feks Qxxx-Jxxx) i sonen.
+
+Fokuset er å finne tilpass, det må ikke være i major. Vi sikter sjelden på utgang.
+
+Tofargehender i denne forbindelsen er minst 4-4.
+
+[cols="1,5"]
 |===
 |melding |beskrivelse
 
-| Doble | En-farge hånd. Makker må melde 2 [black]#♣#
+| D | En-farge hånd. Makker MÅ melde 2 [black]#♣#. Deretter melder Dobler fargen sin
 | 2 [black]#♣# | 2 farge-hånd [black]#♣# og høyere
 | 2 [red]#♦# | 2 farge-hånd, [red]#♦# og høyere
 | 2 [red]#♥# | 2 farge-hånd, hjerter og spar
-| 2 [black]#♠# | Naturlig
+| 2 [black]#♠# | Naturlig, minst 5-kort, hvis man dobler først, makker melder 2 [black]#♣# og man korrigerer til 2 [black]#♠# viser man bedre kort enn å melde 2 [black]#♠# direkte
 |===
 
-TODO: ikke ferdig.
+Regler for videre meldinger:
+
+* Pass med 3+kort i fargen.
+* Meld neste farge med 2-kortsfarge, deretter melder innbryter den andre fargen eller passer hvis den neste fargen er den andre fargen.
+* Hvis innmelding er 2 [red]#♦#, og makker har 4-4 i major, melder man 2 [red]#♥#, og innbryter korrigerer hvis den andre fargen er spar. Pass med 3+ kort.
+* Hvis innmelding er 2 [red]#♥#, prefererer makker med pass eller 2 [black]#♠#.
+* Hvis to-farge DONT meldingen blir doblet: Pass=villig til å spille. RD=meld din andre farge, Ny farge=Jeg vil heller spille i denne fargen (skal alltid passes)!
+
+Husk: Vi er stort sett ikke interessert i utgang. Men hvis man en gang i skuddåret er interessert, kan makker melde 2 NT, hvor innmelder skal vise sin hånd etter følgende metode.
+
+* Hvis innbryter sa 2 [black]#♣#, melder hen 3 [black]#♣# med minimum, den andre fargen med max.
+* Hvis innmelding var 2 [red]#♦# viser 3 [black]#♣#/3 [red]#♦# minimum, og sidefarge i hhv [red]#♥# / [black]#♠# og 3 [red]#♥# / [black]#♠# med max.
+* Hvis innmelding var 2 [red]#♥#, melder man 3 [black]#♣#/[red]#♦# med minimum, samtidig som man viser sin beste farge og 3 [red]#♥# / [black]#♠# med max.
+
+Alle meldingene over må alerteres!
+
+==== Etter svak NT (under 14, feks 13-15 )
+
+|===
+| melding | beskrivelse
+
+| D | God hånd, minst tilsvarende åpner.
+|===

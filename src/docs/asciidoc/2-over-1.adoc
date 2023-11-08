@@ -22,6 +22,9 @@ include::minor-åpning.adoc[]
 include::major-åpning.adoc[]
 
 <<<
+include::oversikt-nt-åpninger.adoc[]
+
+<<<
 include::1NT-åpning.adoc[]
 
 <<<
