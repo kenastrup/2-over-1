@@ -1,4 +1,4 @@
-=== Walsh diamond
+== Walsh diamond
 
 Dette gjelder kun etter 1 [black]#♣# åpning.
 

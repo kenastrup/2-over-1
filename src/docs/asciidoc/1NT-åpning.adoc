@@ -16,7 +16,7 @@
 | 2 [black]#♠# | Overføring til [black]#♣#
 | 2 NT | Overføring til [red]#♦#
 | 3 [black]#♣# | Puppet stayman
-| 3 [red]#♦# / [red]#♥# / [black]#♠# | GF. Splinter med trefarge hånd og single i meldte farge
+| 3 [red]#♦# / [red]#♥# / [black]#♠# | GF. Splinter med trefarge hånd og single i meldte farge. Ikke 5-kort major. Åpner slår fast trumf i neste melding?
 | 3 NT | Spill!
 | 4 [black]#♣# | Gerber
 | 4 [red]#♦# | Texas overføring til [red]#♥# (6+)
@@ -89,6 +89,33 @@ I dette systemet kan Stayman være en svak melding som søker etter en major til
 
 ==== Overføring til major
 
+Etter 1 NT åpning er 2 [red]#♦# / [red]#♥# overføring til Major.
+
+Dette er normale Jacoby transfers. 5 kort og 0+ hp.
+
+===== Svar på overføring
+
+Vi bruker super-overføringer når vi har 4-kort i fargen det overføres til.
+
+|===
+| melding | beskrivelse
+
+| aksept
+| 2-3 kort støtte
+
+| Ny farge
+| max og 4-kort i overføringsfarge og doubleton i fargen
+
+| 2 NT
+| max og 4-3-3-3
+
+| Hopp til overføringsfarge
+| 4-kort støtte, ikke max.
+|===
+
+Hvis overfører ikke er interessert i slem må det overføres på nytt. Hvis han heller ikke er interessert i utgang kan hen også passe re-overføringen. Hvis sleminteresse: Bruk cue-bids.
+
+Andre meldinger etter overføring
 |===
 | sekvens | beskrivelse
 
@@ -119,21 +146,70 @@ I dette systemet kan Stayman være en svak melding som søker etter en major til
 | 1 N -> 2 [red]#♥# -> 2 [black]#♠# - 3 [red]#♥#
 | 5-5 i major. GF
 
-==== Overføring til [black]#♣#
-
-TODO
-
-==== Overføring til [red]#♦#
-
-TODO
 
 |===
 
+==== Overføring til minor
+
+Dette viser som 6+ kort, kan være svak, invitt eller krav.
+
+Åpner godtar overføringen med max og melder meldingen i mellom med minimum.
+
+Overførers videre meldinger unntatt retur til overføringsfargen er naturlig og GF.
+
+
+Eksempler
+
+|===
+| Åpner | overfører
+
+| 1 N | 2 [black]#♠# (overføring til [black]#♣#)
+| 2 N (min) | 3 [black]#♣# (spill)
+|===
+
+|===
+| Åpner | overfører
+
+| 1 N | 2 [black]#♠# (overføring til [black]#♣#)
+| 2 [black]#♣# (max) | 3 [red]#♦# (GF )
+|===
+
+
 === Puppet stayman
+
+1 NT -> 3 [black]#♣# er puppet stayman. Brukes for å finne 4/5 korts major. Minst GF.
+
+Vi bruker "improved puppet", ikke normal puppet.
+
+Puppet stayman bruker vi når vi er på utkikk etter 5-kort major og 5-3 tilpasning. Vanligvis har puppet-melder 3 kort i en eller begge major. I tillegg bør man ha minst en dobbelton eller singleton i tillegg.
+
+Man bruker ikke puppet med 4-4 i major eller 4-3-3-3 hender.
+
+|===
+| melding | beskrivelse
+
+| 3 [red]#♦#
+| Ingen 5-kort major
+
+| 3 [red]#♥# / [black]#♠#
+| 5 kort i meldt farge
+
+| 3 NT
+| eksisterer ikke
+
+|===
+
+==== Etter 1 N -> 3 [black]#♣# -> 3 [red]#♦#
+
+|===
+| 3 [red]#♥# / 3 [black]#♠# | Jeg har 4-kort i den andre majoren!
+| 3 NT
+| Jeg har ikke 4-korts major
+|===
 
 === Gerber
 
-Siden 4 NT stort sett er kvantitativ melding, kan det være kjekt å kunne spørre etter antall ess.
+Siden 4 NT stort sett er kvantitativ melding, etter NT åpning kan det være kjekt å kunne spørre etter antall ess.
 
 Hvis man HOPPER til 4 [black]#♣# etter 1 NT eller 2 NT åpning eller tilsvarende
 
@@ -155,4 +231,43 @@ Eksempler på gerber
 
 | 1 [red]#♦# | 1 [red]#♥#
 | 2 NT | 4 [black]#♣#
+|===
+
+
+== Texas overføring
+Etter åpning 1 NT er
+
+* 4 [red]#♦# = overføring til [red]#♥#
+* 2 [red]#♥# = overføring til [black]#♠#
+
+Videre meldinger.
+
+* 4 NT = RKCB
+* Annet = cue-bids
+
+=== Forsvar mot dobling av SVAK 1 NT. (Hvis vi bruker det)
+
+Vi bruker Nilslands slinklinger hvis fienden dobler 1 NT åpning eller innmelding direkte.
+
+|===
+|melding | beskrivelse
+
+| RD
+| Ber om 2 kl fra NT-melder. Viser en-farge hånd. Makker skal passe neste melding.
+
+| farge
+| meldt farge og fargen over (2 [black]#♠# = [black]#♠# og [black]#♣#)
+
+| pass
+| Krav til RD. +
+  Pass = vil spille 1 NT RD +
+  2 [black]#♣# = [black]#♣# og [red]#♥# +
+  2 [red]#♦# = [red]#♦# og [black]#♠#
+  2 major = invitt med 5+ kort og skjev hånd +
+  2 NT = GF og skjev hånd +
+  3 minor = Invitt og minst to honnører 6-kort
+
+
+
+
 |===
