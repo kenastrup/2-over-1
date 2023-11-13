@@ -1,0 +1,24 @@
+= Svake 2
+
+== Svar på svake 2
+
+
+== The rule of 17:
+Hvis makker åpner i svake 2. Når er vi interessert i utgang? Dette kan man bruke som en tommelfingerregel.
+
+Legg sammen antall hp og antall kort i makkers farge. Hvis du kommer til 17 eller høyere, er du interessert i utgang. Hvis ikke - ikke interessert i utgang.
+
+2 NT spør etter en "feature".
+
+
+
+|===
+| svar | beskrivelse
+
+| gjenta fargen | minimum
+| ny farge | Ikke minimum, viser en feature i fargen
+| 3 NT | Ikke minimum, viser en solid eller extremt god farge.
+
+|===
+
+
