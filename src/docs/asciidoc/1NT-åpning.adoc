@@ -245,7 +245,49 @@ Videre meldinger.
 * 4 NT = RKCB
 * Annet = cue-bids
 
-=== Forsvar mot dobling av SVAK 1 NT. (Hvis vi bruker det)
+=== Forsvar mot innblanding etter 1 NT
+
+==== Innmelding 2 [black]#♣#
+D = Stayman
+
+Alt annet = som normalt.
+
+==== Innmelding 2 [red]#♦# eller høyere og de viser to-farge hånd inkl meldt farge
+
+Dette er https://www.larryco.com/bridge-learning-center/detail/541[Lebensohl]
+
+Her er det et viktig prinsipp. FADS = Fast Arrival Denies Stopper. Det er i effekt ved cue-bid (stayman) og melding 3 NT.
+
+|===
+| melding | beskrivelse
+
+| D
+| Negativ dobling
+
+| 2 i farge
+| Naturlig, ikke krav
+
+| 2 NT
+| https://www.larryco.com/bridge-learning-center/detail/541[Lebensohl]. Makker må melde 3 [black]#♣#. Videre meldinger på 3 trinnet = for spill.
+
+| 3 i farge
+| Naturlig krav til utgang
+
+| Cue-bid
+| Direkte: Stayman, benekter stopper i meldt farge +
+ Via 2 NT: Stayman, viser stopper i meldt farge
+
+| 3 NT
+| Hvis direkte, benekter stopper,
+  Hvis via 2 NT, viser stopper
+|===
+
+
+
+==== Forsvar mot kunstig dobling av sterk NT
+Ignorer hele doblinga, meld som normalt.
+
+==== Forsvar mot straffedobling av SVAK 1 NT. (Hvis vi bruker det)
 
 Vi bruker Nilslands slinklinger hvis fienden dobler 1 NT åpning eller innmelding direkte.
 
@@ -266,8 +308,5 @@ Vi bruker Nilslands slinklinger hvis fienden dobler 1 NT åpning eller innmeldin
   2 major = invitt med 5+ kort og skjev hånd +
   2 NT = GF og skjev hånd +
   3 minor = Invitt og minst to honnører 6-kort
-
-
-
 
 |===
