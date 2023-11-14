@@ -5,7 +5,7 @@ De fleste 2-over-1 brukere bruker Fast Arrival prinsippet når utgangskrav er et
 * Hopp direkte til utgang er den svakeste meldingen.
 * Saktere framgangsmetoder kan være sleminteresse.
 
-For eksempel:
+== Eksempler med støtte
 
 |===
 |Åpner |Svarer
@@ -39,7 +39,44 @@ I begge eksemplene over viser 3-kort støtte, men i siste eksempel også ekstra 
 
 NOTE: Det er vanlig å ikke bruke Fast Arrival til NT. Det må avtales spesifikt. Kan tas senere.
 
-=== Quiz 1
+== Eksempler uten støtte
+
+|===
+| Åpner | Svarer
+
+| 1 [black]#♠# | 2 [black]#♣#
+| 2 [red]#♦# | ?
+|===
+
+|===
+| A | B |C
+
+|[black]#♠# K 8
+|[black]#♠# Q 7
+|[black]#♠# A 7
+
+|[red]#♥# K J 7
+|[red]#♥# 8 7 6
+|[red]#♥# 5 4 2
+
+|[red]#♦# K 8 7
+|[red]#♦# K 2
+|[red]#♦# A Q 2
+
+|[black]#♣# A J 10 8 7
+|[black]#♣# A Q J 10 9 2
+|[black]#♣# A 10 8 7 6
+|===
+
+A. 2NT. Stoppere i umeldte
+B. 3 [black]#♣#. Ekstra lengde
+C. 3 [red]#♦#. Denne er vanskelig. I normale systemer ville man ha meldt 2 [red]#♥# som "kunstig fjerde farge krav". 3 [red]#♦# er nødmelding på 3-kort støtte. Viser vanligvis 4-kort støtte.
+
+Hvis svarer hopper til utgang i _egen_ farge viser det også minimum og sign off. Fast Arrival. Lang farge.
+
+Hva så med hopp til 3 NT? De fleste 2-over-1 brukere bruker ikke Fast Arrival til NT fordi det forstyrrer leting etter tilpass. Men inntil videre kan vi bruke det for konsistens.
+
+== Quiz 1
 
 Hva skal du melde etter:
 |===
