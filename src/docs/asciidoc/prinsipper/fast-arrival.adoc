@@ -158,3 +158,11 @@ Hva melder du etter
 A. 3 [red]#♥#. Tre kort støtte og tillegg
 B. 2 [black]#♠#. 4-kort. Makker kan være 6-4 i major
 C. 4 [red]#♥#. Fast Arrival. 3-kort støtte, minimum
+
+
+== Oppsummering Fast Arrival
+
+* Alle hopp til utgang viser minimumshender, den svakeste meldingen
+* Vi kan også bruke motsatt strategi for hopp til 3 NT. Men det krever ekstra avtaler.
+* Det er vanlig å bruke et unntak for Fast Arrival: 1x -> 2y -> 2z - 3 NT (viser rundt 16-17, altså ekstra. Dette må i såfall avtales som et unntak)
+
