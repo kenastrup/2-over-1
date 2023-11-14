@@ -1,6 +1,123 @@
-= Fast Arrival
+= Fast Arrival prinsippet
 
-Vi bruker Fast Arrival prinsippet.
+De fleste 2-over-1 brukere bruker Fast Arrival prinsippet når utgangskrav er etablert.
 
-Hopp direkte til utgang er den svakeste meldingen. Saktere framgangsmetoder kan være sleminteresse.
+* Hopp direkte til utgang er den svakeste meldingen.
+* Saktere framgangsmetoder kan være sleminteresse.
 
+For eksempel:
+
+|===
+|Åpner |Svarer
+
+|1 [black]#♠#
+|2 [red]#♥#
+
+|2 NT
+|4 [black]#♠#
+|===
+
+|===
+|Åpner |Svarer
+
+|1 [black]#♠#
+|2 [red]#♥#
+
+|2 NT
+|3 [black]#♠#
+|===
+
+Den første meldingssekvensen viser minimum. "Jeg har minimum. Vi har funnet trumf og det er ingen vits å lete etter slem".
+
+NOTE: Åpner kan ha andre planer! Hvis kruttsterk, that is!
+
+I den andre har svarer bedre kort enn i den første, og holder mulighetene åpne for slem. "Jeg har sparstøtte og ekstra verdier, kjør cue-bids / RKC".
+
+NOTE: Det er en viktig regel: Når svarhånden støtter makker i sin andre melding har hun ALLTID 3-kort støtte. Ikke 2-kort. Det er ingen hensikt med farge-preferanse.
+
+I begge eksemplene over viser 3-kort støtte, men i siste eksempel også ekstra verdier.
+
+NOTE: Det er vanlig å ikke bruke Fast Arrival til NT. Det må avtales spesifikt. Kan tas senere.
+
+=== Quiz 1
+
+Hva skal du melde etter:
+|===
+| Åpner | Svarer
+
+| 1 [black]#♠# | 2 [black]#♣#
+| 2 [red]#♦# | ?
+|===
+
+|===
+|A|B|C|D|E
+
+|[black]#♠# Q 2
+|[black]#♠# K 3 2
+|[black]#♠# 5
+|[black]#♠# 8 7
+|[black]#♠# K 7 6
+
+|[red]#♥# A Q J 3
+|[red]#♥# A 5 4
+|[red]#♥# A 2
+|[red]#♥# K J 5
+|[red]#♥# A 2
+
+|[red]#♦# Q 2
+|[red]#♦# A 2
+|[red]#♦# K Q 4 3
+|[red]#♦# K J 7
+|[red]#♦# Q 5 2
+
+|[black]#♣# A 7 6 5 4
+|[black]#♣# K Q J 8 7
+|[black]#♣# A 7 6 5 4 2
+|[black]#♣# A J 7 6 4 
+|[black]#♣# K J 8 7 6
+|===
+
+A. 2 [red]#♥#. Naturlig
+B. 2 [black]#♠#. 3-kort-støtte.
+C. 3 [red]#♦#. Støtt med støtte
+D. 3 NT. Stoppere og flat hånd. Hvis man ikke bruker Fast Arrival til NT (som er vanlig), så melder man 2 NT.
+E. 4 [black]#♠#. 3 kort og minimum
+
+== Quiz 2
+
+Hva melder du etter
+
+|===
+|Åpner |Svarer
+
+|1 [red]#♥#
+|2 [red]#♦#
+
+|2 [red]#♥#
+|?
+|===
+
+
+|===
+| A |B |C 
+
+|[black]#♠# 4 3 
+|[black]#♠# K Q 7 6 
+|[black]#♠# J 4
+
+|[red]#♥# A Q 2 
+|[red]#♥# 2 
+|[red]#♥# J 5 4  
+
+|[red]#♦# A Q J 8 6 
+|[red]#♦# K Q J 8 7 6 
+|[red]#♦# K Q J 10 8 7 
+
+|[black]#♣# Q J 4 
+|[black]#♣# A 2 
+|[black]#♣# A J
+|===
+
+A. 3 [red]#♥#. Tre kort støtte og tillegg
+B. 2 [black]#♠#. 4-kort. Makker kan være 6-4 i major
+C. 4 [red]#♥#. Fast Arrival. 3-kort støtte, minimum
