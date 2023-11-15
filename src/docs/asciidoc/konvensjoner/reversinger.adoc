@@ -1,0 +1,28 @@
+= Reverseringer
+
+Reversering er ikke en konvensjon. Men det må beskrives likevel.
+
+Alle revers meldinger viser ubalansert hånd. Med balansert hånd hopper man i NT.
+
+Revers er aldri på etter 2-over-1.
+
+== Revers
+Revers er når åpner melder
+
+1. i en høyere rangert farge enn første melding.
+2. 1 trinn høyere enn makkers melding
+
+Revers viser ekstra verdier 16+, krav til runde.
+
+Etter åpners revers er
+* egen farge 5+ kort
+* 2 NT krav til runde, ikke noe spesielt å melde. Kan passe neste melding.
+* 3X = verdier, GF
+
+== Hopp revers
+
+Hopp revers er når man hopper i en revers farge: Eksempel:
+1 [red]#♦# -> 1 [red]#♥# -> 2 [black]#♠#.
+
+Det er krav til utgang (19+). Naturlig fortsettelse
+

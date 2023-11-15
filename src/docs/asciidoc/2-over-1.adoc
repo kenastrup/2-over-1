@@ -52,6 +52,9 @@ include::konkurranse.adoc[]
 include::prinsipper.adoc[]
 
 <<<
+include::konvensjoner.adoc[]
+
+<<<
 include::ressurser.adoc[]
 
 :leveloffset: -1

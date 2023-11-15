@@ -18,5 +18,12 @@ Doble er for straff, en av de få gangene.
 
 == Aggresivitet
 
+I prioritert rekkefølge:
 
+* Sone: Gunstig, Ingen, Alle, Ugunstig
+* Posisjon: Tredje, Første, Andre
+* Styrke: Normalt 5-10, kan godt være svakere i aggressive posisjoner
+* Fordeling: I veldig aggressive posisjoner har man vanligvis ett kort mindre enn vanlig
+
+Hva som er veldig aggressive posisjoner må avtales.
 

@@ -1,0 +1,13 @@
+= Konvensjoner
+
+Disse konvensjonene er kjekke å ha i verktøykassa
+
+include::konvensjoner/new-minor-forcing.adoc[levelOffset=+1]
+
+include::konvensjoner/fjerde-farge-krav.adoc[levelOffset=+1]
+
+include::konvensjoner/reversinger.adoc[levelOffset=+1]
+
+include::konvensjoner/OBAR-BIDS.adoc[levelOffset=+1]
+
+include::konvensjoner/uvanlig-balansering.adoc[levelOffset=+1]

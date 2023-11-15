@@ -1,0 +1,24 @@
+= OBAR BIDS
+
+Opponents Bids And Raise - Balancing In Direct Seat.
+
+Hvis fienden har meldt og støttet en major-farge (de har minst 8 tilsamme), er det super-viktig å balansere så raskt som mulig. Den som er kort i deres farge må gripe inn! Selv om man ikke er i den vanlige balanseringsposisjon.
+
+|===
+| Nord | Øst | Syd | Vest
+
+| 1 [red]#♥#
+| P
+| 2 [red]#♥#
+| ?
+|===
+
+
+|===
+| melding | beskrivelse
+
+| 2 [black]#♠# | OK farge, 5+ kort, normalt 6+. Alert! Kan være svak
+| 3X | 6+ kort. Alert! Kan være svak
+| D | 3-farge hånd, kort i deres farge. Alert! Kan være svak.
+|===
+
