@@ -2,6 +2,8 @@
 
 Her er noen diskusjonspunkter. Med mine forslag til svar
 
+TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot denne, jeg skjønner ikke alt]
+
 == 2/1
 1. Er 2/1 100% utgangskrav? Jepp
 1. Hva om fienden melder inn eller noen av oss har passet først? Ikke UK
@@ -113,56 +115,72 @@ Her er noen diskusjonspunkter. Med mine forslag til svar
 1. 5 NT, velg-en-slem? Ja, alltid, unntatt etter RKC.
 1. Hva med renons? Det er et helvete. Ignorer?
 
-==  TODO. kommet hit!
 
+== Motspill
 
-Defense
-Aside from methods, agree on what the primary signal is.   Attitude.
-
-Discuss the "BIG" lead against notrump.   Ace asks for Attitude, King asks for Count/Unblock
-
-Discuss "middle of the hand" plays.  Low from good holding, top of nothing
-
-If using SMITH ECHO, discuss exceptions.  When count takes priority.
-
-What are signals in the trump suit?   Hi-lo wants ruff if possible, otherwise suit preference.
+1. Aside from methods, agree on what the primary signal is.   Attitude.
+1. Discuss the "BIG" lead against notrump.   Ace asks for Attitude, King asks for Count/Unblock
+1. Discuss "middle of the hand" plays.  Low from good holding, top of nothing
+1. If using SMITH ECHO, discuss exceptions.  When count takes priority.
+1. What are signals in the trump suit?  Hi-lo wants ruff if possible, otherwise suit preference.
 
 Other Competition (general)
 
-Parenthesis ( ) denote calls by the opponents:
 
+== Hva betyr dette, videre meldinger?
 
-1) (1?)-P-(1?)-2?
-2) (1?)-P-(1?)-2?
-3) (1?)-P-(1?)-1NT
-4) (1?)-1?-(P)-2?  (and what about 3?--jump-cue?)
-5) (1?)-1?-(P)-New Suit
-6) (1?)-1?-(P)-2?-(Dbl)-?? (What are overcaller's actions?)
-7) They overcall our opening bid with 1NT
-8) If exploring on 3+ level and they double one of our artificial "cue-bids",
+NB! Jeg skjønner ikke dette helt...
 
-   a) What is PASS by the next player?
-   b) What is Redouble by the next player?
-   c) What if the next player bids directly?
-   d) What if the next player passes and the original cue-bidder Redoubles?
-9) They Double our artificial bids such as Stayman or Jacoby Transfers? These 2 are discussed above.
-10) (1?)-X-(P)-2?  : Forcing how high?  What if PH?
-11) 1? (X)  XX : Forcing how high?  What are future doubles?
-12) General default rule for all doubles by our partnership
-13) General default rule for Forcing Passes for our partnership
-14) Extras shown:
-     a) 1? (P) 1?  (2?)  2? ?
-     b) 1?  (1?) X (P)  2? ?
-15)  1? (P)  P  (X):
-    a)  XX
-    b) 1?
-16) 2NT bids: In competition when are they natural, when are they scrambling?
-17) Against artificial bids such as Bergen Raises, Drury or "newfangled" artificial bids/transfer responses/advances, etc.
-18) Versus Michaels and Unusual Notrump
-19) Versus Precision, Artificial 1-of-a-minor openings.
-20) Versus Flannery, Multi, Namyats, Gambling 3NT, other...
-21) We double, they redouble, partner of doubler passes: Example:  (1?)  X  (XX)  Pass
+.De åpner
+[cols=">1,1,1,1,1,5, 5"]
+|===
+| # | De | Vi | De | Vi | hva betyr dette? | Larry says!
 
+|1 | 1 [black]#♣# |  P | 1 [red]#♥# | 2 [black]#♣# | | Naturlig,
+|2 | 1 [black]#♣# | P | 1 [red]#♥# | 2 [red]#♥#  | | Naturlig
+|3 | 1 [black]#♣# |P | 1 [red]#♥# | 1NT | | Naturlig, system på
+|4 | 1 [black]#♣# |1 [red]#♥# | P | 2 [black]#♣# | | Fit-bid 3+, invitt
+|5 | 1 [black]#♣# |1 [red]#♥# | P | 3 [black]#♣# | | Fit-bid 3+, 6-9
+|6 | 1 [black]#♣# |1 [red]#♥# | P | Ny farge | |
+|7 | 1 [black]#♣# |1 [red]#♥# | P | 2 [black]#♣# | |
+| | D | ? | | | Hvilke muligheter har vi her? |
+|8 |1 [black]#♣# |X |P | 2 [black]#♣# | Åpenbart krav, hvor høyt? +
+Hva med PH? |
+| 9 | 1 [black]#♠# | X | XX | P | Hva er neste melding?
+|===
+
+.Vi åpner
+[cols=">1,1,1,1,1,5"]
+|===
+| # | Vi | De | Vi | De | ?
+
+|1 | 1 [black]#♣# | X | XX | | Krav til hvor mye? +
+Hva er framtidige doblinger?
+|2 | 1 [red]#♥# | P | 1 [black]#♠# | 2 [black]#♣# |
+| | 2 [black]#♣# | | | |Ekstra?
+| 3 | 1 [black]#♣# | 1 [black]#♠# | X | P |
+| | 2 [red]#♦# | | | | Ekstra?
+| 4 | 1 [red]#♦# | P |P | X |
+| | XX? | | | |
+| | 1 [red]#♥#? | | | |
+|===
+
+=== Annet
+1. Vi utforsker på 3+ trinn og de dobler vårt kunstige cue-bid? Hva betyr +
+   a. P? +
+   b. XX? +
+   c. Direkte melding +
+   d. Hvis neste spiller passer og cue-biddern XX?
+2. De dobler vår kunstige melding som Stayman, Overføring?
+3. De melder inn etter 1 NT?
+4. Generell standardregel for alle doblinger av oss?
+5. Generell standardregel for kravpass av oss?
+6. 2NT meldinger: I konkurranse, når er de naturlig, og når er det scrambling?
+7. Mot kunstige meldinger som Bergen Raises, Drury osv.
+8. Mot Michaels and Unusual Notrump
+9. Mot presisjon, Kunstige 1 minor åpninger?
+10. Mot Flannery, Multi, Namyats, Sjanse NT, osv?
+|===
 
 Larry's Suggestions:
 

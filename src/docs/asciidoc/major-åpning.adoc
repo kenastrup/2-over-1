@@ -48,6 +48,8 @@ Etter 1 [red]#♥#: TODO
 
 |===
 
+TODO: Two-Way Drury etter PH.
+
 == 1 [red]#♥# -> 1 [black]#♠#
 Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
 
