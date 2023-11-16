@@ -29,7 +29,8 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 Etter 1 [red]#♥#: TODO
 
 | 2 NT
-| 4-kort støtte jevn hånd (ingen single/renons). GF.
+| 4-kort støtte jevn hånd (ingen single/renons). GF. +
+  Etter åpning i 3./4. hånd: Naturlig balansert, invitt, ikke 3-kort støtte.
 
 | 3 [black]#♣#
 | nøyaktig 4 kort støtte. 7-10 hp. Se Bergen raises

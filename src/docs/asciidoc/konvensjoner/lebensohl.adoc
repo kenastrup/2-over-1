@@ -1,0 +1,20 @@
+= Lebensohl
+
+Når vi åpner i 1 NT og vi får direkte innmelding, høyere enn 2 [black]#♣#. 2 [black]#♣# ignorerer vi eller dobler(stayman).
+
+Hensikt: Kunne melde både avslag og kravmeldinger
+
+|===
+| melding | beskrivelse
+
+| D | Negativ D
+| 2 X | Naturlig. Ikke krav. For spill.
+| 2 NT | Makker, du må melde 3 [black]#♣#! Deretter må du passe alle 3-meldinger unntatt Cue!
+| 3 X | UK. Naturlig
+| Cue-bid | Stayman uten stopper i innmeldte farge. UK. FADS.
+| Cue-bid via 2 NT| Stayman med stopper i innmeldte farge.
+| 3 NT | Vil spille 3 NT hvis du har stopper i innmeldt farge, for det har ikke jeg! FADS.
+| 3 NT via 2 NT | Vil spille 3 NT, jeg har stopper!
+|===
+
+Alternativ: Lebensohl overføringer. Avansert.

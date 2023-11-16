@@ -7,6 +7,9 @@
 :leveloffset: +1
 
 <<<
+include::ordliste.adoc[]
+
+<<<
 include::introduksjon.adoc[]
 
 <<<
@@ -53,6 +56,9 @@ include::prinsipper.adoc[]
 
 <<<
 include::konvensjoner.adoc[]
+
+<<<
+include::diskusjonspunkter.adoc[]
 
 <<<
 include::ressurser.adoc[]

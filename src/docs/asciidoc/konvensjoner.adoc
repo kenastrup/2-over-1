@@ -11,3 +11,5 @@ include::konvensjoner/reversinger.adoc[levelOffset=+1]
 include::konvensjoner/OBAR-BIDS.adoc[levelOffset=+1]
 
 include::konvensjoner/uvanlig-balansering.adoc[levelOffset=+1]
+
+include::konvensjoner/lebensohl.adoc[]
