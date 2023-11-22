@@ -27,7 +27,7 @@
 
 === Stayman
 
-I dette systemet kan Stayman være en svak melding som søker etter en major tilpass.
+I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker etter en major tilpass.
 
 |===
 | melding |beskrivelse
@@ -35,6 +35,7 @@ I dette systemet kan Stayman være en svak melding som søker etter en major til
 | 2 [red]#♦# | Ingen 4/5 kort i major
 | 2 [red]#♥# | 4/5 kort [red]#♥#
 | 2 [black]#♠# | 4/5 kort [black]#♠#
+| | Ingen andre meldinger er OK.
 |===
 
 ==== Videre meldinger etter stayman
@@ -104,7 +105,7 @@ Vi bruker super-overføringer når vi har 4-kort i fargen det overføres til.
 | 2-3 kort støtte
 
 | Ny farge
-| max og 4-kort i overføringsfarge og doubleton i fargen
+| max og 4-kort i overføringsfarge og doubleton i fargen som meldes
 
 | 2 NT
 | max og 4-3-3-3

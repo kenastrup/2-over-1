@@ -2,7 +2,7 @@
 
 Disse konvensjonene er kjekke å ha i verktøykassa
 
-include::konvensjoner/doblinger[leveloffset=+1]
+include::konvensjoner/doblinger.adoc[leveloffset=+1]
 
 include::konvensjoner/new-minor-forcing.adoc[levelOffset=+1]
 
