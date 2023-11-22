@@ -8,4 +8,6 @@ include::dobling-støtte.adoc[leveloffset=+1]
 
 include::dobling-responsiv.adoc[leveloffset=+1]
 
+include::dobling-redobling.adoc[leveloffset=+1]
 
+include::dobling-max.adoc[leveloffset=+1]
