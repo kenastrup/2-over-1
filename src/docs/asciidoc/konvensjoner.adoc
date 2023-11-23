@@ -4,14 +4,16 @@ Disse konvensjonene er kjekke å ha i verktøykassa
 
 include::konvensjoner/doblinger.adoc[leveloffset=+1]
 
-include::konvensjoner/new-minor-forcing.adoc[levelOffset=+1]
+include::konvensjoner/new-minor-forcing.adoc[leveloffset=+1]
 
-include::konvensjoner/fjerde-farge-krav.adoc[levelOffset=+1]
+include::konvensjoner/fjerde-farge-krav.adoc[leveloffset=+1]
 
-include::konvensjoner/reversinger.adoc[levelOffset=+1]
+include::konvensjoner/reversinger.adoc[leveloffset=+1]
 
-include::konvensjoner/OBAR-BIDS.adoc[levelOffset=+1]
+include::konvensjoner/OBAR-BIDS.adoc[leveloffset=+1]
 
-include::konvensjoner/uvanlig-balansering.adoc[levelOffset=+1]
+include::konvensjoner/uvanlig-balansering.adoc[leveloffset=+1]
 
-include::konvensjoner/lebensohl.adoc[]
+include::konvensjoner/lebensohl.adoc[leveloffset=+1]
+
+include::konvensjoner/BROMAD.adoc
