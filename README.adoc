@@ -1,0 +1,3 @@
+= 2-over-1
+
+Dette er gitrepo for å generere systemet 2-over-1 som er i bruk av oss.
