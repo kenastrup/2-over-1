@@ -1,0 +1,19 @@
+extends: default
+page:
+    size: A4
+base:
+    font-family: Arial
+role:
+    red:
+        font-color: #ff0000
+    black:
+        font-color: #000000
+font:
+    catalog:
+        merge: false
+        Arial:
+            normal: Arial.ttf
+            italic: Arial Italic.ttf
+            bold: Arial Bold.ttf
+            bold_italic: Arial Bold Italic.ttf
+
