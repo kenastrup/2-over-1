@@ -9,11 +9,25 @@ plugins {
 repositories {
     mavenCentral()
 }
+val asciidoctorExt: Configuration by configurations.creating
+
+dependencies {
+    asciidoctorExt("io.spring.asciidoctor.backends:spring-asciidoctor-backends:0.0.7")
+}
 
 tasks {
     "asciidoctor"(AsciidoctorTask::class) {
         sourceDir(file("src/docs/asciidoc"))
         baseDirFollowsSourceFile()
+        sources("2-over-1.adoc")
+        outputOptions {
+            backends("spring-html")
+        }
+        configurations("asciidoctorExt")
+        // dependencies {
+        //      asciidoctorExt("io.spring.asciidoctor.backends:spring-asciidoctor-backends:0.0.7")
+        // }
+
     }
     "asciidoctorPdf"(AsciidoctorPdfTask::class) {
         sourceDir(file("src/docs/asciidoc"))
@@ -25,7 +39,7 @@ tasks {
 }
 
 pdfThemes {
-    local("bridge" ) {
+    local("bridge") {
         themeDir = file("src/main/resources/themes")
     }
 }
