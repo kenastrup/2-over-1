@@ -17,17 +17,17 @@ dependencies {
 
 tasks {
     "asciidoctor"(AsciidoctorTask::class) {
-        sourceDir(file("src/docs/asciidoc"))
+        sourceDir(file("src/main/asciidoc"))
+        resources {
+            from("src/main/resources/")
+            include("css/**")
+        }
         baseDirFollowsSourceFile()
         sources("2-over-1.adoc")
         outputOptions {
             backends("spring-html")
         }
         configurations("asciidoctorExt")
-        // dependencies {
-        //      asciidoctorExt("io.spring.asciidoctor.backends:spring-asciidoctor-backends:0.0.7")
-        // }
-
     }
     "asciidoctorPdf"(AsciidoctorPdfTask::class) {
         sourceDir(file("src/docs/asciidoc"))

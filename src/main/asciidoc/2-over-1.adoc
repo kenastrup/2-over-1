@@ -5,6 +5,7 @@
 :toc: left
 :sectnums:
 :leveloffset: +1
+:docinfo: shared
 
 TODO: https://bridge-tips.co.il/wp-content/uploads/2012/05/BB10-Larry-Cohens-12.pdf[Larrys 12 conventions]
 TODO: Fit-bids.
