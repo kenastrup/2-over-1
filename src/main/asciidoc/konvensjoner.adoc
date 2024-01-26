@@ -4,7 +4,8 @@ Disse konvensjonene er kjekke å ha i verktøykassa
 
 include::konvensjoner/doblinger.adoc[leveloffset=+1]
 
-include::konvensjoner/new-minor-forcing.adoc[leveloffset=+1]
+//include::konvensjoner/new-minor-forcing.adoc[leveloffset=+1]
+include::konvensjoner/checkback-stayman.adoc[leveloffset+=1]
 
 include::konvensjoner/fjerde-farge-krav.adoc[leveloffset=+1]
 

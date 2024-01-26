@@ -1,4 +1,4 @@
-extends: default
+extends: default-with-font-fallbacks
 page:
     size: A4
 base:

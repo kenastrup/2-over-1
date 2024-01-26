@@ -1,0 +1,62 @@
+= Checkback stayman
+
+Brukes bare etter 1 X - 1 major - 1 NT.
+
+Brukes IKKE etter 1 [black]#♣# - 1 [red]#♦#!
+
+Regler:
+
+1. Når vi kan bruke checkback, så er det _eneste_ kravmelding. Alle andre meldinger kan passes!
+1. Hvis man har både 3-kort støtte til makker og 4-kort i andre major: prioriteres støtte!
+1. Hvis åpning er 1 [red]#♥# er svarene litt annerledes
+1. checkback er på også av passet hånd, men det finnes ikke lenger krav-sekvenser, alt blir invitt
+
+Eksempler:
+
+* 1 [red]#♦# - 1 [black]#♠# +
+  1 NT - 3 [red]#♥#: +
+  Ikke krav siden checkback ikke ble brukt.
+* 1 [black]#♣# - 1 [black]#♠# +
+  1 NT - 2 [black]#♣# +
+  2 [red]#♦# - 2 [black]#♠# +
+  Ikke krav, selv om checkback var i bruk.
+
+Svar etter prioritet:
+|===
+| Svar | minor-åpning | major-åpning
+
+| 2 i makkers major | 3-kort støtte | 3-kort støtte
+| 2 i andre major | 4-kort | 5 gode hjerter
+| 2 [red]#♦# | Har ikke 3-kort støtte eller 4-kort i andre major | 5 dårlige/middels kort
+|===
+
+== Videre meldinger etter checkback
+
+1. Melding av egen major, ganske svak invitt og basert på fordeling
+1. 1 [black]#♣# - 1 [black]#♠# +
+   1 NT - 2 [black]#♣# +
+   2 [red]#♦# - 2 -[red]#♥#
+   5-4 og ganske svak. Hvis makker kunne støtte, kunne det ha vært interesse for utgang. Velg major
+1. Støtte av major på 3-trinnet: invitt
+1. Støtte av minor på 3-trinnet: GF, var på utkikk etter 4 i andre major.
+1. resten av 3-trinnet: GF
+1. 4. trinnet etter støtte fra makker: cue-bid og slem-interesse
+1. 2 NT: invitt
+
+== Fienden forstyrrer etter checkback
+
+Hvis de melder inn på 1-trinnet er checkback på. Cue-bid på 2-trinnet viser single/renons i fargen deres
+
+Hvis de dobler 1 NT. XX er interesse for å straffe de. Alle doblinger etter det blir straff. 2 [black]#♣# er fortsatt checkback
+
+
+
+== Hvis man ikke melder 2 [black]#♣# checkback
+
+1. Hopp til 3 [black]#♣# viser 6+ kort [black]#♣# + 4 i major, ikke interessert i utgang. Må passes
+1. Alle andre hopp/revers/NT er invitt
+1. Hopp i ny fargeviser minst 5-5 i fargene og invitt
+1. Resterende meldinger er svak og ikke interessert i utgang
+1. 1 minor - 1 [black]#♠# +
+   1 NT - 2 [red]#♥#
+   Viser 5-5 i major og svak. med 5-4 bruker man checkback
