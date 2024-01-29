@@ -1,0 +1,32 @@
+= Forsvar mot sjanse-NT (3 NT åpning)
+
+Skaff alltid info om det kan/må være side kontrollere.
+
+|===
+| Melding | Beskrivelse
+
+| X
+| Jeg har en ganske god hånd. Kan være balansert, semi-balansert eller noe annet. Inn må man jo.
+
+| 4 [black]#♣# / 4 [red]#♦#
+| Ripstra. Jeg har lengde i begge major, Dette er min beste minor.
+
+| 4 [red]#♥# / 4 [black]#♠# / 5 [black]#♣# / 5 [red]#♦#
+| Jeg har god lang farge. Vi må ta en sjanse!
+|===
+
+
+== Ripstra
+
+Med lengde i begge major (5-5ish) og OK farger melder man sin beste minor.
+
+.eksempel
+[black]#♠# KJxxx [red]#♥# KQxxx [red]#♦# AQ [black]#♣# x
+
+Meld 4 [red]#♦#
+
+Makker korrigerer deretter til major eller minor-kontrakt.
+
+== Utspill
+
+Hvis man har et Ess kan det være lurt å spille det ut mot sjanse-NT, da kan man se de svake punktene i bordet å angripe de.

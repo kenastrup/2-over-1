@@ -1,5 +1,7 @@
 = Hva skjer etter 2/1 åpning?
 
+OBSOLETE: tatt inn i introduksjon
+
 Når vi har etablert utgangskrav er det ikke lenger noen fare for at noen skal passe under utgang. Det er derfor ikke noen vits å hoppe uten god grunn.
 
 == Åpners gjenmelding

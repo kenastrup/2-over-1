@@ -1,0 +1,59 @@
+= Åpning 3 NT a.k.a. sjanse-NT
+
+Viser solid 7 eller 8-kortsfarge i minor uten sidekontroller (A/K).
+minst AKQxxxx. Hvis makker har en i minoren, har vi 7/8 stikk i den fargen
+
+Sone er irrelevant.
+
+3 NT hånden skal ikke melde videre uten å bli spurt. Hånden er ferdigbeskrevet. Svarhånden blir alltid kaptein.
+
+Svarhånden bør ha stoppere i de tre andre fargene for å la den stå, hvis ikke blir det gambling.
+
+== Svar
+[cols="1,4"]
+|===
+| melding | beskrivelse
+
+| 4 [black]#♣# | "Jeg tør ikke 3 NT", pass eller ta ut i ruter
+| 4 [red]#♦# | Har du singleton? +
+               4 [red]#♥# = single [red]#♥# +
+               4 [black]#♠# = single [black]#♠# +
+               4 NT = single minor +
+               5 [black]#♣# = ingen single
+| 4 [black]#♠# | Sign-off i egen langfarge
+| 4 [black]#♠# | Sign-off i egen langfarge
+| 4 NT | Sleminvitt. "Vi har 11 stikk med dine 7 stikk! Har du et stikk ekstra?" +
+         Pass = nei +
+         6 minor = Ja!
+| 5 NT | "Jeg er tom i minorfargen, men vi kan spille 7 i minor hvis du har en solid farge helt selv." +
+          6 [black]#♣# / 6 [red]#♦# = Jeg har AKQxxxx, +
+          7 [black]#♣# / [red]#♦# = Jeg har AKQJxxx/AKQxxxxx
+| 6 [black]#♣# / [red]#♦# | Vi flesker til! Du korrigerer til riktig minor om nødvendig
+|===
+
+== 4 [red]#♦# Har du singleton?
+Hvorfor spørre om single med 4 [red]#♦#?
+
+.Eksempel
+
+[black]#♠# AKQx
+[red]#♥# xxxx
+[red]#♦# AKQx
+[black]#♣# xxx
+
+|===
+| Åpner | Svarer
+
+| 3 NT | 4 [red]#♦#
+| 4 [red]#♥# | 6 [black]#♣#
+|===
+
+med single hjerter står 6 [black]#♣#.
+
+Hva gjør åpner hvis han har en (usannsynlig) renons?
+Hvis makker melder 6, hadde du korrekt kortfarge, korriger til 7!
+
+== Hvis fienden forstyrrer
+
+Siden 3 NT åpner har beskrevet sin hånd, er det svarhånden som er kaptein og må ta avgjørelsene, enten de melder inn eller dobler.
+

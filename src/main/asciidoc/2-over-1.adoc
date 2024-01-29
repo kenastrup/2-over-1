@@ -19,8 +19,9 @@ include::introduksjon.adoc[]
 <<<
 include::åpninger.adoc[]
 
-<<<
-include::etter-2-over-1.adoc[]
+//<<<
+// OBSOLETE tatt inn i introduksjon
+//include::etter-2-over-1.adoc[]
 
 <<<
 include::eksempler-2-over-1.adoc[]
@@ -45,6 +46,9 @@ include::2kl-åpning.adoc[]
 
 <<<
 include::svake-to.adoc[]
+
+<<<
+include::3-NT-åpning.adoc[]
 
 <<<
 include::sperreåpninger.adoc[]

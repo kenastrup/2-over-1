@@ -1,5 +1,7 @@
 = Roman KeyCard Blackwood
 
+> Vurdere Kickback? Jeg tror det.
+
 4 NT spør etter antall key cards når trumf åpenbart er avtalt.
 
 Det er 5 keycards: Alle essene og trumfkongen.
@@ -7,10 +9,34 @@ Det er 5 keycards: Alle essene og trumfkongen.
 Vi bruker 1430 varianten ( første trinn viser 1 eller 4, andre trinn viser 3 eller 0). Fordi ett keycard er mest vanlige svaret.
 
 |===
-| 5 [black]#♣# | 1 eller 4
-| 5 [red]#♦# | 0 eller 3
-| 5 [red]#♥# | 2 uten trumf Q
-| 5 [black]#♠# | 2 med trumf Q
+| steg | beskrivelse
+
+| 1 | 1 eller 4
+| 2 | 0 eller 3
+| 3 | 2 uten trumf Q
+| 4 | 2 med trumf Q
+|===
+
+== Har du trumfdama?
+
+Etter steg 1 og 2 bruker vi billigste nye fargen som spm etter trumf dama.
+
+Svar: Hvis du IKKE har dama melder man trumf, hvis du har dama viser du det med å kontrollmelde billigste konge
+
+== 5 NT
+Vi har alle essene, og jeg har kontroll på trumfdama, eller er ikke interessert i den.
+
+Meld billigste konge!
+
+Deretter er ny farge unntatt trumf spm etter spesifikk konge. Meld 7 med konge, 6 uten konge.
+
+|===
+| Melding | ?
+| 6 [black]#♣# | Jeg har [black]#♣# K
+| 6 [red]#♦# | Jeg har [red]#♦# K, benekter [black]#♣#
+| 6 [red]#♥# | Jeg har [red]#♥# K, har ikke [black]#♣#/[red]#♦#
+| 6 [black]#♠# | Jeg har ingen konger!
+
 |===
 
 == Ved innblanding
@@ -19,4 +45,4 @@ Hvis de melder inn eller dobler bruker vi DOPI/ROPI (Doble=0, Pass=1) Doble er 0
 
 == Når bruker man IKKE RKC?
 
-Når man har en hånd med 2 raske tapere. Da er det bedre å bruke kontrollmeldinger (aka cue-bids)
+Når man har en hånd med 2 raske tapere. Da er det bedre å bruke kontrollmeldinger (aka cue-bids), eventuelt i kombinasjon med RKC

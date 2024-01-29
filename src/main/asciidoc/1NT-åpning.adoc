@@ -101,7 +101,7 @@ Vi bruker super-overføringer når vi har 4-kort i fargen det overføres til.
 |===
 | melding | beskrivelse
 
-| aksept
+| aksept på 2-trinnet
 | 2-3 kort støtte
 
 | Ny farge
@@ -114,7 +114,7 @@ Vi bruker super-overføringer når vi har 4-kort i fargen det overføres til.
 | 4-kort støtte, ikke max.
 |===
 
-Hvis overfører ikke er interessert i slem må det overføres på nytt. Hvis han heller ikke er interessert i utgang kan hen også passe re-overføringen. Hvis sleminteresse: Bruk cue-bids.
+Hvis overfører ikke er interessert i slem må det overføres på nytt. Hvis han heller ikke er interessert i utgang kan hen også passe re-overføringen. Hvis sleminteresse: Bruk kontrollmeldinger.
 
 Andre meldinger etter overføring
 |===
