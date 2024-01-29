@@ -4,51 +4,62 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 
 == Svar etter 1 major
 
-[cols="1, 6"]
+[cols="1, 2, 2, 2, 2"]
 |===
-| melding | beskrivelse
+| melding | 1 [red]#♥# | 1 [black]#♠# | PH 1 [red]#♥# | PH 1 [black]#♠#
 
 | 1 [black]#♠#
-| naturlig 6+
+| 4-kort+ 6+
+| -
+| 4-kort+, 6+
+| -
 
 | 1 NT
-| 1 NT forcing. Alltid krav til runde
+4*| 1 NT forcing
 
 | 2 [black]#♣#
-| 2/1 4+ kort
+2*| 2/1 4+ kort
+2*| 3+ støtte, Drury
 
 | 2 [red]#♦#
-| 2/1 4+ kort
+2*| 2/1 4+ kort
+2*| 4+ kort 10+
 
 | 2 [red]#♥#
-| Etter 1 [red]#♥#: 3 kort støtte 7-10 +
-  Etter 1 [black]#♠#. 2/1. 5+ kort
+| 3-kort støtte 7-10
+| 2/1. 5+ kort
+| 3-kort støtte 7-9
+| 5+ kort 10+
 
 | 2 [black]#♠#
-| Etter 1 [black]#♠#: Nøyaktig 3 kort Støtte. +
-Etter 1 [red]#♥#: TODO
+| TODO
+| 3-kort støtte 7-10
+| SPLimit. 4+ kort støtte, single/renons
+| 3-kort Støtte 7-9
 
 | 2 NT
-| 4-kort støtte jevn hånd (ingen single/renons). GF. +
-  Etter åpning i 3./4. hånd: Naturlig balansert, invitt, ikke 3-kort støtte.
+2*| 4-kort støtte bal. GF.
+| TODO. Ingenting fornuftig?
+| SPLimit 4+støtte, har single/renons
 
 | 3 [black]#♣#
-| nøyaktig 4 kort støtte. 7-10 hp. Se Bergen raises
+4*| nøyaktig 4 kort støtte. 10-12 hp. Bergen raises
 
 | 3 [red]#♦#
-| nøyaktig 4 kort støtte 10-12 hp. Se Bergen raises
+4*| 4 kort  7-10 hp. Bergen
 
 | 3 [red]#♥#
-| Etter 1 [red]#♥#: Nøyaktig 4 kort støtte 0-6 hp +
-  Etter 1 [black]#♠# tvetydig splinter
+| Nøyaktig 4 kort støtte 0-6 hp
+| Tvetydig splinter
+2*| Nøyaktig 4-kort støtte, 0-6
 
 | 3 [black]#♠#
-| Etter 1 [black]#♠#: nøyaktig 4 kort støtte 0-6 hp +
-  Etter 1 [red]#♥#: tvetydig splinter
-
+| tvetydig splinter
+| nøyaktig 4 kort støtte 0-6 hp +
+| TODO
+| nøyaktig 4 kort støtte 0-6 hp +
 |===
 
-TODO: Two-Way Drury etter PH.
 
 == 1 [red]#♥# -> 1 [black]#♠#
 Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
@@ -138,3 +149,4 @@ Udefinert single/renons
   Ingen single/renons
 |===
 
+include::konvensjoner/drury.adoc[leveloffset+=1]

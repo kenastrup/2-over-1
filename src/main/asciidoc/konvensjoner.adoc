@@ -17,4 +17,6 @@ include::konvensjoner/uvanlig-balansering.adoc[leveloffset=+1]
 
 include::konvensjoner/lebensohl.adoc[leveloffset=+1]
 
-include::konvensjoner/BROMAD.adoc
+include::konvensjoner/BROMAD.adoc[]
+
+include::konvensjoner/cue-bid-limit-raise-or-better.adoc[]

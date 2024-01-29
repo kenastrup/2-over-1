@@ -1,0 +1,26 @@
+= Cue bid - limit raise or better
+
+|===
+| Brukes | Vi har åpnet og fienden melder inn
+| Viser | 3+ støtte og minst limit raise
+|===
+
+Eksempel
+|===
+| Åpner | fi | Svarer | fi
+
+| 1 [red]#♥#
+| 1 [black]#♠#
+| 2 [black]#♠#
+| -
+|===
+
+Husk, limit raise eller bedre.
+
+1. Vi er ikke i GF, det er sjelden.
+2. Ikke ta vilkårlige beslutninger på egen hånd
+Svakeste melding er retur til vår farge: ikke interessert i utgang hvis limit raise
+3. Meldinger under 3 i vår farge er invitt+
+4. Hvis åpner melder på 4-trinnet (slem-invitt), må LROB melder avslå med limit raise, selv med tilgjengelig cue-bid.
+5. Åpner må ikke avslå i utgang for tidlig. Husk det kan være krav-verdier. Cue-bids bør sitte løst.
+6. Med minimum og kjedelig hånd kan man melde utgang.q'

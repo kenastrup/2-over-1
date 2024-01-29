@@ -16,3 +16,7 @@ Vi bruker 1430 varianten ( første trinn viser 1 eller 4, andre trinn viser 3 el
 == Ved innblanding
 
 Hvis de melder inn eller dobler bruker vi DOPI/ROPI (Doble=0, Pass=1) Doble er 0/3. Pass 1/4, deretter 2 uten trumf Q og 2 med trumf Q
+
+== Når bruker man IKKE RKC?
+
+Når man har en hånd med 2 raske tapere. Da er det bedre å bruke kontrollmeldinger (aka cue-bids)
