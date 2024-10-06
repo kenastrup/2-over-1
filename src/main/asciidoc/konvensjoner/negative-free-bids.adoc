@@ -1,0 +1,45 @@
+= Negative Free Bids (NFB)
+
+|===
+| Brukes | Vi har åpnet og fienden melder inn med en en-farge hånd, ikke Michaels/Unusual mv. Makkeren melder ny farge på 2 og 3 trinnet.
+| NB | Ny farge på en trinnet og 4-trinnet er krav
+| Viser | Egen 5+ farge, ikke krav. Vanligvis 5-10hp ikke spesielt oppmuntrende. Avhengig av posisjon kan man ha så lite som 3 og opptil 11hp
+|===
+
+== Eksempler på NFB
+|===
+| Makker | RHO | Du
+
+| 1 [red]#♦# | 1 [black]#♠# | 2 [red]#♥#
+| 1 [red]#♥# | 2 [black]#♣# | 2 [black]#♠#
+| 1 [black]#♠# | 3 [black]#♣# | 3 [red]#♥#
+| 1 [black]#♣# | 3 [red]#♦# | 3 [red]#♥#
+| 1 [black]#♣# | 1 [black]#♠# | 2 [red]#♦#
+| you | get | the point...
+|===
+
+== Ikke NFB
+
+|===
+| Makker | RHO | Du | Hvorfor
+
+| 1 [red]#♦# | 1 [red]#♥# | 1 [black]#♠# | 1-trinnet
+| 1 [black]#♣# | 3 [red]#♥# | 4 [black]#♣# | 4-trinnet
+| 1 [black]#♣# | 2 [black]#♣#* | 2 [red]#♦# | Michaels (2 farge hånd)
+| you | get | the point...
+|===
+
+== For sterk for NFB
+
+Da må vi doble negativt, for så å melde egen farge:
+
+|===
+| # | Makker | RHO | Du | LHO
+
+| 1 | 1 [red]#♥# | 1 [black]#♠# | X | Pass
+| | 2 [black]#♣# | Pass | 2 [red]#♦# |
+| 2 | 1 [black]#♠# |2 [black]#♣# | X | Pass
+| | 3 [red]#♦# | Pass | 3 [red]#♥# |
+|===
+
+NB! Negativ
