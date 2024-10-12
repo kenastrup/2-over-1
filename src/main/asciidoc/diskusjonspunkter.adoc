@@ -5,124 +5,124 @@ Her er noen diskusjonspunkter. Med mine forslag til svar
 TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot denne, jeg skjønner ikke alt]
 
 == 2/1
-1. Er 2/1 100% utgangskrav? Jepp
-1. Hva om fienden melder inn eller noen av oss har passet først? Ikke UK
-1. Er 1 [red]#♦# -> 2 [black]#♣# UK, og i såfall hva er videre meldinger? Ja. Åpner viser 4-kort major hvis hen har det.
-1. Viser disse meldingene ekstra verdier/styrke?
-    a. 1 [red]#♥# - 2 [black]#♣# - 2 [black]#♠#?  Nei.
-    b. 1 [red]#♥# - 2 [red]#♦# - 2 NT? Nei
-    c. 1 [red]#♥# - 2 [red]#♦# - 3 [black]#♣#? Nei
-1. Hvis åpner hopper i egen farge 1 [red]#♥# - 2 [black]#♣# - 3 [red]#♥#? Solid farge, ikke helt minimum.
-1. Hva er åpners hopp-skift? (1 [red]#♥# - 2 [black]#♣# - 3 [red]#♦#)?   Splinter
-1. Hva er standard gjenmelding or en balansert minimumshånd _uten_ stopper i en umeldt farge?
+. Er 2/1 100% utgangskrav? Jepp
+. Hva om fienden melder inn eller noen av oss har passet først? Ikke UK
+. Er 1 [red]#♦# -> 2 [black]#♣# UK, og i såfall hva er videre meldinger? Ja. Åpner viser 4-kort major hvis hen har det.
+. Viser disse meldingene ekstra verdier/styrke?
+.. 1 [red]#♥# - 2 [black]#♣# - 2 [black]#♠#?  Nei.
+.. 1 [red]#♥# - 2 [red]#♦# - 2 NT? Nei
+.. 1 [red]#♥# - 2 [red]#♦# - 3 [black]#♣#? Nei
+. Hvis åpner hopper i egen farge 1 [red]#♥# - 2 [black]#♣# - 3 [red]#♥#? Solid farge, ikke helt minimum.
+. Hva er åpners hopp-skift? (1 [red]#♥# - 2 [black]#♣# - 3 [red]#♦#)?   Splinter
+. Hva er standard gjenmelding or en balansert minimumshånd _uten_ stopper i en umeldt farge?
   For example:  [black]#♠# AJ2 [red]#♥# KJ876 [red]#♦# 876  [black]#♣# KJ etter 1 [red]#♥# - 2 [black]#♣# - ? ?  Ikke meld 2 NT uten stoppere. Ikke gjenmeld en dårlig 5-kortsfarge. Noen ganger har man ikke noen god melding og må lyge.
-1. Hva er hopp til utgang?  Fast Arrival - Svakeste melding.
-1.Er 1M - 1 NT, etterfulgt av hopp i ny farge, etterfulgt av svarhåndens 4 M støtte limit raise?? Ja (3M er tvetydig - Vanligvis preferanse).
+. Hva er hopp til utgang?  Fast Arrival - Svakeste melding.
+.Er 1M - 1 NT, etterfulgt av hopp i ny farge, etterfulgt av svarhåndens 4 M støtte limit raise?? Ja (3M er tvetydig - Vanligvis preferanse).
 
 == Etter vår 1 NT åpning:
 
-1. Avhengig av hvor nøyaktig vi vil være, må alle svar på Stayman diskuteres (f.eks. 1 N - 2 [black]#♣# - 2 [red]#♦# - 2 M og 1 N - 2 [black]#♣# - 2 X - 3 Y). Det er flere muligheter her.
-1. Hvis de dobler Stayman? XX=Spill.
-    a. Pass=Ingen kløverstopper, Stayman-melderen Redobler for ny Stayman. Direkte svar viser kløverstopper. (Rask svar viser; vanlig for Lebensohl-brukere.  NB: Noen bruker "direkte benekter kløverstopp" med Lebensohl -- men den bør snus om for at riktig hånd skal bli spillefører, stopperen er beskyttet i utspill).
-1. Hvis de dobler overføring?
-    a. Pass = 2-kort støtte.
-    a. XX = 3-kort støtte og max.
-    a. Gjennomføre overføring = 3-/ 4-kort støtte, minimum.
-    a. Alt annet = 4-kort støtte, max. Vær forsiktig hvis vi bruker XX som beskrevet, slik at vi ikke ender opp med å passe overføringen redoblet.
-1. Videre meldinger etter overføring - endrer det seg med en passet hånd?
-    a. Ny farge = UK (selv med passet hånd).
-    a. Overføring, så ny farge på 4-trinnet = splinter.
-    a. Overføring deretter 4M = balansert sleminvitt (6-3-2-2). Husk at vi kan bruke Texas for å lande i utgang.
-1. Hvis åpner dobler etter deres innmelding (f.eks. 1N - P - 2 [black]#♣# 2 [red]#♥# - D? Takeout.
-1. Hva viser D av svarhånd (f.eks. 1 N - P - P - 2 [black]#♠# - P - P - D enten direkte eller i balanseringsposisjon? Kort
-1. Hva er åpners D hvis de balanserer (1 N - P - P - 2 [black]#♠# - D? Takeout
-1. Hva gjør vi hvis de bruker kunstige innmeldinger? Vet ikke.
-1. Forskjell på Jacoby overføring og Texas?
- a. Texas - deretter 4 NT = RKC. Texas slår fast trumf!
- b. Jacoby - deretter 4 NT = kvantitativt.
-1. Bruker vi Texas etter 1N - 2 [black]#♣# - 2 [red]#♦#? Ja. "Utvidet Texas". Hopp til 4 [red]#♦#/[red]#♥# viser da 6-4 i major.
-1. Hvordan håndterer vi innmelding 2 [black]#♣#? D = stayman, ellers som normalt (overføring, 2NT, puppet stayman)
+. Avhengig av hvor nøyaktig vi vil være, må alle svar på Stayman diskuteres (f.eks. 1 N - 2 [black]#♣# - 2 [red]#♦# - 2 M og 1 N - 2 [black]#♣# - 2 X - 3 Y). Det er flere muligheter her.
+. Hvis de dobler Stayman? XX=Spill.
+.. Pass=Ingen kløverstopper, Stayman-melderen Redobler for ny Stayman. Direkte svar viser kløverstopper. (Rask svar viser; vanlig for Lebensohl-brukere.  NB: Noen bruker "direkte benekter kløverstopp" med Lebensohl -- men den bør snus om for at riktig hånd skal bli spillefører, stopperen er beskyttet i utspill).
+. Hvis de dobler overføring?
+.. Pass = 2-kort støtte.
+.. XX = 3-kort støtte og max.
+.. Gjennomføre overføring = 3-/ 4-kort støtte, minimum.
+.. Alt annet = 4-kort støtte, max. Vær forsiktig hvis vi bruker XX som beskrevet, slik at vi ikke ender opp med å passe overføringen redoblet.
+. Videre meldinger etter overføring - endrer det seg med en passet hånd?
+.. Ny farge = UK (selv med passet hånd).
+.. Overføring, så ny farge på 4-trinnet = splinter.
+.. Overføring deretter 4M = balansert sleminvitt (6-3-2-2). Husk at vi kan bruke Texas for å lande i utgang.
+. Hvis åpner dobler etter deres innmelding (f.eks. 1N - P - 2 [black]#♣# 2 [red]#♥# - D? Takeout.
+. Hva viser D av svarhånd (f.eks. 1 N - P - P - 2 [black]#♠# - P - P - D enten direkte eller i balanseringsposisjon? Kort
+. Hva er åpners D hvis de balanserer (1 N - P - P - 2 [black]#♠# - D? Takeout
+. Hva gjør vi hvis de bruker kunstige innmeldinger? Vet ikke.
+. Forskjell på Jacoby overføring og Texas?
+.. Texas - deretter 4 NT = RKC. Texas slår fast trumf!
+.. Jacoby - deretter 4 NT = kvantitativt.
+. Bruker vi Texas etter 1N - 2 [black]#♣# - 2 [red]#♦#? Ja. "Utvidet Texas". Hopp til 4 [red]#♦#/[red]#♥# viser da 6-4 i major.
+. Hvordan håndterer vi innmelding 2 [black]#♣#? D = stayman, ellers som normalt (overføring, 2NT, puppet stayman)
 
 == Etter vår 1 [black]#♣# / [red]#♦# åpning
 
-1. Hva er hopp-skift? Tilpasning og sidefarge. TODO
-1. Hva endrer seg med en passet hånd? fit (minst 3) og sidefarge
-1. Hvordan gjør vi sterk støtte? Omvendt minor-høyning
-1. Hva er 2 NT / 3 NT svar?  2N=11-12   3N=13-15
-1. Walsh? Ja.
-1. Etter 2 NT gjenmelding? New minor Forcing
+. Hva er hopp-skift? Tilpasning og sidefarge. TODO
+. Hva endrer seg med en passet hånd? fit (minst 3) og sidefarge
+. Hvordan gjør vi sterk støtte? Omvendt minor-høyning
+. Hva er 2 NT / 3 NT svar?  2N=11-12   3N=13-15
+. Walsh? Ja.
+. Etter 2 NT gjenmelding? New minor Forcing
 
 == Etter vår 1 [red]#♥# / [black]#♠# åpning
 
-1. Vanlig eller modifisert Jacoby 2NT? Modifisert
-1. Hva er 2 NT og andre meldinger fra en passet hånd? Naturlig
-1. Hva er hopp i ny farge etter passet hånd? Fit
-1. Bruker vi Bergen Raises - Er de på hvis fienden forstyrrer? TODO
-1. Er 1 [black]#♠# - 4 [red]#♥# splinter? TODO
-1. 1 NT svar og videre meldinger? Absolutt krav eller halv-krav? Vi kan passe med 5-3-3-2 og minimum
+. Vanlig eller modifisert Jacoby 2NT? Modifisert
+. Hva er 2 NT og andre meldinger fra en passet hånd? Naturlig
+. Hva er hopp i ny farge etter passet hånd? Fit
+. Bruker vi Bergen Raises - Er de på hvis fienden forstyrrer? TODO
+. Er 1 [black]#♠# - 4 [red]#♥# splinter? TODO
+. 1 NT svar og videre meldinger? Absolutt krav eller halv-krav? Vi kan passe med 5-3-3-2 og minimum
 
 == Etter sterk 2 [black]#♣#
 
-1. Kan vi stoppe under utgang? Kun etter 2 [red]#♦# og andre negativ og åpner repeterer sin farge på 3-trinnet, eller åpner melder 2 NT som andre melding
+. Kan vi stoppe under utgang? Kun etter 2 [red]#♦# og andre negativ og åpner repeterer sin farge på 3-trinnet, eller åpner melder 2 NT som andre melding
 
-1. Innblanding -  Hvis de melder inn, hva er svarhåndens D? 0-3, Pass=UK
+. Innblanding -  Hvis de melder inn, hva er svarhåndens D? 0-3, Pass=UK
 
-1. Åpners D? Takeout/Gode kort
+. Åpners D? Takeout/Gode kort
 
-1. Hvis de doble 2 [black]#♣# for å vise [black]#♣#? Pass=0-3. Alt annet=UK. RD=Business
+. Hvis de doble 2 [black]#♣# for å vise [black]#♣#? Pass=0-3. Alt annet=UK. RD=Business
 
 == Etter vår svake 2
 
-1. Etter innblanding, er 2 NT fortsatt spørsmål etter "features"? Ja.
-1. Er dobling fra svarhånd straff? Ja
-1. Etter 2M - P - 2 NT - innmelding, Hva gjør åpner? Pass=min, D = 3+ kort i deres farge (straffeforslag)
+. Etter innblanding, er 2 NT fortsatt spørsmål etter "features"? Ja.
+. Er dobling fra svarhånd straff? Ja
+. Etter 2M - P - 2 NT - innmelding, Hva gjør åpner? Pass=min, D = 3+ kort i deres farge (straffeforslag)
 
 == Andre konvensjonelle meldinger
 
-1. Fjerde farge - er det UK? Alltid
-1. Fjerde farge av passet hånd? Naturlig, ikke krav.
+. Fjerde farge - er det UK? Alltid
+. Fjerde farge av passet hånd? Naturlig, ikke krav.
 
-1. Ny minor - Hva bruker vi etter 1 NT gjenmelding? New Minor Forcing (eller 2-veis Checkback)
-1. Ny minor i bruk av passet hånd? Nei. I konkuranse? Nei
-1. Hopp i fjerde fare (1 [red]#♥# - 1 [black]#♠# - 2 [black]#♣# - 3 [red]#♦#?  Naturlig, Invitt
-1. Alle hopp i konkurranse er? Svake
-1. Reverseringer? Svarhåndens gjenmelding av egen farge = 5+ kort, rundekrav. Billigste av 2 NT og 4. farge = potensiell avslag. Alt annet UK.
-1. Seriøs 3 NT åpning? Absolutt ikke
-1. Er 2 NT kunstig i disse situasjonene? 1M - 2M - 2N eller 1m - 1M - 2M - 2N? Ja. Krav, kunstig, spørsmål
+. Ny minor - Hva bruker vi etter 1 NT gjenmelding? New Minor Forcing (eller 2-veis Checkback)
+. Ny minor i bruk av passet hånd? Nei. I konkuranse? Nei
+. Hopp i fjerde fare (1 [red]#♥# - 1 [black]#♠# - 2 [black]#♣# - 3 [red]#♦#?  Naturlig, Invitt
+. Alle hopp i konkurranse er? Svake
+. Reverseringer? Svarhåndens gjenmelding av egen farge = 5+ kort, rundekrav. Billigste av 2 NT og 4. farge = potensiell avslag. Alt annet UK.
+. Seriøs 3 NT åpning? Absolutt ikke
+. Er 2 NT kunstig i disse situasjonene? 1M - 2M - 2N eller 1m - 1M - 2M - 2N? Ja. Krav, kunstig, spørsmål
 
 == Over deres 1 NT åpning
-1. Her må vi diskutere alle videre meldinger og hvis de dobler. Bruker vi samme mot både sterk/svak NT? I balanseringsposisjon? Samme system, men vi trenger straffedobling mot svak NT. Samme i balanseringsposisjon.
+. Her må vi diskutere alle videre meldinger og hvis de dobler. Bruker vi samme mot både sterk/svak NT? I balanseringsposisjon? Samme system, men vi trenger straffedobling mot svak NT. Samme i balanseringsposisjon.
 
 == Over deres sperr
-1. Hva er cue-bid (som 2 [red]#♥# / 3 [red]#♥#)?  Spør etter stopper. God løpende farge(7+ kort). Makker melder 3 NT med stopper, ellers billigste melding.
-1. 4m = Roman Jump Overcall (Michaels cue-bid hopper i den minoren vi har (sterk hånd). NB! Vi sperrer ikke deres sperr. Husker vi dette?
-1. Lebensohl på etter passethånd? Ja
+. Hva er cue-bid (som 2 [red]#♥# / 3 [red]#♥#)?  Spør etter stopper. God løpende farge(7+ kort). Makker melder 3 NT med stopper, ellers billigste melding.
+. 4m = Roman Jump Overcall (Michaels cue-bid hopper i den minoren vi har (sterk hånd). NB! Vi sperrer ikke deres sperr. Husker vi dette?
+. Lebensohl på etter passethånd? Ja
 
 
 == Michaels cue-bid
 
-1. Kan det være midt-i-mellom styrke? Nei. 5-10 eller 15+
-1. Hva betyr 2 NT svar? Spør etter minor. Hvis begge major vises: spør etter min/max.
+. Kan det være midt-i-mellom styrke? Nei. 5-10 eller 15+
+. Hva betyr 2 NT svar? Spør etter minor. Hvis begge major vises: spør etter min/max.
 
 == RKC
 
-1. Bruker vi noen gang 4-ess blackwood? Nei
-1. Hva er trumf? Sist meldte farge eller første fargen vi ble enig om.
-1. Hva med Q/K spm? Rele=har du dama? (5 i trumf benekter, ellers meldes neste konge elle 6)
-1. 1430? Ja
-1. Etter innblanding, eller de Dobler 4 NT) DOPI/ROPI
-1. Melde vår major på 5-trinnet: Meld 6 med god trumf eller pass. Hvis de har meldt: Har du kontroll i fiendens farge, Pass eller 6!
-1. 5 NT, velg-en-slem? Ja, alltid, unntatt etter RKC.
-1. Hva med renons? Det er et helvete. Ignorer?
+. Bruker vi noen gang 4-ess blackwood? Nei
+. Hva er trumf? Sist meldte farge eller første fargen vi ble enig om.
+. Hva med Q/K spm? Rele=har du dama? (5 i trumf benekter, ellers meldes neste konge elle 6)
+. 1430? Ja
+. Etter innblanding, eller de Dobler 4 NT) DOPI/ROPI
+. Melde vår major på 5-trinnet: Meld 6 med god trumf eller pass. Hvis de har meldt: Har du kontroll i fiendens farge, Pass eller 6!
+. 5 NT, velg-en-slem? Ja, alltid, unntatt etter RKC.
+. Hva med renons? Det er et helvete. Ignorer?
 
 
 == Motspill
 
-1. Aside from methods, agree on what the primary signal is.   Attitude.
-1. Discuss the "BIG" lead against notrump.   Ace asks for Attitude, King asks for Count/Unblock
-1. Discuss "middle of the hand" plays.  Low from good holding, top of nothing
-1. If using SMITH ECHO, discuss exceptions.  When count takes priority.
-1. What are signals in the trump suit?  Hi-lo wants ruff if possible, otherwise suit preference.
+. Aside from methods, agree on what the primary signal is.   Attitude.
+. Discuss the "BIG" lead against notrump.   Ace asks for Attitude, King asks for Count/Unblock
+. Discuss "middle of the hand" plays.  Low from good holding, top of nothing
+. If using SMITH ECHO, discuss exceptions.  When count takes priority.
+. What are signals in the trump suit?  Hi-lo wants ruff if possible, otherwise suit preference.
 
 Other Competition (general)
 
@@ -166,20 +166,20 @@ Hva er framtidige doblinger?
 |===
 
 === Annet
-1. Vi utforsker på 3+ trinn og de dobler vårt kunstige cue-bid? Hva betyr +
-   a. P? +
-   b. XX? +
-   c. Direkte melding +
-   d. Hvis neste spiller passer og cue-biddern XX?
-2. De dobler vår kunstige melding som Stayman, Overføring?
-3. De melder inn etter 1 NT?
-4. Generell standardregel for alle doblinger av oss?
-5. Generell standardregel for kravpass av oss?
-6. 2NT meldinger: I konkurranse, når er de naturlig, og når er det scrambling?
-7. Mot kunstige meldinger som Bergen Raises, Drury osv.
-8. Mot Michaels and Unusual Notrump
-9. Mot presisjon, Kunstige 1 minor åpninger?
-10. Mot Flannery, Multi, Namyats, Sjanse NT, osv?
+. Vi utforsker på 3+ trinn og de dobler vårt kunstige cue-bid? Hva betyr +
+.. P? +
+.. XX? +
+.. Direkte melding +
+.. Hvis neste spiller passer og cue-biddern XX?
+. De dobler vår kunstige melding som Stayman, Overføring?
+. De melder inn etter 1 NT?
+. Generell standardregel for alle doblinger av oss?
+. Generell standardregel for kravpass av oss?
+. 2NT meldinger: I konkurranse, når er de naturlig, og når er det scrambling?
+. Mot kunstige meldinger som Bergen Raises, Drury osv.
+. Mot Michaels and Unusual Notrump
+. Mot presisjon, Kunstige 1 minor åpninger?
+. Mot Flannery, Multi, Namyats, Sjanse NT, osv?
 
 Larry's Suggestions:
 
