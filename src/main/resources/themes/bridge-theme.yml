@@ -1,4 +1,5 @@
-extends: default-with-font-fallbacks
+extends: base
+#-with-font-fallbacks
 page:
     size: A4
 base:
@@ -10,7 +11,7 @@ role:
         font-color: #000000
 font:
     catalog:
-        merge: false
+##        merge: false
         Arial:
             normal: Arial.ttf
             italic: Arial Italic.ttf
