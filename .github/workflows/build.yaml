@@ -8,6 +8,8 @@ jobs:
               uses: actions/checkout@v4
             - name: Setup gradle
               uses: gradle/actions/setup-gradle@v3
+              with:
+                  cache-read-only: false
             - name: Build with gradle
               run: ./gradlew asciidoctor asciidoctorPdf
             - name: Setup pages
