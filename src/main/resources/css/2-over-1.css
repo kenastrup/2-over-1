@@ -65,3 +65,6 @@ html.dark-theme #doc {
 .spades {
     color: black;
 }
+.dark-theme .spades {
+    color: white;
+}
