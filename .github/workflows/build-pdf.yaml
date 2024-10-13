@@ -1,7 +1,7 @@
 name: build-system
 on: [push]
 jobs:
-    build-pdf:
+    build:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
@@ -12,8 +12,35 @@ jobs:
                   distribution: 'zulu'
                   # architecture: 'amd64'
                   cache: 'gradle'
-            - run: ./gradlew asciidoctorPdf
-            - uses: actions/upload-artifact@v3
+            - run: ./gradlew asciidoctor asciidoctorPdf
+    upload-pdf-artifact:
+        runs-on: ubuntu-latest
+        needs: build
+        steps:
+            - uses: actions/upload-artifact@v4
               with:
-                  name: 2-over-1
-                  path: build/docs/asciidocPdf/2-over-1.pdf
+                name: 2-over-1-pdf-upload
+                path: build/docs/asciidocPdf/2-over-1.pdf
+    upload-html-artifact:
+        runs-on: ubuntu-latest
+        needs: build
+        steps:
+            -   uses: actions/upload-artifact@v4
+                with:
+                    name: 2-over-1-html-upload
+                    path: build/docs/asciidoc
+    deploy-pages:
+        runs-on: ubuntu-latest
+        needs: upload-html-artifact
+        permissions:
+            pages: write
+            id-token: write
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        steps:
+            - name: Deploy to github pages
+              id: deployment
+              uses: actions/deploy-pages@v4
+
+
