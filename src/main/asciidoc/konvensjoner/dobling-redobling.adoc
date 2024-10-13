@@ -1,6 +1,6 @@
 = Vi åpner, de dobler, vi redobler
 
-Eksempel: 1 [black]#♠# - (X) - XX
+Eksempel: 1 [.spades]#♠# - (X) - XX
 
 Viser 10+
 

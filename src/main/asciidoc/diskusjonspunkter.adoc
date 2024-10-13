@@ -7,21 +7,21 @@ TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot
 == 2/1
 . Er 2/1 100% utgangskrav? Jepp
 . Hva om fienden melder inn eller noen av oss har passet først? Ikke UK
-. Er 1 [red]#♦# -> 2 [black]#♣# UK, og i såfall hva er videre meldinger? Ja. Åpner viser 4-kort major hvis hen har det.
+. Er 1 [.diamonds]#♦# -> 2 [.clubs]#♣# UK, og i såfall hva er videre meldinger? Ja. Åpner viser 4-kort major hvis hen har det.
 . Viser disse meldingene ekstra verdier/styrke?
-.. 1 [red]#♥# - 2 [black]#♣# - 2 [black]#♠#?  Nei.
-.. 1 [red]#♥# - 2 [red]#♦# - 2 NT? Nei
-.. 1 [red]#♥# - 2 [red]#♦# - 3 [black]#♣#? Nei
-. Hvis åpner hopper i egen farge 1 [red]#♥# - 2 [black]#♣# - 3 [red]#♥#? Solid farge, ikke helt minimum.
-. Hva er åpners hopp-skift? (1 [red]#♥# - 2 [black]#♣# - 3 [red]#♦#)?   Splinter
+.. 1 [.hearts]#♥# - 2 [.clubs]#♣# - 2 [.spades]#♠#?  Nei.
+.. 1 [.hearts]#♥# - 2 [.diamonds]#♦# - 2 NT? Nei
+.. 1 [.hearts]#♥# - 2 [.diamonds]#♦# - 3 [.clubs]#♣#? Nei
+. Hvis åpner hopper i egen farge 1 [.hearts]#♥# - 2 [.clubs]#♣# - 3 [.hearts]#♥#? Solid farge, ikke helt minimum.
+. Hva er åpners hopp-skift? (1 [.hearts]#♥# - 2 [.clubs]#♣# - 3 [.diamonds]#♦#)?   Splinter
 . Hva er standard gjenmelding or en balansert minimumshånd _uten_ stopper i en umeldt farge?
-  For example:  [black]#♠# AJ2 [red]#♥# KJ876 [red]#♦# 876  [black]#♣# KJ etter 1 [red]#♥# - 2 [black]#♣# - ? ?  Ikke meld 2 NT uten stoppere. Ikke gjenmeld en dårlig 5-kortsfarge. Noen ganger har man ikke noen god melding og må lyge.
+  For example:  [.spades]#♠# AJ2 [.hearts]#♥# KJ876 [.diamonds]#♦# 876  [.clubs]#♣# KJ etter 1 [.hearts]#♥# - 2 [.clubs]#♣# - ? ?  Ikke meld 2 NT uten stoppere. Ikke gjenmeld en dårlig 5-kortsfarge. Noen ganger har man ikke noen god melding og må lyge.
 . Hva er hopp til utgang?  Fast Arrival - Svakeste melding.
 .Er 1M - 1 NT, etterfulgt av hopp i ny farge, etterfulgt av svarhåndens 4 M støtte limit raise?? Ja (3M er tvetydig - Vanligvis preferanse).
 
 == Etter vår 1 NT åpning:
 
-. Avhengig av hvor nøyaktig vi vil være, må alle svar på Stayman diskuteres (f.eks. 1 N - 2 [black]#♣# - 2 [red]#♦# - 2 M og 1 N - 2 [black]#♣# - 2 X - 3 Y). Det er flere muligheter her.
+. Avhengig av hvor nøyaktig vi vil være, må alle svar på Stayman diskuteres (f.eks. 1 N - 2 [.clubs]#♣# - 2 [.diamonds]#♦# - 2 M og 1 N - 2 [.clubs]#♣# - 2 X - 3 Y). Det er flere muligheter her.
 . Hvis de dobler Stayman? XX=Spill.
 .. Pass=Ingen kløverstopper, Stayman-melderen Redobler for ny Stayman. Direkte svar viser kløverstopper. (Rask svar viser; vanlig for Lebensohl-brukere.  NB: Noen bruker "direkte benekter kløverstopp" med Lebensohl -- men den bør snus om for at riktig hånd skal bli spillefører, stopperen er beskyttet i utspill).
 . Hvis de dobler overføring?
@@ -33,17 +33,17 @@ TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot
 .. Ny farge = UK (selv med passet hånd).
 .. Overføring, så ny farge på 4-trinnet = splinter.
 .. Overføring deretter 4M = balansert sleminvitt (6-3-2-2). Husk at vi kan bruke Texas for å lande i utgang.
-. Hvis åpner dobler etter deres innmelding (f.eks. 1N - P - 2 [black]#♣# 2 [red]#♥# - D? Takeout.
-. Hva viser D av svarhånd (f.eks. 1 N - P - P - 2 [black]#♠# - P - P - D enten direkte eller i balanseringsposisjon? Kort
-. Hva er åpners D hvis de balanserer (1 N - P - P - 2 [black]#♠# - D? Takeout
+. Hvis åpner dobler etter deres innmelding (f.eks. 1N - P - 2 [.clubs]#♣# 2 [.hearts]#♥# - D? Takeout.
+. Hva viser D av svarhånd (f.eks. 1 N - P - P - 2 [.spades]#♠# - P - P - D enten direkte eller i balanseringsposisjon? Kort
+. Hva er åpners D hvis de balanserer (1 N - P - P - 2 [.spades]#♠# - D? Takeout
 . Hva gjør vi hvis de bruker kunstige innmeldinger? Vet ikke.
 . Forskjell på Jacoby overføring og Texas?
 .. Texas - deretter 4 NT = RKC. Texas slår fast trumf!
 .. Jacoby - deretter 4 NT = kvantitativt.
-. Bruker vi Texas etter 1N - 2 [black]#♣# - 2 [red]#♦#? Ja. "Utvidet Texas". Hopp til 4 [red]#♦#/[red]#♥# viser da 6-4 i major.
-. Hvordan håndterer vi innmelding 2 [black]#♣#? D = stayman, ellers som normalt (overføring, 2NT, puppet stayman)
+. Bruker vi Texas etter 1N - 2 [.clubs]#♣# - 2 [.diamonds]#♦#? Ja. "Utvidet Texas". Hopp til 4 [.diamonds]#♦#/[.hearts]#♥# viser da 6-4 i major.
+. Hvordan håndterer vi innmelding 2 [.clubs]#♣#? D = stayman, ellers som normalt (overføring, 2NT, puppet stayman)
 
-== Etter vår 1 [black]#♣# / [red]#♦# åpning
+== Etter vår 1 [.clubs]#♣# / [.diamonds]#♦# åpning
 
 . Hva er hopp-skift? Tilpasning og sidefarge. TODO
 . Hva endrer seg med en passet hånd? fit (minst 3) og sidefarge
@@ -52,24 +52,24 @@ TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot
 . Walsh? Ja.
 . Etter 2 NT gjenmelding? New minor Forcing
 
-== Etter vår 1 [red]#♥# / [black]#♠# åpning
+== Etter vår 1 [.hearts]#♥# / [.spades]#♠# åpning
 
 . Vanlig eller modifisert Jacoby 2NT? Modifisert
 . Hva er 2 NT og andre meldinger fra en passet hånd? Naturlig
 . Hva er hopp i ny farge etter passet hånd? Fit
 . Bruker vi Bergen Raises - Er de på hvis fienden forstyrrer? TODO
-. Er 1 [black]#♠# - 4 [red]#♥# splinter? TODO
+. Er 1 [.spades]#♠# - 4 [.hearts]#♥# splinter? TODO
 . 1 NT svar og videre meldinger? Absolutt krav eller halv-krav? Vi kan passe med 5-3-3-2 og minimum
 
-== Etter sterk 2 [black]#♣#
+== Etter sterk 2 [.clubs]#♣#
 
-. Kan vi stoppe under utgang? Kun etter 2 [red]#♦# og andre negativ og åpner repeterer sin farge på 3-trinnet, eller åpner melder 2 NT som andre melding
+. Kan vi stoppe under utgang? Kun etter 2 [.diamonds]#♦# og andre negativ og åpner repeterer sin farge på 3-trinnet, eller åpner melder 2 NT som andre melding
 
 . Innblanding -  Hvis de melder inn, hva er svarhåndens D? 0-3, Pass=UK
 
 . Åpners D? Takeout/Gode kort
 
-. Hvis de doble 2 [black]#♣# for å vise [black]#♣#? Pass=0-3. Alt annet=UK. RD=Business
+. Hvis de doble 2 [.clubs]#♣# for å vise [.clubs]#♣#? Pass=0-3. Alt annet=UK. RD=Business
 
 == Etter vår svake 2
 
@@ -84,7 +84,7 @@ TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot
 
 . Ny minor - Hva bruker vi etter 1 NT gjenmelding? New Minor Forcing (eller 2-veis Checkback)
 . Ny minor i bruk av passet hånd? Nei. I konkuranse? Nei
-. Hopp i fjerde fare (1 [red]#♥# - 1 [black]#♠# - 2 [black]#♣# - 3 [red]#♦#?  Naturlig, Invitt
+. Hopp i fjerde fare (1 [.hearts]#♥# - 1 [.spades]#♠# - 2 [.clubs]#♣# - 3 [.diamonds]#♦#?  Naturlig, Invitt
 . Alle hopp i konkurranse er? Svake
 . Reverseringer? Svarhåndens gjenmelding av egen farge = 5+ kort, rundekrav. Billigste av 2 NT og 4. farge = potensiell avslag. Alt annet UK.
 . Seriøs 3 NT åpning? Absolutt ikke
@@ -94,7 +94,7 @@ TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot
 . Her må vi diskutere alle videre meldinger og hvis de dobler. Bruker vi samme mot både sterk/svak NT? I balanseringsposisjon? Samme system, men vi trenger straffedobling mot svak NT. Samme i balanseringsposisjon.
 
 == Over deres sperr
-. Hva er cue-bid (som 2 [red]#♥# / 3 [red]#♥#)?  Spør etter stopper. God løpende farge(7+ kort). Makker melder 3 NT med stopper, ellers billigste melding.
+. Hva er cue-bid (som 2 [.hearts]#♥# / 3 [.hearts]#♥#)?  Spør etter stopper. God løpende farge(7+ kort). Makker melder 3 NT med stopper, ellers billigste melding.
 . 4m = Roman Jump Overcall (Michaels cue-bid hopper i den minoren vi har (sterk hånd). NB! Vi sperrer ikke deres sperr. Husker vi dette?
 . Lebensohl på etter passethånd? Ja
 
@@ -136,17 +136,17 @@ NB! Jeg skjønner ikke dette helt...
 |===
 | # | De | Vi | De | Vi | hva betyr dette? | Larry says!
 
-|1 | 1 [black]#♣# |  P | 1 [red]#♥# | 2 [black]#♣# | | Naturlig,
-|2 | 1 [black]#♣# | P | 1 [red]#♥# | 2 [red]#♥#  | | Naturlig
-|3 | 1 [black]#♣# |P | 1 [red]#♥# | 1NT | | Naturlig, system på
-|4 | 1 [black]#♣# |1 [red]#♥# | P | 2 [black]#♣# | | Fit-bid 3+, invitt
-|5 | 1 [black]#♣# |1 [red]#♥# | P | 3 [black]#♣# | | Fit-bid 3+, 6-9
-|6 | 1 [black]#♣# |1 [red]#♥# | P | Ny farge | |
-|7 | 1 [black]#♣# |1 [red]#♥# | P | 2 [black]#♣# | |
+|1 | 1 [.clubs]#♣# |  P | 1 [.hearts]#♥# | 2 [.clubs]#♣# | | Naturlig,
+|2 | 1 [.clubs]#♣# | P | 1 [.hearts]#♥# | 2 [.hearts]#♥#  | | Naturlig
+|3 | 1 [.clubs]#♣# |P | 1 [.hearts]#♥# | 1NT | | Naturlig, system på
+|4 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 2 [.clubs]#♣# | | Fit-bid 3+, invitt
+|5 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 3 [.clubs]#♣# | | Fit-bid 3+, 6-9
+|6 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | Ny farge | |
+|7 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 2 [.clubs]#♣# | |
 | | D | ? | | | Hvilke muligheter har vi her? |
-|8 |1 [black]#♣# |X |P | 2 [black]#♣# | Åpenbart krav, hvor høyt? +
+|8 |1 [.clubs]#♣# |X |P | 2 [.clubs]#♣# | Åpenbart krav, hvor høyt? +
 Hva med PH? |
-| 9 | 1 [black]#♠# | X | XX | P | Hva er neste melding?
+| 9 | 1 [.spades]#♠# | X | XX | P | Hva er neste melding?
 |===
 
 .Vi åpner
@@ -154,15 +154,15 @@ Hva med PH? |
 |===
 | # | Vi | De | Vi | De | ?
 
-|1 | 1 [black]#♣# | X | XX | | Krav til hvor mye? +
+|1 | 1 [.clubs]#♣# | X | XX | | Krav til hvor mye? +
 Hva er framtidige doblinger?
-|2 | 1 [red]#♥# | P | 1 [black]#♠# | 2 [black]#♣# |
-| | 2 [black]#♣# | | | |Ekstra?
-| 3 | 1 [black]#♣# | 1 [black]#♠# | X | P |
-| | 2 [red]#♦# | | | | Ekstra?
-| 4 | 1 [red]#♦# | P |P | X |
+|2 | 1 [.hearts]#♥# | P | 1 [.spades]#♠# | 2 [.clubs]#♣# |
+| | 2 [.clubs]#♣# | | | |Ekstra?
+| 3 | 1 [.clubs]#♣# | 1 [.spades]#♠# | X | P |
+| | 2 [.diamonds]#♦# | | | | Ekstra?
+| 4 | 1 [.diamonds]#♦# | P |P | X |
 | | XX? | | | |
-| | 1 [red]#♥#? | | | |
+| | 1 [.hearts]#♥#? | | | |
 |===
 
 === Annet

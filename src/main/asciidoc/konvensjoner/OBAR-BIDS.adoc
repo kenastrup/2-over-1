@@ -7,9 +7,9 @@ Hvis fienden har meldt og støttet en major-farge (de har minst 8 tilsamme), er 
 |===
 | Nord | Øst | Syd | Vest
 
-| 1 [red]#♥#
+| 1 [.hearts]#♥#
 | P
-| 2 [red]#♥#
+| 2 [.hearts]#♥#
 | ?
 |===
 
@@ -17,7 +17,7 @@ Hvis fienden har meldt og støttet en major-farge (de har minst 8 tilsamme), er 
 |===
 | melding | beskrivelse
 
-| 2 [black]#♠# | OK farge, 5+ kort, normalt 6+. Alert! Kan være svak
+| 2 [.spades]#♠# | OK farge, 5+ kort, normalt 6+. Alert! Kan være svak
 | 3X | 6+ kort. Alert! Kan være svak
 | D | 3-farge hånd, kort i deres farge. Alert! Kan være svak.
 |===

@@ -2,23 +2,23 @@
 
 Brukes bare etter 1 X - 1 major - 1 NT.
 
-Brukes IKKE etter 1 [black]#♣# - 1 [red]#♦#!
+Brukes IKKE etter 1 [.clubs]#♣# - 1 [.diamonds]#♦#!
 
 Regler:
 
 . Når vi kan bruke checkback, så er det _eneste_ kravmelding. Alle andre meldinger kan passes!
 . Hvis man har både 3-kort støtte til makker og 4-kort i andre major: prioriteres støtte!
-. Hvis åpning er 1 [red]#♥# er svarene litt annerledes
+. Hvis åpning er 1 [.hearts]#♥# er svarene litt annerledes
 . checkback er på også av passet hånd, men det finnes ikke lenger krav-sekvenser, alt blir invitt
 
 Eksempler:
 
-* 1 [red]#♦# - 1 [black]#♠# +
-  1 NT - 3 [red]#♥#: +
+* 1 [.diamonds]#♦# - 1 [.spades]#♠# +
+  1 NT - 3 [.hearts]#♥#: +
   Ikke krav siden checkback ikke ble brukt.
-* 1 [black]#♣# - 1 [black]#♠# +
-  1 NT - 2 [black]#♣# +
-  2 [red]#♦# - 2 [black]#♠# +
+* 1 [.clubs]#♣# - 1 [.spades]#♠# +
+  1 NT - 2 [.clubs]#♣# +
+  2 [.diamonds]#♦# - 2 [.spades]#♠# +
   Ikke krav, selv om checkback var i bruk.
 
 Svar etter prioritet:
@@ -27,15 +27,15 @@ Svar etter prioritet:
 
 | 2 i makkers major | 3-kort støtte | 3-kort støtte
 | 2 i andre major | 4-kort | 5 gode hjerter
-| 2 [red]#♦# | Har ikke 3-kort støtte eller 4-kort i andre major | 5 dårlige/middels kort
+| 2 [.diamonds]#♦# | Har ikke 3-kort støtte eller 4-kort i andre major | 5 dårlige/middels kort
 |===
 
 == Videre meldinger etter checkback
 
 . Melding av egen major, ganske svak invitt og basert på fordeling
-. 1 [black]#♣# - 1 [black]#♠# +
-   1 NT - 2 [black]#♣# +
-   2 [red]#♦# - 2 -[red]#♥#
+. 1 [.clubs]#♣# - 1 [.spades]#♠# +
+   1 NT - 2 [.clubs]#♣# +
+   2 [.diamonds]#♦# - 2 -[.hearts]#♥#
    5-4 og ganske svak. Hvis makker kunne støtte, kunne det ha vært interesse for utgang. Velg major
 . Støtte av major på 3-trinnet: invitt
 . Støtte av minor på 3-trinnet: GF, var på utkikk etter 4 i andre major.
@@ -47,16 +47,16 @@ Svar etter prioritet:
 
 Hvis de melder inn på 1-trinnet er checkback på. Cue-bid på 2-trinnet viser single/renons i fargen deres
 
-Hvis de dobler 1 NT. XX er interesse for å straffe de. Alle doblinger etter det blir straff. 2 [black]#♣# er fortsatt checkback
+Hvis de dobler 1 NT. XX er interesse for å straffe de. Alle doblinger etter det blir straff. 2 [.clubs]#♣# er fortsatt checkback
 
 
 
-== Hvis man ikke melder 2 [black]#♣# checkback
+== Hvis man ikke melder 2 [.clubs]#♣# checkback
 
-. Hopp til 3 [black]#♣# viser 6+ kort [black]#♣# + 4 i major, ikke interessert i utgang. Må passes
+. Hopp til 3 [.clubs]#♣# viser 6+ kort [.clubs]#♣# + 4 i major, ikke interessert i utgang. Må passes
 . Alle andre hopp/revers/NT er invitt
 . Hopp i ny fargeviser minst 5-5 i fargene og invitt
 . Resterende meldinger er svak og ikke interessert i utgang
-. 1 minor - 1 [black]#♠# +
-   1 NT - 2 [red]#♥#
+. 1 minor - 1 [.spades]#♠# +
+   1 NT - 2 [.hearts]#♥#
    Viser 5-5 i major og svak. med 5-4 bruker man checkback

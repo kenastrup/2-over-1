@@ -1,247 +1,247 @@
 = Eksempler
 
-== Etter 1 [black]#♠# -> 2 [black]#♣#
+== Etter 1 [.spades]#♠# -> 2 [.clubs]#♣#
 |===
 |A | B | C | D
 
-|[black]#♠# K J 8 7 6 2 
-|[black]#♠# A K Q 6 5 2 
-|[black]#♠# A K Q J 7 4 
-|[black]#♠# A Q J 5 3  
+|[.spades]#♠# K J 8 7 6 2
+|[.spades]#♠# A K Q 6 5 2
+|[.spades]#♠# A K Q J 7 4
+|[.spades]#♠# A Q J 5 3
 
-| [red]#♥# A Q 
-| [red]#♥# A 3
-| [red]#♥# K 6 2 
-| [red]#♥# K 8 5 4
+| [.hearts]#♥# A Q
+| [.hearts]#♥# A 3
+| [.hearts]#♥# K 6 2
+| [.hearts]#♥# K 8 5 4
 
-| [red]#♦# A 6 5 
-| [red]#♦# K Q 2 
-| [red]#♦# 9 8 6 
-| [red]#♦# A K Q
+| [.diamonds]#♦# A 6 5
+| [.diamonds]#♦# K Q 2
+| [.diamonds]#♦# 9 8 6
+| [.diamonds]#♦# A K Q
 
-| [black]#♣# A 2 
-| [black]#♣# 7 2 
-| [black]#♣# 2 
-| [black]#♣# 4
+| [.clubs]#♣# A 2
+| [.clubs]#♣# 7 2
+| [.clubs]#♣# 2
+| [.clubs]#♣# 4
 |===    
 
 |===
 |E |F |G |H
 
-|[black]#♠# J 7 6 5 4 
-|[black]#♠# A K 6 5 2 
-|[black]#♠# K Q 9 8 7 3 2 
-|[black]#♠# A K Q J 10 9 8
+|[.spades]#♠# J 7 6 5 4
+|[.spades]#♠# A K 6 5 2
+|[.spades]#♠# K Q 9 8 7 3 2
+|[.spades]#♠# A K Q J 10 9 8
 
-|[red]#♥# K Q J 
-|[red]#♥# A K 2 
-|[red]#♥# K 6 
-|[red]#♥# J 7
+|[.hearts]#♥# K Q J
+|[.hearts]#♥# A K 2
+|[.hearts]#♥# K 6
+|[.hearts]#♥# J 7
 
-| [red]#♦# 6 
-| [red]#♦# A 9 2 
-| [red]#♦# A 2 
-| [red]#♦# J 7
+| [.diamonds]#♦# 6
+| [.diamonds]#♦# A 9 2
+| [.diamonds]#♦# A 2
+| [.diamonds]#♦# J 7
 
-| [black]#♣# A Q 6 5 
-| [black]#♣# 7 6 
-| [black]#♣# A J 
-| [black]#♣# J 6
+| [.clubs]#♣# A Q 6 5
+| [.clubs]#♣# 7 6
+| [.clubs]#♣# A J
+| [.clubs]#♣# J 6
 |===    
 
-A. 2 [black]#♠#. 6+
-B. 2 [black]#♠# 6+, ikke solid nok
-C. 3 [black]#♠#. Jepp, solid
-D. 2 [red]#♥#. 4 kort sidefarge
-E. 3 [red]#♦#. Splinter
+A. 2 [.spades]#♠#. 6+
+B. 2 [.spades]#♠# 6+, ikke solid nok
+C. 3 [.spades]#♠#. Jepp, solid
+D. 2 [.hearts]#♥#. 4 kort sidefarge
+E. 3 [.diamonds]#♦#. Splinter
 F. 2 NT. 12-14 / 18-19 hp. jevn hånd. Vis sleminteresse senere
-G. 2 [black]#♠#. Ikke solid.
-H. 3 [black]#♠#. Denne er supersolid.
+G. 2 [.spades]#♠#. Ikke solid.
+H. 3 [.spades]#♠#. Denne er supersolid.
 
-== Etter 1 [black]#♠# -> 2 [red]#♦#
+== Etter 1 [.spades]#♠# -> 2 [.diamonds]#♦#
 |===
 |A |B |C |D
 
-|[black]#♠# K J 8 72
-|[black]#♠# A K Q 6 5 2
-|[black]#♠# A K Q J 7 42
-|[black]#♠# A Q J 5 3
+|[.spades]#♠# K J 8 72
+|[.spades]#♠# A K Q 6 5 2
+|[.spades]#♠# A K Q J 7 42
+|[.spades]#♠# A Q J 5 3
 
-|[red]#♥# 6 3
-|[red]#♥# 3
-|[red]#♥# K 6
-|[red]#♥# K 8 5 4
+|[.hearts]#♥# 6 3
+|[.hearts]#♥# 3
+|[.hearts]#♥# K 6
+|[.hearts]#♥# K 8 5 4
 
-|[red]#♦# 5
-|[red]#♦# K Q 2
-|[red]#♦# 9 8
-|[red]#♦# A K Q
+|[.diamonds]#♦# 5
+|[.diamonds]#♦# K Q 2
+|[.diamonds]#♦# 9 8
+|[.diamonds]#♦# A K Q
 
-|[black]#♣# A Q J 6 2
-|[black]#♣# A 7 2
-|[black]#♣# 5 2
-|[black]#♣# 4
+|[.clubs]#♣# A Q J 6 2
+|[.clubs]#♣# A 7 2
+|[.clubs]#♣# 5 2
+|[.clubs]#♣# 4
 
 |===
 
 |===
 |E |F |G |H | I
 
-|[black]#♠# J 7 6 5 4
-|[black]#♠# A K 6 5 2
-|[black]#♠# K Q 9 8 7
-|[black]#♠# A K Q 9 8
-|[black]#♠# A 9 8 7 5  
+|[.spades]#♠# J 7 6 5 4
+|[.spades]#♠# A K 6 5 2
+|[.spades]#♠# K Q 9 8 7
+|[.spades]#♠# A K Q 9 8
+|[.spades]#♠# A 9 8 7 5
 
-|[red]#♥# K Q J
-|[red]#♥# A 2
-|[red]#♥# K 8 6 2
-|[red]#♥# 7
-|[red]#♥# 5 2  
+|[.hearts]#♥# K Q J
+|[.hearts]#♥# A 2
+|[.hearts]#♥# K 8 6 2
+|[.hearts]#♥# 7
+|[.hearts]#♥# 5 2
 
-|[red]#♦# 6
-|[red]#♦# A Q 9 2
-|[red]#♦# A 9 8 2
-|[red]#♦# J 9 8 7
-|[red]#♦# K Q 3  
+|[.diamonds]#♦# 6
+|[.diamonds]#♦# A Q 9 2
+|[.diamonds]#♦# A 9 8 2
+|[.diamonds]#♦# J 9 8 7
+|[.diamonds]#♦# K Q 3
 
-|[black]#♣# A Q 6 5
-|[black]#♣# 7 6
-|[black]#♣# -
-|[black]#♣# K 6 2
-|[black]#♣# A 3 2
+|[.clubs]#♣# A Q 6 5
+|[.clubs]#♣# 7 6
+|[.clubs]#♣# -
+|[.clubs]#♣# K 6 2
+|[.clubs]#♣# A 3 2
 |===
 
-A. 3 [black]#♣#. Viser ikke ekstra verdier
-B. 2 [black]#♠#. 6-kort
-C. 3 [black]#♠#. Solid farge
-D. 2 [red]#♥#. Sidefarge
-E. 3 [black]#♣#. Sidefarge. Ikke meld NT med single
-F. 3 [red]#♦#. Støtt med 4-kort. Vis sleminteressen senere.
-G. 2 [red]#♥#. Vis major først. Kan ha 4-4 i [red]#♥#
-H. 3 [red]#♥#. splinter og 4+ støtte
-I. 3 [red]#♦#. Må lyge litt her. Ugunstig å melde 2 NT med to små doubleton.
+A. 3 [.clubs]#♣#. Viser ikke ekstra verdier
+B. 2 [.spades]#♠#. 6-kort
+C. 3 [.spades]#♠#. Solid farge
+D. 2 [.hearts]#♥#. Sidefarge
+E. 3 [.clubs]#♣#. Sidefarge. Ikke meld NT med single
+F. 3 [.diamonds]#♦#. Støtt med 4-kort. Vis sleminteressen senere.
+G. 2 [.hearts]#♥#. Vis major først. Kan ha 4-4 i [.hearts]#♥#
+H. 3 [.hearts]#♥#. splinter og 4+ støtte
+I. 3 [.diamonds]#♦#. Må lyge litt her. Ugunstig å melde 2 NT med to små doubleton.
 
-== Etter 1 [black]#♠# -> 2 [red]#♥#
+== Etter 1 [.spades]#♠# -> 2 [.hearts]#♥#
 
 |===
 | A | B | C
 
-|[black]#♠# K J 8 7 2
-|[black]#♠# A K J 6 5
-|[black]#♠# A 8 7 4 2  
+|[.spades]#♠# K J 8 7 2
+|[.spades]#♠# A K J 6 5
+|[.spades]#♠# A 8 7 4 2
 
-|[red]#♥# 6 3
-|[red]#♥# 3 2
-|[red]#♥# K Q 6
+|[.hearts]#♥# 6 3
+|[.hearts]#♥# 3 2
+|[.hearts]#♥# K Q 6
 
-|[red]#♦# 5
-|[red]#♦# K Q 2
-|[red]#♦# 9 8
+|[.diamonds]#♦# 5
+|[.diamonds]#♦# K Q 2
+|[.diamonds]#♦# 9 8
 
-|[black]#♣# A Q J 6 2
-|[black]#♣# 8 7 2
-|[black]#♣# K 5 2
+|[.clubs]#♣# A Q J 6 2
+|[.clubs]#♣# 8 7 2
+|[.clubs]#♣# K 5 2
 
 |===
 
-A. 3 [black]#♣#
+A. 3 [.clubs]#♣#
 B. 2 NT. Viser 5-2-3-3 fordeling
-C. 3 [red]#♥#. Vis støtte. Makker må ha 5-kort
+C. 3 [.hearts]#♥#. Vis støtte. Makker må ha 5-kort
 
 
-== Eksempel 1 [red]#♦# -> 2 [black]#♣#
-
-|===
-| A | B | C | D
-
-|[black]#♠# A 2
-|[black]#♠# K 5 4
-|[black]#♠# K J 4
-|[black]#♠# A Q 4
-
-|[red]#♥# A Q 6 5
-|[red]#♥# K J 6 5
-|[red]#♥# Q 8 7
-|[red]#♥# 7 6 
-
-|[red]#♦# K J 7 6 5
-|[red]#♦# J 10 8 7
-|[red]#♦# A J 8 7
-|[red]#♦# A Q 5 4 
-
-|[black]#♣# 6 4
-|[black]#♣# A 4
-|[black]#♣# Q 7 6
-|[black]#♣# J 9 4 2
-
-|===
-
-A. 2 [red]#♦#. Vis 5+ kort. Makker vil melde 2 [red]#♥# med 4-kort [red]#♥#
-B. 2 [red]#♥#. Vis sidefarge. Reversreglene gjelder ikke i 2-over-1
-C. 2 NT. 12-14 / 18-19 hp. Ikke 5-kort [red]#♦#, ingen 4-kort major. Altså 3-3-4-3 hånd
-D. 3 [black]#♣#. Kan ikke melde NT med 2 små kort i en farge. Hvis makker melder 3 [red]#♥#, er neste melding 3 NT.
-
-== Eksempel. Svar på 1 [red]#♦#
+== Eksempel 1 [.diamonds]#♦# -> 2 [.clubs]#♣#
 
 |===
 | A | B | C | D
 
-|[black]#♠# K J 8 7 6
-|[black]#♠# A K Q 6
-|[black]#♠# A Q J 4
-|[black]#♠# A 5 3
+|[.spades]#♠# A 2
+|[.spades]#♠# K 5 4
+|[.spades]#♠# K J 4
+|[.spades]#♠# A Q 4
 
-|[red]#♥# A Q
-|[red]#♥# A 3
-|[red]#♥# K 6 2
-|[red]#♥# K 8 5
+|[.hearts]#♥# A Q 6 5
+|[.hearts]#♥# K J 6 5
+|[.hearts]#♥# Q 8 7
+|[.hearts]#♥# 7 6
 
-|[red]#♦# 8 6 5
-|[red]#♦# Q J 2
-|[red]#♦# 9
-|[red]#♦# A K
+|[.diamonds]#♦# K J 7 6 5
+|[.diamonds]#♦# J 10 8 7
+|[.diamonds]#♦# A J 8 7
+|[.diamonds]#♦# A Q 5 4
 
-|[black]#♣# A Q 2
-|[black]#♣# 9 8 7 2
-|[black]#♣# A Q J 8 2
-|[black]#♣# Q J 8 4 2
+|[.clubs]#♣# 6 4
+|[.clubs]#♣# A 4
+|[.clubs]#♣# Q 7 6
+|[.clubs]#♣# J 9 4 2
 
 |===
 
-A. 1 [black]#♠#. Vi kan ikke melde 2-over-1 på disse kortene. Dette viser 6+.
-B. 1 [black]#♠#. 2 [black]#♣# er også mulig. viser 6+
-C. 2 [black]#♣#. med 5 [black]#♣# og 4 [black]#♠# er dette best.
-D. 2 [black]#♣#. Ikke stress til NT.
+A. 2 [.diamonds]#♦#. Vis 5+ kort. Makker vil melde 2 [.hearts]#♥# med 4-kort [.hearts]#♥#
+B. 2 [.hearts]#♥#. Vis sidefarge. Reversreglene gjelder ikke i 2-over-1
+C. 2 NT. 12-14 / 18-19 hp. Ikke 5-kort [.diamonds]#♦#, ingen 4-kort major. Altså 3-3-4-3 hånd
+D. 3 [.clubs]#♣#. Kan ikke melde NT med 2 små kort i en farge. Hvis makker melder 3 [.hearts]#♥#, er neste melding 3 NT.
 
-== Eksempel etter 1 [red]#♦# -> 2 [black]#♣#
+== Eksempel. Svar på 1 [.diamonds]#♦#
+
+|===
+| A | B | C | D
+
+|[.spades]#♠# K J 8 7 6
+|[.spades]#♠# A K Q 6
+|[.spades]#♠# A Q J 4
+|[.spades]#♠# A 5 3
+
+|[.hearts]#♥# A Q
+|[.hearts]#♥# A 3
+|[.hearts]#♥# K 6 2
+|[.hearts]#♥# K 8 5
+
+|[.diamonds]#♦# 8 6 5
+|[.diamonds]#♦# Q J 2
+|[.diamonds]#♦# 9
+|[.diamonds]#♦# A K
+
+|[.clubs]#♣# A Q 2
+|[.clubs]#♣# 9 8 7 2
+|[.clubs]#♣# A Q J 8 2
+|[.clubs]#♣# Q J 8 4 2
+
+|===
+
+A. 1 [.spades]#♠#. Vi kan ikke melde 2-over-1 på disse kortene. Dette viser 6+.
+B. 1 [.spades]#♠#. 2 [.clubs]#♣# er også mulig. viser 6+
+C. 2 [.clubs]#♣#. med 5 [.clubs]#♣# og 4 [.spades]#♠# er dette best.
+D. 2 [.clubs]#♣#. Ikke stress til NT.
+
+== Eksempel etter 1 [.diamonds]#♦# -> 2 [.clubs]#♣#
 
 |===
 |E | F |G |H
 
-|[black]#♠# A K 6 5
-|[black]#♠# K J 9
-|[black]#♠# Q 10 9 8
-|[black]#♠# Q J 4
+|[.spades]#♠# A K 6 5
+|[.spades]#♠# K J 9
+|[.spades]#♠# Q 10 9 8
+|[.spades]#♠# Q J 4
 
-|[red]#♥# A K 2
-|[red]#♥# K J 7 6
-|[red]#♥# J 7 
-|[red]#♥# Q J 4  
+|[.hearts]#♥# A K 2
+|[.hearts]#♥# K J 7 6
+|[.hearts]#♥# J 7
+|[.hearts]#♥# Q J 4
 
-|[red]#♦# A 9 3 2
-|[red]#♦# A 8 7 2
-|[red]#♦# K J 8 7 2
-|[red]#♦# Q J 8 7 
+|[.diamonds]#♦# A 9 3 2
+|[.diamonds]#♦# A 8 7 2
+|[.diamonds]#♦# K J 8 7 2
+|[.diamonds]#♦# Q J 8 7
 
-|[black]#♣# 7 6 
-|[black]#♣# 3 2
-|[black]#♣# A Q 
-|[black]#♣# K Q 2
+|[.clubs]#♣# 7 6
+|[.clubs]#♣# 3 2
+|[.clubs]#♣# A Q
+|[.clubs]#♣# K Q 2
 |===
 
-A. 2 [black]#♠#. 4-kort spar. Benekter 5-kort [red]#♦#
-B. 2 [red]#♥#. 4-kort [red]#♥#. Benekter 5-kort [red]#♦#
-C. 2 [red]#♦#. 5-kort [red]#♦#. Hvis makker har 4 [black]#♠# vil han melde den.
-D. 2 NT. Benekter 5-kort [red]#♦# og 4-kort major. Vanligvis 3-3-4-3.
+A. 2 [.spades]#♠#. 4-kort spar. Benekter 5-kort [.diamonds]#♦#
+B. 2 [.hearts]#♥#. 4-kort [.hearts]#♥#. Benekter 5-kort [.diamonds]#♦#
+C. 2 [.diamonds]#♦#. 5-kort [.diamonds]#♦#. Hvis makker har 4 [.spades]#♠# vil han melde den.
+D. 2 NT. Benekter 5-kort [.diamonds]#♦# og 4-kort major. Vanligvis 3-3-4-3.
 

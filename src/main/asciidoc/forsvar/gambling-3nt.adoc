@@ -8,10 +8,10 @@ Skaff alltid info om det kan/må være side kontrollere.
 | X
 | Jeg har en ganske god hånd. Kan være balansert, semi-balansert eller noe annet. Inn må man jo.
 
-| 4 [black]#♣# / 4 [red]#♦#
+| 4 [.clubs]#♣# / 4 [.diamonds]#♦#
 | Ripstra. Jeg har lengde i begge major, Dette er min beste minor.
 
-| 4 [red]#♥# / 4 [black]#♠# / 5 [black]#♣# / 5 [red]#♦#
+| 4 [.hearts]#♥# / 4 [.spades]#♠# / 5 [.clubs]#♣# / 5 [.diamonds]#♦#
 | Jeg har god lang farge. Vi må ta en sjanse!
 |===
 
@@ -21,9 +21,9 @@ Skaff alltid info om det kan/må være side kontrollere.
 Med lengde i begge major (5-5ish) og OK farger melder man sin beste minor.
 
 .eksempel
-[black]#♠# KJxxx [red]#♥# KQxxx [red]#♦# AQ [black]#♣# x
+[.spades]#♠# KJxxx [.hearts]#♥# KQxxx [.diamonds]#♦# AQ [.clubs]#♣# x
 
-Meld 4 [red]#♦#
+Meld 4 [.diamonds]#♦#
 
 Makker korrigerer deretter til major eller minor-kontrakt.
 

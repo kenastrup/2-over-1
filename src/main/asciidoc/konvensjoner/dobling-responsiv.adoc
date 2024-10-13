@@ -2,12 +2,12 @@
 
 Hvis de melder og støtter hverandre og makker har vært inne i bildet med egen farge eller dobling. Viser kort og de to umeldte fargene
 
-(1 [red]#♥#) - X - (2 [black]#♠#) - X
+(1 [.hearts]#♥#) - X - (2 [.spades]#♠#) - X
 
-(1 [red]#♥#) - 1 [black]#♠# - 2 [red]#♥# - X
+(1 [.hearts]#♥#) - 1 [.spades]#♠# - 2 [.hearts]#♥# - X
 
 Hva med
 
-(1 [red]#♦#) - X - 1 [red]#♥# - X
+(1 [.diamonds]#♦#) - X - 1 [.hearts]#♥# - X
 
 Responsiv den også!

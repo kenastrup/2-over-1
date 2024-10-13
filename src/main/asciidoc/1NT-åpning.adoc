@@ -2,7 +2,7 @@
 
 Åpning 1 NT
 
-* viser 14-16 hp
+* viser 15-17 hp
 * kan inneholde 5-kort major og 5-3-3-2
 
 == Svar på 1 NT åpning
@@ -10,18 +10,18 @@
 |===
 |melding | beskrivelse
 
-| 2 [black]#♣# | Normal stayman
-| 2 [red]#♦# | Overføring til [red]#♥#
-| 2 [red]#♥# | Overføring til [black]#♠#
-| 2 [black]#♠# | Overføring til [black]#♣#
-| 2 NT | Overføring til [red]#♦#
-| 3 [black]#♣# | Puppet stayman
-| 3 [red]#♦# / [red]#♥# / [black]#♠# | GF. Splinter med trefarge hånd og single i meldte farge. Ikke 5-kort major. Åpner slår fast trumf i neste melding?
+| 2 [.clubs]#♣#| Normal stayman
+| 2 [.diamonds]#♦# | Overføring til [.hearts]#♥#
+| 2 [.hearts]#♥# | Overføring til [.spades]#♠#
+| 2 [.spades]#♠# | Overføring til [.clubs]#♣#
+| 2 NT | Overføring til [diamonds]#♦#
+| 3 [.clubs]#♣# | Puppet stayman
+| 3 [.diamonds]#♦# / [.hearts]#♥# / [.spades]#♠# | GF. Splinter med trefarge hånd og single i meldte farge. Ikke 5-kort major. Åpner slår fast trumf i neste melding?
 | 3 NT | Spill!
-| 4 [black]#♣# | Gerber
-| 4 [red]#♦# | Texas overføring til [red]#♥# (6+)
-| 4 [red]#♥# | Texas overføring til [black]#♠# (6+)
-| 4 [black]#♠# | Ikke i bruk!
+| 4 [.clubs]#♣# | Gerber
+| 4 [.diamonds]#♦# | Texas overføring til [.hearts]#♥# (6+)
+| 4 [.hearts]#♥# | Texas overføring til [.spades]#♠# (6+)
+| 4 [.spades]#♠# | Ikke i bruk!
 | 4 NT | Kvantitativ (meld 6 med max)
 |===
 
@@ -32,9 +32,9 @@ I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker
 |===
 | melding |beskrivelse
 
-| 2 [red]#♦# | Ingen 4/5 kort i major
-| 2 [red]#♥# | 4/5 kort [red]#♥#
-| 2 [black]#♠# | 4/5 kort [black]#♠#
+| 2 [.diamonds]#♦# | Ingen 4/5 kort i major
+| 2 [.hearts]#♥# | 4/5 kort [.hearts]#♥#
+| 2 [.spades]#♠# | 4/5 kort [.spades]#♠#
 | | Ingen andre meldinger er OK.
 |===
 
@@ -43,17 +43,17 @@ I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker
 |===
 | sekvens | beskrivelse
 
-| 1 N -> 2 [black]#♣# -> 2 [red]#♦# -> 2 [red]#♥#
+| 1 N -> 2 [.clubs]#♣# -> 2 [.diamonds]#♦# -> 2 [.hearts]#♥#
 | "Søppelstayman". Pass eller korriger. Viser 4-4 i major.
 
-| 1 N -> 2 [black]#♣# -> 2 [red]#♦# -> 2 [black]#♠#
+| 1 N -> 2 [.clubs]#♣# -> 2 [.diamonds]#♦# -> 2 [.spades]#♠#
 | Skjev hånd med 5-kort farge (sannsynligvis 5-4 i major)
 
-| 1 N -> 2 [black]#♣# -> 2 [red]#♥# -> 2 [black]#♠#
+| 1 N -> 2 [.clubs]#♣# -> 2 [.hearts]#♥# -> 2 [.spades]#♠#
 | 4-kort spar og invitt.
 
-| 1 N -> 2 [black]#♣# -> 2 X -> 2 N
-| Invitt til 3 NT, garanterer ikke 4-kort major (1 NT - 2 NT er jo overføring til [red]#♦#)
+| 1 N -> 2 [.clubs]#♣# -> 2 X -> 2 N
+| Invitt til 3 NT, garanterer ikke 4-kort major (1 NT - 2 NT er jo overføring til [.diamonds]#♦#)
 
 |===
 
@@ -62,7 +62,7 @@ I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker
 |===
 | melding | beskrivelse
 
-| 3 [black]#♣# / 3 [red]#♦#
+| 3 [.clubs]#♣# / 3 [.diamonds]#♦#
 | Svak. Skal passes. Må ha sidefarge i major siden innom stayman
 
 | høyning i major
@@ -75,8 +75,8 @@ I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker
 | Spill
 
 | 4 i en lavere farge
-| Splinter. F.eks 1 N -> 2 [black]#♣# -> 2 [red]#♥#
--> 4 [black]#♣#
+| Splinter. F.eks 1 N -> 2 [.clubs]#♣# -> 2 [.hearts]#♥#
+-> 4 [.clubs]#♣#
 
 | 4 NT
 | Kvantitativ. Meld 6 NT hvis max.
@@ -90,7 +90,7 @@ I dette systemet kan Stayman være en svak melding ("søppelstayman") som søker
 
 ==== Overføring til major
 
-Etter 1 NT åpning er 2 [red]#♦# / [red]#♥# overføring til Major.
+Etter 1 NT åpning er 2 [.diamonds]#♦# / [.hearts]#♥# overføring til Major.
 
 Dette er normale Jacoby transfers. 5 kort og 0+ hp.
 
@@ -120,13 +120,13 @@ Andre meldinger etter overføring
 |===
 | sekvens | beskrivelse
 
-| 1 N -> 2 [red]#♦# -> 2 [red]#♥# -> 2 [black]#♠#
-| Invitt med 5 [red]#♥# og 4 [black]#♠#
+| 1 N -> 2 [.diamonds]#♦# -> 2 [.hearts]#♥# -> 2 [.spades]#♠#
+| Invitt med 5 [.hearts]#♥# og 4 [.spades]#♠#
 
 | 1 N -> overføring -> svar -> 2 NT
 | Invitt
 
-| 3 [black]#♣# / 3 [red]#♦#
+| 3 [.clubs]#♣# / 3 [.diamonds]#♦#
 | Naturlig og GF
 
 | Høyning til 3
@@ -144,7 +144,7 @@ Andre meldinger etter overføring
 | 4 NT
 | Kvantitativ
 
-| 1 N -> 2 [red]#♥# -> 2 [black]#♠# - 3 [red]#♥#
+| 1 N -> 2 [.hearts]#♥# -> 2 [.spades]#♠# - 3 [.hearts]#♥#
 | 5-5 i major. GF
 
 
@@ -164,21 +164,21 @@ Eksempler
 |===
 | Åpner | overfører
 
-| 1 N | 2 [black]#♠# (overføring til [black]#♣#)
-| 2 N (min) | 3 [black]#♣# (spill)
+| 1 N | 2 [.spades]#♠# (overføring til [.clubs]#♣#)
+| 2 N (min) | 3 [.clubs]#♣# (spill)
 |===
 
 |===
 | Åpner | overfører
 
-| 1 N | 2 [black]#♠# (overføring til [black]#♣#)
-| 2 [black]#♣# (max) | 3 [red]#♦# (GF )
+| 1 N | 2 [.spades]#♠# (overføring til [.clubs]#♣#)
+| 2 [.clubs]#♣# (max) | 3 [.diamonds]#♦# (GF )
 |===
 
 
 === Puppet stayman
 
-1 NT -> 3 [black]#♣# er puppet stayman. Brukes for å finne 4/5 korts major. Minst GF.
+1 NT -> 3 [.clubs]#♣# er puppet stayman. Brukes for å finne 4/5 korts major. Minst GF.
 
 Vi bruker "improved puppet", ikke normal puppet.
 
@@ -189,10 +189,10 @@ Man bruker ikke puppet med 4-4 i major eller 4-3-3-3 hender.
 |===
 | melding | beskrivelse
 
-| 3 [red]#♦#
+| 3 [.diamonds]#♦#
 | Ingen 5-kort major
 
-| 3 [red]#♥# / [black]#♠#
+| 3 [.hearts]#♥# / [.spades]#♠#
 | 5 kort i meldt farge
 
 | 3 NT
@@ -200,10 +200,10 @@ Man bruker ikke puppet med 4-4 i major eller 4-3-3-3 hender.
 
 |===
 
-==== Etter 1 N -> 3 [black]#♣# -> 3 [red]#♦#
+==== Etter 1 N -> 3 [.clubs]#♣# -> 3 [.diamonds]#♦#
 
 |===
-| 3 [red]#♥# / 3 [black]#♠# | Jeg har 4-kort i den andre majoren!
+| 3 [.hearts]#♥# / 3 [.spades]#♠# | Jeg har 4-kort i den andre majoren!
 | 3 NT
 | Jeg har ikke 4-korts major
 |===
@@ -212,34 +212,34 @@ Man bruker ikke puppet med 4-4 i major eller 4-3-3-3 hender.
 
 Siden 4 NT stort sett er kvantitativ melding, etter NT åpning kan det være kjekt å kunne spørre etter antall ess.
 
-Hvis man HOPPER til 4 [black]#♣# etter 1 NT eller 2 NT åpning eller tilsvarende
+Hvis man HOPPER til 4 [.clubs]#♣# etter 1 NT eller 2 NT åpning eller tilsvarende
 
 Eksempler på gerber
 |===
 | Nord  | Syd
 
-| 1 N | 4 [black]#♣#
+| 1 N | 4 [.clubs]#♣#
 |===
 
 |===
 | Nord  | Syd
 
-| 2 N | 4 [black]#♣#
+| 2 N | 4 [.clubs]#♣#
 |===
 
 |===
 | Nord  | Syd
 
-| 1 [red]#♦# | 1 [red]#♥#
-| 2 NT | 4 [black]#♣#
+| 1 [.diamonds]#♦# | 1 [.hearts]#♥#
+| 2 NT | 4 [.clubs]#♣#
 |===
 
 
 == Texas overføring
 Etter åpning 1 NT er
 
-* 4 [red]#♦# = overføring til [red]#♥#
-* 2 [red]#♥# = overføring til [black]#♠#
+* 4 [.diamonds]#♦# = overføring til [.hearts]#♥#
+* 2 [.hearts]#♥# = overføring til [.spades]#♠#
 
 Videre meldinger.
 
@@ -248,12 +248,12 @@ Videre meldinger.
 
 === Forsvar mot innblanding etter 1 NT
 
-==== Innmelding 2 [black]#♣#
+==== Innmelding 2 [.clubs]#♣#
 D = Stayman
 
 Alt annet = som normalt.
 
-==== Innmelding 2 [red]#♦# eller høyere og de viser to-farge hånd inkl meldt farge
+==== Innmelding 2 [.diamonds]#♦# eller høyere og de viser to-farge hånd inkl meldt farge
 
 Dette er https://www.larryco.com/bridge-learning-center/detail/541[Lebensohl]
 
@@ -269,7 +269,7 @@ Her er det et viktig prinsipp. FADS = Fast Arrival Denies Stopper. Det er i effe
 | Naturlig, ikke krav
 
 | 2 NT
-| https://www.larryco.com/bridge-learning-center/detail/541[Lebensohl]. Makker må melde 3 [black]#♣#. Videre meldinger på 3 trinnet = for spill.
+| https://www.larryco.com/bridge-learning-center/detail/541[Lebensohl]. Makker må melde 3 [.clubs]#♣#. Videre meldinger på 3 trinnet = for spill.
 
 | 3 i farge
 | Naturlig krav til utgang
@@ -299,13 +299,13 @@ Vi bruker Nilslands slinklinger hvis fienden dobler 1 NT åpning eller innmeldin
 | Ber om 2 kl fra NT-melder. Viser en-farge hånd. Makker skal passe neste melding.
 
 | farge
-| meldt farge og fargen over (2 [black]#♠# = [black]#♠# og [black]#♣#)
+| meldt farge og fargen over (2 [.spades]#♠# = [.spades]#♠# og [.clubs]#♣#)
 
 | pass
 | Krav til RD. +
   Pass = vil spille 1 NT RD +
-  2 [black]#♣# = [black]#♣# og [red]#♥# +
-  2 [red]#♦# = [red]#♦# og [black]#♠#
+  2 [.clubs]#♣# = [.clubs]#♣# og [.hearts]#♥# +
+  2 [.diamonds]#♦# = [.diamonds]#♦# og [.spades]#♠#
   2 major = invitt med 5+ kort og skjev hånd +
   2 NT = GF og skjev hånd +
   3 minor = Invitt og minst to honnører 6-kort

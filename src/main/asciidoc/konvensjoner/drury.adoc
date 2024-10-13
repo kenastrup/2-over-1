@@ -13,7 +13,7 @@ Brukes ikke: Etter innblanding fra fienden.
 |===
 | melding | beskrivelse
 
-| 2 [red]#♦# | "Normal" åpning ca 12-13. Invitt. Ikke noe ekstra
+| 2 [.diamonds]#♦# | "Normal" åpning ca 12-13. Invitt. Ikke noe ekstra
 | Ny farge | Sidefarge, invitt, søker etter 4-4 tilpass
 | 2 M | Ikke interessert i utgang, svak åpning
 | 2 NT | Jevn hånd, sterkere enn 1 NT åpning

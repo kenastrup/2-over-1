@@ -15,21 +15,21 @@ When we agree on a trump suit and is in a forcing auction, bidding the trump sui
 |===
 |Åpner |Svarer
 
-|1 [black]#♠#
-|2 [red]#♥#
+|1 [.spades]#♠#
+|2 [.hearts]#♥#
 
 |2 NT
-|4 [black]#♠#
+|4 [.spades]#♠#
 |===
 
 |===
 |Åpner |Svarer
 
-|1 [black]#♠#
-|2 [red]#♥#
+|1 [.spades]#♠#
+|2 [.hearts]#♥#
 
 |2 NT
-|3 [black]#♠#
+|3 [.spades]#♠#
 |===
 
 Den første meldingssekvensen viser minimum. "Jeg har minimum. Vi har funnet trumf og det er ingen vits å lete etter slem".
@@ -49,33 +49,33 @@ NOTE: Det er vanlig å ikke bruke Fast Arrival til NT. Det må avtales spesifikt
 |===
 | Åpner | Svarer
 
-| 1 [black]#♠# | 2 [black]#♣#
-| 2 [red]#♦# | ?
+| 1 [.spades]#♠# | 2 [.clubs]#♣#
+| 2 [.diamonds]#♦# | ?
 |===
 
 |===
 | A | B |C
 
-|[black]#♠# K 8
-|[black]#♠# Q 7
-|[black]#♠# A 7
+|[.spades]#♠# K 8
+|[.spades]#♠# Q 7
+|[.spades]#♠# A 7
 
-|[red]#♥# K J 7
-|[red]#♥# 8 7 6
-|[red]#♥# 5 4 2
+|[.hearts]#♥# K J 7
+|[.hearts]#♥# 8 7 6
+|[.hearts]#♥# 5 4 2
 
-|[red]#♦# K 8 7
-|[red]#♦# K 2
-|[red]#♦# A Q 2
+|[.diamonds]#♦# K 8 7
+|[.diamonds]#♦# K 2
+|[.diamonds]#♦# A Q 2
 
-|[black]#♣# A J 10 8 7
-|[black]#♣# A Q J 10 9 2
-|[black]#♣# A 10 8 7 6
+|[.clubs]#♣# A J 10 8 7
+|[.clubs]#♣# A Q J 10 9 2
+|[.clubs]#♣# A 10 8 7 6
 |===
 
 A. 2NT. Stoppere i umeldte
-B. 3 [black]#♣#. Ekstra lengde
-C. 3 [red]#♦#. Denne er vanskelig. I normale systemer ville man ha meldt 2 [red]#♥# som "kunstig fjerde farge krav". 3 [red]#♦# er nødmelding på 3-kort støtte. Viser vanligvis 4-kort støtte.
+B. 3 [.clubs]#♣#. Ekstra lengde
+C. 3 [.diamonds]#♦#. Denne er vanskelig. I normale systemer ville man ha meldt 2 [.hearts]#♥# som "kunstig fjerde farge krav". 3 [.diamonds]#♦# er nødmelding på 3-kort støtte. Viser vanligvis 4-kort støtte.
 
 Hvis svarer hopper til utgang i _egen_ farge viser det også minimum og sign off. Fast Arrival. Lang farge.
 
@@ -86,11 +86,11 @@ Hva så med hopp til 3 NT? De fleste 2-over-1 brukere bruker ikke Fast Arrival t
 |===
 | N | Ø | S | V
 
-| 1 [red]#♦# | 1 [black]#♠# | 2 [black]#♠# <1> | 3 [black]#♣#
+| 1 [.diamonds]#♦# | 1 [.spades]#♠# | 2 [.spades]#♠# <1> | 3 [.clubs]#♣#
 | ?
 |===
 
-1. 2 [black]#♠# er limit raise or better, setter opp krav til minst 3 [red]#♦#
+1. 2 [.spades]#♠# er limit raise or better, setter opp krav til minst 3 [.diamonds]#♦#
 2. e
 
 == Quiz 1
@@ -99,43 +99,43 @@ Hva skal du melde etter:
 |===
 | Åpner | Svarer
 
-| 1 [black]#♠# | 2 [black]#♣#
-| 2 [red]#♦# | ?
+| 1 [.spades]#♠# | 2 [.clubs]#♣#
+| 2 [.diamonds]#♦# | ?
 |===
 
 |===
 |A|B|C|D|E
 
-|[black]#♠# Q 2
-|[black]#♠# K 3 2
-|[black]#♠# 5
-|[black]#♠# 8 7
-|[black]#♠# K 7 6
+|[.spades]#♠# Q 2
+|[.spades]#♠# K 3 2
+|[.spades]#♠# 5
+|[.spades]#♠# 8 7
+|[.spades]#♠# K 7 6
 
-|[red]#♥# A Q J 3
-|[red]#♥# A 5 4
-|[red]#♥# A 2
-|[red]#♥# K J 5
-|[red]#♥# A 2
+|[.hearts]#♥# A Q J 3
+|[.hearts]#♥# A 5 4
+|[.hearts]#♥# A 2
+|[.hearts]#♥# K J 5
+|[.hearts]#♥# A 2
 
-|[red]#♦# Q 2
-|[red]#♦# A 2
-|[red]#♦# K Q 4 3
-|[red]#♦# K J 7
-|[red]#♦# Q 5 2
+|[.diamonds]#♦# Q 2
+|[.diamonds]#♦# A 2
+|[.diamonds]#♦# K Q 4 3
+|[.diamonds]#♦# K J 7
+|[.diamonds]#♦# Q 5 2
 
-|[black]#♣# A 7 6 5 4
-|[black]#♣# K Q J 8 7
-|[black]#♣# A 7 6 5 4 2
-|[black]#♣# A J 7 6 4 
-|[black]#♣# K J 8 7 6
+|[.clubs]#♣# A 7 6 5 4
+|[.clubs]#♣# K Q J 8 7
+|[.clubs]#♣# A 7 6 5 4 2
+|[.clubs]#♣# A J 7 6 4
+|[.clubs]#♣# K J 8 7 6
 |===
 
-A. 2 [red]#♥#. Naturlig
-B. 2 [black]#♠#. 3-kort-støtte.
-C. 3 [red]#♦#. Støtt med støtte
+A. 2 [.hearts]#♥#. Naturlig
+B. 2 [.spades]#♠#. 3-kort-støtte.
+C. 3 [.diamonds]#♦#. Støtt med støtte
 D. 3 NT. Stoppere og flat hånd. Hvis man ikke bruker Fast Arrival til NT (som er vanlig), så melder man 2 NT.
-E. 4 [black]#♠#. 3 kort og minimum
+E. 4 [.spades]#♠#. 3 kort og minimum
 
 == Quiz 2
 
@@ -144,10 +144,10 @@ Hva melder du etter
 |===
 |Åpner |Svarer
 
-|1 [red]#♥#
-|2 [red]#♦#
+|1 [.hearts]#♥#
+|2 [.diamonds]#♦#
 
-|2 [red]#♥#
+|2 [.hearts]#♥#
 |?
 |===
 
@@ -155,26 +155,26 @@ Hva melder du etter
 |===
 | A |B |C 
 
-|[black]#♠# 4 3 
-|[black]#♠# K Q 7 6 
-|[black]#♠# J 4
+|[.spades]#♠# 4 3
+|[.spades]#♠# K Q 7 6
+|[.spades]#♠# J 4
 
-|[red]#♥# A Q 2 
-|[red]#♥# 2 
-|[red]#♥# J 5 4  
+|[.hearts]#♥# A Q 2
+|[.hearts]#♥# 2
+|[.hearts]#♥# J 5 4
 
-|[red]#♦# A Q J 8 6 
-|[red]#♦# K Q J 8 7 6 
-|[red]#♦# K Q J 10 8 7 
+|[.diamonds]#♦# A Q J 8 6
+|[.diamonds]#♦# K Q J 8 7 6
+|[.diamonds]#♦# K Q J 10 8 7
 
-|[black]#♣# Q J 4 
-|[black]#♣# A 2 
-|[black]#♣# A J
+|[.clubs]#♣# Q J 4
+|[.clubs]#♣# A 2
+|[.clubs]#♣# A J
 |===
 
-A. 3 [red]#♥#. Tre kort støtte og tillegg
-B. 2 [black]#♠#. 4-kort. Makker kan være 6-4 i major
-C. 4 [red]#♥#. Fast Arrival. 3-kort støtte, minimum
+A. 3 [.hearts]#♥#. Tre kort støtte og tillegg
+B. 2 [.spades]#♠#. 4-kort. Makker kan være 6-4 i major
+C. 4 [.hearts]#♥#. Fast Arrival. 3-kort støtte, minimum
 
 
 == Oppsummering Fast Arrival

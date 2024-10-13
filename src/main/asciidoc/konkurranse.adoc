@@ -67,26 +67,26 @@ Tofargehender i denne forbindelsen er minst 4-4.
 |===
 |melding |beskrivelse
 
-| D | En-farge hånd. Makker MÅ melde 2 [black]#♣#. Deretter melder Dobler fargen sin
-| 2 [black]#♣# | 2 farge-hånd [black]#♣# og høyere
-| 2 [red]#♦# | 2 farge-hånd, [red]#♦# og høyere
-| 2 [red]#♥# | 2 farge-hånd, hjerter og spar
-| 2 [black]#♠# | Naturlig, minst 5-kort, hvis man dobler først, makker melder 2 [black]#♣# og man korrigerer til 2 [black]#♠# viser man bedre kort enn å melde 2 [black]#♠# direkte
+| D | En-farge hånd. Makker MÅ melde 2 [.clubs]#♣#. Deretter melder Dobler fargen sin
+| 2 [.clubs]#♣# | 2 farge-hånd [.clubs]#♣# og høyere
+| 2 [.diamonds]#♦# | 2 farge-hånd, [.diamonds]#♦# og høyere
+| 2 [.hearts]#♥# | 2 farge-hånd, hjerter og spar
+| 2 [.spades]#♠# | Naturlig, minst 5-kort, hvis man dobler først, makker melder 2 [.clubs]#♣# og man korrigerer til 2 [.spades]#♠# viser man bedre kort enn å melde 2 [.spades]#♠# direkte
 |===
 
 Regler for videre meldinger:
 
 * Pass med 3+kort i fargen.
 * Meld neste farge med 2-kortsfarge, deretter melder innbryter den andre fargen eller passer hvis den neste fargen er den andre fargen.
-* Hvis innmelding er 2 [red]#♦#, og makker har 4-4 i major, melder man 2 [red]#♥#, og innbryter korrigerer hvis den andre fargen er spar. Pass med 3+ kort.
-* Hvis innmelding er 2 [red]#♥#, prefererer makker med pass eller 2 [black]#♠#.
+* Hvis innmelding er 2 [.diamonds]#♦#, og makker har 4-4 i major, melder man 2 [.hearts]#♥#, og innbryter korrigerer hvis den andre fargen er spar. Pass med 3+ kort.
+* Hvis innmelding er 2 [.hearts]#♥#, prefererer makker med pass eller 2 [.spades]#♠#.
 * Hvis to-farge DONT meldingen blir doblet: Pass=villig til å spille. RD=meld din andre farge, Ny farge=Jeg vil heller spille i denne fargen (skal alltid passes)!
 
 Husk: Vi er stort sett ikke interessert i utgang. Men hvis man en gang i skuddåret er interessert, kan makker melde 2 NT, hvor innmelder skal vise sin hånd etter følgende metode.
 
-* Hvis innbryter sa 2 [black]#♣#, melder hen 3 [black]#♣# med minimum, den andre fargen med max.
-* Hvis innmelding var 2 [red]#♦# viser 3 [black]#♣#/3 [red]#♦# minimum, og sidefarge i hhv [red]#♥# / [black]#♠# og 3 [red]#♥# / [black]#♠# med max.
-* Hvis innmelding var 2 [red]#♥#, melder man 3 [black]#♣#/[red]#♦# med minimum, samtidig som man viser sin beste farge og 3 [red]#♥# / [black]#♠# med max.
+* Hvis innbryter sa 2 [.clubs]#♣#, melder hen 3 [.clubs]#♣# med minimum, den andre fargen med max.
+* Hvis innmelding var 2 [.diamonds]#♦# viser 3 [.clubs]#♣#/3 [.diamonds]#♦# minimum, og sidefarge i hhv [.hearts]#♥# / [.spades]#♠# og 3 [.hearts]#♥# / [.spades]#♠# med max.
+* Hvis innmelding var 2 [.hearts]#♥#, melder man 3 [.clubs]#♣#/[.diamonds]#♦# med minimum, samtidig som man viser sin beste farge og 3 [.hearts]#♥# / [.spades]#♠# med max.
 
 Alle meldingene over må alerteres!
 
@@ -101,23 +101,23 @@ Alle meldingene over må alerteres!
 
 === Etter svake 2 fra de
 
-X = Takeout, selv etter 4 [black]#♠#, men kan passes ut for business av makker.
+X = Takeout, selv etter 4 [.spades]#♠#, men kan passes ut for business av makker.
 
 ==== Lebensohl etter dobling av svake 2
 
-Etter dobling av sperr er 2 NT Lebensohl: "Jeg har en svak hånd", rele til 3 [black]#♣#, deretter vises farge. Direkte melding på 3-trinnet viser en bedre hånd. Minst invitt. Hvis dobler har en "stor" hånd, kan han melde noe annet enn 3 [black]#♣#.
+Etter dobling av sperr er 2 NT Lebensohl: "Jeg har en svak hånd", rele til 3 [.clubs]#♣#, deretter vises farge. Direkte melding på 3-trinnet viser en bedre hånd. Minst invitt. Hvis dobler har en "stor" hånd, kan han melde noe annet enn 3 [.clubs]#♣#.
 
 Hvis DOBLER har passet først er 2 NT scrambling til minor, ikke Lebensohl
 
 === Michaels cue-bid
 
-Eksempel: (1 [black]#♠#) - 2 [black]#♠#
+Eksempel: (1 [.spades]#♠#) - 2 [.spades]#♠#
 
 Viser 0-10 eller 15+. minst 5-5 i fargene
 
 I minor: Begge major.
 Makker prefererer farge eller melder 2NT = hvilken hånd har du?
-Cue-bidder melder 3 [red]#♥# med 5-10 (fast arrival), 3 [black]#♣# / [red]#♦# med 15+, viser den beste fargen
+Cue-bidder melder 3 [.hearts]#♥# med 5-10 (fast arrival), 3 [.clubs]#♣# / [.diamonds]#♦# med 15+, viser den beste fargen
 
 I major: Minst 5-5 i den andre major + en minor.
 2 NT er spørsmål etter minoren. Hvis 2 NT melderen deretter melder majoren er det invitt.
@@ -131,7 +131,7 @@ Når?
 * Fienden har åpnet,
 * Det finnes minst to umeldte farger.
 * Ingen av oss har meldt noe eller doblet.
-* Etter at de har åpnet i en og støttet i to: (1 [red]#♥#) - P - 2 ([red]#♥#)
+* Etter at de har åpnet i en og støttet i to: (1 [.hearts]#♥#) - P - 2 ([.hearts]#♥#)
 
 Hvis de dobler unusual 2NT er P = lik lengde i fargene til makker.
 
@@ -144,12 +144,12 @@ Eksempler
 |===
 | N | Ø | S | V | beskrivelse
 
-|4 [red]#♥# | 4 NT | | | begge minor
-|1 [black]#♠# | X | 4 [black]#♠# | 4 NT | kan være 5-5 i to farger +
+|4 [.hearts]#♥# | 4 NT | | | begge minor
+|1 [.spades]#♠# | X | 4 [.spades]#♠# | 4 NT | kan være 5-5 i to farger +
  Scrambler til beste fit.
 |===
 
-(4 [red]#♥#) - 4 NT = unusual. Stort sett bare i gunstig sone?
+(4 [.hearts]#♥#) - 4 NT = unusual. Stort sett bare i gunstig sone?
 
 ==== Svar på unusual
 
@@ -186,15 +186,15 @@ Vi skiller mellom der det er en eller to kjente farger
 |===
 | N | Ø | S | S viser
 
-| 1 [black]#♣# | 2 [black]#♣# | X | straffe-sugen
-| 1 [black]#♣# | 2 [black]#♣# | 2 [red]#♦# | [red]#♦#, ikke krav
-| 1 [black]#♣# | 2 [black]#♣# | 2 [red]#♥# | [red]#♦#, invitt styrke
-| 1 [black]#♣# | 2 [black]#♣# | 2 [black]#♠# | [black]#♣#-støtte invitt+
-| 1 [red]#♦# | 2 [red]#♦# | 2 [red]#♥# | [black]#♣#, invitt
-| 1 [red]#♥# | 2 NT | 3 [red]#♦# | [red]#♥#-støtte, invitt+
-| 1 [black]#♠# | 2 [black]#♠# | 3 [red]#♥# | [black]#♠#-støtte, invitt+
-| 1 [black]#♠# | 2 [black]#♠# | 3 [black]#♠# | [black]#♠#-støtte, 7-10
-| 1 [black]#♠# | 2 NT | 3 [red]#♥# | som svake 2 [red]#♥#
+| 1 [.clubs]#♣# | 2 [.clubs]#♣# | X | straffe-sugen
+| 1 [.clubs]#♣# | 2 [.clubs]#♣# | 2 [.diamonds]#♦# | [.diamonds]#♦#, ikke krav
+| 1 [.clubs]#♣# | 2 [.clubs]#♣# | 2 [.hearts]#♥# | [.diamonds]#♦#, invitt styrke
+| 1 [.clubs]#♣# | 2 [.clubs]#♣# | 2 [.spades]#♠# | [.clubs]#♣#-støtte invitt+
+| 1 [.diamonds]#♦# | 2 [.diamonds]#♦# | 2 [.hearts]#♥# | [.clubs]#♣#, invitt
+| 1 [.hearts]#♥# | 2 NT | 3 [.diamonds]#♦# | [.hearts]#♥#-støtte, invitt+
+| 1 [.spades]#♠# | 2 [.spades]#♠# | 3 [.hearts]#♥# | [.spades]#♠#-støtte, invitt+
+| 1 [.spades]#♠# | 2 [.spades]#♠# | 3 [.spades]#♠# | [.spades]#♠#-støtte, 7-10
+| 1 [.spades]#♠# | 2 NT | 3 [.hearts]#♥# | som svake 2 [.hearts]#♥#
 
 
 |===

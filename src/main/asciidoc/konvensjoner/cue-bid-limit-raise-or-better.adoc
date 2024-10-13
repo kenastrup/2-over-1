@@ -9,9 +9,9 @@ Eksempel
 |===
 | Åpner | fi | Svarer | fi
 
-| 1 [red]#♥#
-| 1 [black]#♠#
-| 2 [black]#♠#
+| 1 [.hearts]#♥#
+| 1 [.spades]#♠#
+| 2 [.spades]#♠#
 | -
 |===
 

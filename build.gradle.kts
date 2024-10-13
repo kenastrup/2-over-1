@@ -39,7 +39,6 @@ tasks {
         setFontsDirs(
             listOf(
                 "src/main/resources/fonts",
-                //         //"/Library/Ruby/Gems/2.6.0/gems/asciidoctor-pdf-2.3.11/data/fonts"
             )
         )
         baseDirFollowsSourceFile()

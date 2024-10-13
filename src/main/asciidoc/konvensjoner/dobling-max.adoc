@@ -2,7 +2,7 @@
 
 Vi åpner eller melder inn i major, og makker støtter og de melder inn.
 
-1 [black]#♠# - (P) - 2 [black]#♠# - (3 [red]#♥#) - X
+1 [.spades]#♠# - (P) - 2 [.spades]#♠# - (3 [.hearts]#♥#) - X
 
 Gjelder opp til under 3 i vår farge.
 

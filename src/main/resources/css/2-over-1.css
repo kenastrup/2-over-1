@@ -53,10 +53,15 @@ html.dark-theme #doc {
     margin-left: 1rem;
 }
 
-.red {
+.hearts {
     color: red;
 }
-
-.black {
-    color:black;
+.clubs {
+    color: green;
+}
+.diamonds {
+    color: #ff6f00;
+}
+.spades {
+    color: black;
 }

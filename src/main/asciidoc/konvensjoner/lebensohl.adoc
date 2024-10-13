@@ -1,6 +1,6 @@
 = Lebensohl
 
-Når vi åpner i 1 NT og vi får direkte innmelding, høyere enn 2 [black]#♣#. 2 [black]#♣# ignorerer vi eller dobler(stayman).
+Når vi åpner i 1 NT og vi får direkte innmelding, høyere enn 2 [.clubs]#♣#. 2 [.clubs]#♣# ignorerer vi eller dobler(stayman).
 
 Hensikt: Kunne melde både avslag og kravmeldinger
 
@@ -9,7 +9,7 @@ Hensikt: Kunne melde både avslag og kravmeldinger
 
 | D | Negativ D
 | 2 X | Naturlig. Ikke krav. For spill.
-| 2 NT | Makker, du må melde 3 [black]#♣#! Deretter må du passe alle 3-meldinger unntatt Cue!
+| 2 NT | Makker, du må melde 3 [.clubs]#♣#! Deretter må du passe alle 3-meldinger unntatt Cue!
 | 3 X | UK. Naturlig
 | Cue-bid | Stayman uten stopper i innmeldte farge. UK. FADS.
 | Cue-bid via 2 NT| Stayman med stopper i innmeldte farge.

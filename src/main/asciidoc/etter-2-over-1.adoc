@@ -27,4 +27,4 @@ Målet med det neste svaret er å beskrive "formen" på hånda uten å antyde st
 
 Vi foretrekker å etablere GF, og går gjerne forbi major fargen for å etablere 2-over-1. Husk, makker må vise formen sin først.
 
-Eksempel: etter 1 [red]#♦# / 1 [red]#♥# åpning. Hvis vi har 4-4 i [black]#♠# og [black]#♣#, med verdier til utgang melder vi 2 [black]#♣# først.
+Eksempel: etter 1 [.diamonds]#♦# / 1 [.hearts]#♥# åpning. Hvis vi har 4-4 i [.spades]#♠# og [.clubs]#♣#, med verdier til utgang melder vi 2 [.clubs]#♣# først.

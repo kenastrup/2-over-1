@@ -6,9 +6,9 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 
 [cols="1, 2, 2, 2, 2"]
 |===
-| melding | 1 [red]#♥# | 1 [black]#♠# | PH 1 [red]#♥# | PH 1 [black]#♠#
+| melding | 1 [.hearts]#♥# | 1 [.spades]#♠# | PH 1 [.hearts]#♥# | PH 1 [.spades]#♠#
 
-| 1 [black]#♠#
+| 1 [.spades]#♠#
 | 4-kort+ 6+
 | -
 | 4-kort+, 6+
@@ -17,21 +17,21 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 | 1 NT
 4*| 1 NT forcing
 
-| 2 [black]#♣#
+| 2 [.clubs]#♣#
 2*| 2/1 4+ kort
 2*| 3+ støtte, Drury
 
-| 2 [red]#♦#
+| 2 [.diamonds]#♦#
 2*| 2/1 4+ kort
 2*| 4+ kort 10+
 
-| 2 [red]#♥#
+| 2 [.hearts]#♥#
 | 3-kort støtte 7-10
 | 2/1. 5+ kort
 | 3-kort støtte 7-9
 | 5+ kort 10+
 
-| 2 [black]#♠#
+| 2 [.spades]#♠#
 | TODO
 | 3-kort støtte 7-10
 | SPLimit. 4+ kort støtte, single/renons
@@ -42,18 +42,18 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 | TODO. Ingenting fornuftig?
 | SPLimit 4+støtte, har single/renons
 
-| 3 [black]#♣#
+| 3 [.clubs]#♣#
 4*| nøyaktig 4 kort støtte. 10-12 hp. Bergen raises
 
-| 3 [red]#♦#
+| 3 [.diamonds]#♦#
 4*| 4 kort  7-10 hp. Bergen
 
-| 3 [red]#♥#
+| 3 [.hearts]#♥#
 | Nøyaktig 4 kort støtte 0-6 hp
 | Tvetydig splinter
 2*| Nøyaktig 4-kort støtte, 0-6
 
-| 3 [black]#♠#
+| 3 [.spades]#♠#
 | tvetydig splinter
 | nøyaktig 4 kort støtte 0-6 hp +
 | TODO
@@ -61,12 +61,12 @@ Etter åpning 1 major i 1. og 2. hånd bruker vi disse svarene
 |===
 
 
-== 1 [red]#♥# -> 1 [black]#♠#
+== 1 [.hearts]#♥# -> 1 [.spades]#♠#
 Naturlig. Dette viser 6+ hp og 4+ farge. Kan være råsterk også.
 
 NOTE: Hvis man har GF kort og en annen 4/5 kortsfarge melder vi den andre først på to trinnet for å etablere GF, og melder sparen senere hvis behov. Siden vi melder veldig naturlig er det ikke noe stress med å vise fram sparen først. Åpner vil melde spar med 4-kort for å beskrive "formen" på hånda.
 
-== 1 [red]#♥# -> 2 [black]#♠#
+== 1 [.hearts]#♥# -> 2 [.spades]#♠#
 
 Sperr 0-5 poeng, 6+ kort. OK farge.
 
@@ -111,41 +111,41 @@ include::konvensjoner/modified-jacoby-2NT.adoc[leveloffset=+1]
 
 | 3
 | 5-6
-| 1 [black]#♠# -> 1 NT -> 2 x -> 2 [black]#♠#
+| 1 [.spades]#♠# -> 1 NT -> 2 x -> 2 [.spades]#♠#
 
 | 3
 | 7-10
-| 1 [black]#♠# -> 2 [black]#♠#
+| 1 [.spades]#♠# -> 2 [.spades]#♠#
 
 | 3
 | 10-12
-| 1 [black]#♠# -> 1 NT -> 2 x -> 3 [black]#♠#
+| 1 [.spades]#♠# -> 1 NT -> 2 x -> 3 [.spades]#♠#
 
 | 3
 | GF
-| 1 [black]#♠# -> 2/1 -> X -> støtte i major. +
+| 1 [.spades]#♠# -> 2/1 -> X -> støtte i major. +
 ALLTID 3-kort
 
 | 4
 | 0-5
-| 1 [black]#♠# -> 3 [black]#♠#. Sperr
+| 1 [.spades]#♠# -> 3 [.spades]#♠#. Sperr
 
 | 4
 | 6-9
-| 1 [black]#♠# -> 3 [black]#♣#. Konstruktiv støtte
+| 1 [.spades]#♠# -> 3 [.clubs]#♣#. Konstruktiv støtte
 
 | 4
 | 10-12
-| 1 [black]#♠# -> 3 [red]#♦#. Limit raise
+| 1 [.spades]#♠# -> 3 [.diamonds]#♦#. Limit raise
 
 | 4
 | GF
-| 1 [black]#♠# -> 3 andre major. +
+| 1 [.spades]#♠# -> 3 andre major. +
 Udefinert single/renons
 
 | 4
 | GF
-| 1 [black]#♠# -> 2 NT. Modified Jacoby. +
+| 1 [.spades]#♠# -> 2 NT. Modified Jacoby. +
   Ingen single/renons
 |===
 

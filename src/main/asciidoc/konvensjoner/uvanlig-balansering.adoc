@@ -5,7 +5,7 @@ Med 2-farge hånd er det vanskelig å balansere etter at fienden har funnet tilp
 |===
 | Nord | Øst | Syd | Vest
 
-| 1 [black]#♠# | P | 2 [black]#♠# | P
+| 1 [.spades]#♠# | P | 2 [.spades]#♠# | P
 | P | ? | |
 |===
 

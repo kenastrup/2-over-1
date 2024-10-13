@@ -32,10 +32,10 @@ Deretter er ny farge unntatt trumf spm etter spesifikk konge. Meld 7 med konge, 
 
 |===
 | Melding | ?
-| 6 [black]#♣# | Jeg har [black]#♣# K
-| 6 [red]#♦# | Jeg har [red]#♦# K, benekter [black]#♣#
-| 6 [red]#♥# | Jeg har [red]#♥# K, har ikke [black]#♣#/[red]#♦#
-| 6 [black]#♠# | Jeg har ingen konger!
+| 6 [.clubs]#♣# | Jeg har [.clubs]#♣# K
+| 6 [.diamonds]#♦# | Jeg har [.diamonds]#♦# K, benekter [.clubs]#♣#
+| 6 [.hearts]#♥# | Jeg har [.hearts]#♥# K, har ikke [.clubs]#♣#/[.diamonds]#♦#
+| 6 [.spades]#♠# | Jeg har ingen konger!
 
 |===
 

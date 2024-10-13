@@ -7,24 +7,24 @@ Følgende hovedkjennetegn:
 * beste minor
 * 5-kort majoråpning
 * 14-16 NT
-* 2 [black]#♣# er sterkere enn normalt
+* 2 [.clubs]#♣# er sterkere enn normalt
 * Mer aggressive sperremeldinger
 
 Navnet 2 over 1 kommer av at det blir etablert utgangskrav åpning 1 i farge, og svar i en lavere farge på to-trinnet. Dvs disse sekvensene:
 
-* 1 [red]#♦# -> 2 [black]#♣#
-* 1 [red]#♥# -> 2 [black]#♣#
-* 1 [red]#♥# -> 2 [red]#♦#
-* 1 [black]#♠# -> 2 [black]#♣#
-* 1 [black]#♠# -> 2 [red]#♦#
-* 1 [black]#♠# -> 2 [red]#♥#
+* 1 [.diamonds]#♦# -> 2 [.clubs]#♣#
+* 1 [.hearts]#♥# -> 2 [.clubs]#♣#
+* 1 [.hearts]#♥# -> 2 [.diamonds]#♦#
+* 1 [.spades]#♠# -> 2 [.clubs]#♣#
+* 1 [.spades]#♠# -> 2 [.diamonds]#♦#
+* 1 [.spades]#♠# -> 2 [.hearts]#♥#
 
 Dette gjelder selvsagt IKKE i 3 og 4 posisjon når svarer har passet først.
 
 2 over 1 kommer IKKE i effekt i disse situasjonene:
 
-* Etter åpning 1 [black]#♣#, da gjelder normale meldinger.
-* Etter 1 [red]#♦# er alle andre svar enn 2 [black]#♣# ikke GF.
+* Etter åpning 1 [.clubs]#♣#, da gjelder normale meldinger.
+* Etter 1 [.diamonds]#♦# er alle andre svar enn 2 [.clubs]#♣# ikke GF.
 * Når fienden melder inn eller dobler
 * Etter åpning i 3. og 4. hånd
 
@@ -37,25 +37,25 @@ Etter 2-over-1 er etablert gjelder disse reglene for meldinger
 1. *2 NT er Catch-all*: hvis vi ikke har annet å melde.
 2. *Opprinnelig major på to-trinnet*: 6-kort eller 5 sterke kort i fargen
 3. To i ny farge (ikke revers). 4+ kort. Med 6-4 og svak hånd prioriterer vi åpningsfargen, med sterk hånd prioriterer vi 4-korts fargen
-4. *2 [black]#♠# etter 1 [red]#♥# åpning*: (eneste revers på 2-trinnet). Prioriterer å melde sparen med både 4-6 og 4-5. Vi vil vise andre majoren.
+4. *2 [.spades]#♠# etter 1 [.hearts]#♥# åpning*: (eneste revers på 2-trinnet). Prioriterer å melde sparen med både 4-6 og 4-5. Vi vil vise andre majoren.
 5. *3 i ny minor*: Vanligvis 5-kort farge, eller veldig sterk 4-kort (AKQx). Ikke ekstra styrke
-6. *Høyne makker på 3-trinnet:* Vi er forsktig med dette. Krever 4-kortsfarge, evt god 3-kort. Til og med for 1 [black]#♠# - 2 [red]#♥# - 3 [red]#♥#. Vi melder istedet 2 NT, og korrigerer til 4 [red]#♥# hvis makker melder 3 NT.
+6. *Høyne makker på 3-trinnet:* Vi er forsktig med dette. Krever 4-kortsfarge, evt god 3-kort. Til og med for 1 [.spades]#♠# - 2 [.hearts]#♥# - 3 [.hearts]#♥#. Vi melder istedet 2 NT, og korrigerer til 4 [.hearts]#♥# hvis makker melder 3 NT.
 7. Hopp til 3-trinnet i ny farge. Splinter med minst 4-kort støtte.
 8. *3 i åpners major:* Solid farge minst AKQxxxx/AKQJxx/KQJxxxx/KQJTxx. Lover ikke ekstra styrke, men ikke helt minimum
 9. *3 NT:* Jevn hånd, sterkere enn 1 NT åpning (17-19?)
 10. *Enkelt hopp til ny farge på 4-trinnet:* Splinter
-11. *Hopp støtte til makkers andre farge på 4-trinnet:* Sjeldent. Hvis minor viser det veldig sterk 5-2-4-2 fordeling. Hvis [red]#♥#. Minimumshånd 5-4-2-2
-12. *Dobbelt hopp til 4 [red]#♥# over 2 m*. Veldig sjelden melding. Viser 6-kort farge. Minimum/subminimums hånd
+11. *Hopp støtte til makkers andre farge på 4-trinnet:* Sjeldent. Hvis minor viser det veldig sterk 5-2-4-2 fordeling. Hvis [.hearts]#♥#. Minimumshånd 5-4-2-2
+12. *Dobbelt hopp til 4 [.hearts]#♥# over 2 m*. Veldig sjelden melding. Viser 6-kort farge. Minimum/subminimums hånd
 13. *4 i opprinnelig major:*. Sjelden. Minimumshånd med svak hånd med 7-8 kort med minst et hull.
 
 === Svarhåndens andre melding
 
 1. *2 NT:* Catch-all. Ikke noe annet å melde.
 2. *Hopp til 3 NT:* Egen 1 NT åpning, uten tilpass
-3. *2 [black]#♠# preferanse:* 3-kort farge. Åpner melder da videre på sin hånd på søk etter beste utgang eller slem (NT/major)
-4. *Høyning til 3 [red]#♦#:* 1 [black]#♠# - 2 [black]#♣# - 2 [red]#♦# - 3 [red]#♦#. 4-kort uten god støtte til major.Ikke noe spes. Fortsetter å lete etter beste utgang.
-5. *Hopp preferanse til 3 [black]#♠#:* Sterk hånd ca 15+. 3-kort støtte, god farge. Ber makker om kontrollmeldinger, mangel på det viser svak hånd.
-6. *Høyning til 3 i åpners major:* (1 [black]#♠# - 2 [black]#♣# - 2 [red]#♥# - 3 [red]#♥#) eller (1 [black]#♠# - 2 [black]#♣# - 2 [black]#♠# - 3 [black]#♠#). Dette foretrekker vi når vi har støtte. Kontrollmeldinger følger, hvis ikke svak hånd.
+3. *2 [.spades]#♠# preferanse:* 3-kort farge. Åpner melder da videre på sin hånd på søk etter beste utgang eller slem (NT/major)
+4. *Høyning til 3 [.diamonds]#♦#:* 1 [.spades]#♠# - 2 [.clubs]#♣# - 2 [.diamonds]#♦# - 3 [.diamonds]#♦#. 4-kort uten god støtte til major.Ikke noe spes. Fortsetter å lete etter beste utgang.
+5. *Hopp preferanse til 3 [.spades]#♠#:* Sterk hånd ca 15+. 3-kort støtte, god farge. Ber makker om kontrollmeldinger, mangel på det viser svak hånd.
+6. *Høyning til 3 i åpners major:* (1 [.spades]#♠# - 2 [.clubs]#♣# - 2 [.hearts]#♥# - 3 [.hearts]#♥#) eller (1 [.spades]#♠# - 2 [.clubs]#♣# - 2 [.spades]#♠# - 3 [.spades]#♠#). Dette foretrekker vi når vi har støtte. Kontrollmeldinger følger, hvis ikke svak hånd.
 7. *Hopp i ny farge 3 eller 4-trinnet:* Splinter i sist meldte farge.
 8. *Hopp til 4 i åpners major:* Sjeldent og uvanlig, siden de tar så mye melderom. Minimums kravhånd og god egen farge og god i makkers farge. Ingen kontroller, ingen single/renons i andre farger.
 9. *Ny farge når vi ikke har etablert tilpass:* Naturlig, viser lengde i fargen. Vi trenger ikke 4. farge krav her. Viser ikke ekstra.

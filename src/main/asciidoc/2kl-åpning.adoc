@@ -1,11 +1,11 @@
-= Åpning 2 [black]#♣#
+= Åpning 2 [.clubs]#♣#
 
-2 [black]#♣# apningen er normalt sterkere enn i Nordisk Standard.
+2 [.clubs]#♣# apningen er normalt sterkere enn i Nordisk Standard.
 Med balanserte hender er det 22hp+.
 
 Ingen antall poeng med ubalanserte hender. Men god spillestyrke!
 
-Vi åpner 2 [black]#♣# når vi har så spillesterk hånd at vi ikke klarer tanken på at andre meldinger blir passet.
+Vi åpner 2 [.clubs]#♣# når vi har så spillesterk hånd at vi ikke klarer tanken på at andre meldinger blir passet.
 
 Tommelfingerregel: 1 stikk fra utgang på egen hånd.
 
@@ -23,19 +23,19 @@ Eksempel:
 |===
 |melding |beskrivelse
 
-| 2 [red]#♦#
-| Hvilemelding. Hvis neste melding er 3 [black]#♣#, eller steget over makkers melding er det 0-4
+| 2 [.diamonds]#♦#
+| Hvilemelding. Hvis neste melding er 3 [.clubs]#♣#, eller steget over makkers melding er det 0-4
 
-| 2 [red]#♥# / [black]#♠#
+| 2 [.hearts]#♥# / [.spades]#♠#
 | 5-kort. Minst 2 av 3 topphonnører, vanligvis 8+
 
 | 2 NT
 | Stoppere i alle farger, 8+
 
-| 3 [black]#♣# / 3 [red]#♦#
+| 3 [.clubs]#♣# / 3 [.diamonds]#♦#
 | 3 av 4 topphonnører og 5-kort, vanligvis 8+
 
-| 3 [red]#♥# / [black]#♠#
+| 3 [.hearts]#♥# / [.spades]#♠#
 | Svak 7-kort farge
 
 |
@@ -51,9 +51,9 @@ Eksempel:
 * 2 NT = krav til utgang, har ikke noe fornuftig å melde
 * billigste farge på 3-trinnet, andre avslag: 0-3 hp. Eneste mulighet for å stoppe under utgang.
 
-== 2 [black]#♣# -> 2 [red]#♦# -> 2 NT
+== 2 [.clubs]#♣# -> 2 [.diamonds]#♦# -> 2 NT
 
-3 [black]#♣# = Puppet Stayman.
+3 [.clubs]#♣# = Puppet Stayman.
 
 == Fast Arrival virker
 Enkel støtte er sterkere enn å hoppe i utgang.

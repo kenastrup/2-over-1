@@ -10,11 +10,11 @@
 |===
 | Makker | RHO | Du
 
-| 1 [red]#♦# | 1 [black]#♠# | 2 [red]#♥#
-| 1 [red]#♥# | 2 [black]#♣# | 2 [black]#♠#
-| 1 [black]#♠# | 3 [black]#♣# | 3 [red]#♥#
-| 1 [black]#♣# | 3 [red]#♦# | 3 [red]#♥#
-| 1 [black]#♣# | 1 [black]#♠# | 2 [red]#♦#
+| 1 [.diamonds]#♦# | 1 [.spades]#♠# | 2 [.hearts]#♥#
+| 1 [.hearts]#♥# | 2 [.clubs]#♣# | 2 [.spades]#♠#
+| 1 [.spades]#♠# | 3 [.clubs]#♣# | 3 [.hearts]#♥#
+| 1 [.clubs]#♣# | 3 [.diamonds]#♦# | 3 [.hearts]#♥#
+| 1 [.clubs]#♣# | 1 [.spades]#♠# | 2 [.diamonds]#♦#
 | you | get | the point...
 |===
 
@@ -23,9 +23,9 @@
 |===
 | Makker | RHO | Du | Hvorfor
 
-| 1 [red]#♦# | 1 [red]#♥# | 1 [black]#♠# | 1-trinnet
-| 1 [black]#♣# | 3 [red]#♥# | 4 [black]#♣# | 4-trinnet
-| 1 [black]#♣# | 2 [black]#♣#* | 2 [red]#♦# | Michaels (2 farge hånd)
+| 1 [.diamonds]#♦# | 1 [.hearts]#♥# | 1 [.spades]#♠# | 1-trinnet
+| 1 [.clubs]#♣# | 3 [.hearts]#♥# | 4 [.clubs]#♣# | 4-trinnet
+| 1 [.clubs]#♣# | 2 [.clubs]#♣#* | 2 [.diamonds]#♦# | Michaels (2 farge hånd)
 | you | get | the point...
 |===
 
@@ -36,10 +36,10 @@ Da må vi doble negativt, for så å melde egen farge:
 |===
 | # | Makker | RHO | Du | LHO
 
-| 1 | 1 [red]#♥# | 1 [black]#♠# | X | Pass
-| | 2 [black]#♣# | Pass | 2 [red]#♦# |
-| 2 | 1 [black]#♠# |2 [black]#♣# | X | Pass
-| | 3 [red]#♦# | Pass | 3 [red]#♥# |
+| 1 | 1 [.hearts]#♥# | 1 [.spades]#♠# | X | Pass
+| | 2 [.clubs]#♣# | Pass | 2 [.diamonds]#♦# |
+| 2 | 1 [.spades]#♠# |2 [.clubs]#♣# | X | Pass
+| | 3 [.diamonds]#♦# | Pass | 3 [.hearts]#♥# |
 |===
 
 NB! Negativ

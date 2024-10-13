@@ -14,41 +14,41 @@ Svarhånden bør ha stoppere i de tre andre fargene for å la den stå, hvis ikk
 |===
 | melding | beskrivelse
 
-| 4 [black]#♣# | "Jeg tør ikke 3 NT", pass eller ta ut i ruter
-| 4 [red]#♦# | Har du singleton? +
-               4 [red]#♥# = single [red]#♥# +
-               4 [black]#♠# = single [black]#♠# +
+| 4 [.clubs]#♣# | "Jeg tør ikke 3 NT", pass eller ta ut i ruter
+| 4 [.diamonds]#♦# | Har du singleton? +
+               4 [.hearts]#♥# = single [.hearts]#♥# +
+               4 [.spades]#♠# = single [.spades]#♠# +
                4 NT = single minor +
-               5 [black]#♣# = ingen single
-| 4 [black]#♠# | Sign-off i egen langfarge
-| 4 [black]#♠# | Sign-off i egen langfarge
+               5 [.clubs]#♣# = ingen single
+| 4 [.spades]#♠# | Sign-off i egen langfarge
+| 4 [.spades]#♠# | Sign-off i egen langfarge
 | 4 NT | Sleminvitt. "Vi har 11 stikk med dine 7 stikk! Har du et stikk ekstra?" +
          Pass = nei +
          6 minor = Ja!
 | 5 NT | "Jeg er tom i minorfargen, men vi kan spille 7 i minor hvis du har en solid farge helt selv." +
-          6 [black]#♣# / 6 [red]#♦# = Jeg har AKQxxxx, +
-          7 [black]#♣# / [red]#♦# = Jeg har AKQJxxx/AKQxxxxx
-| 6 [black]#♣# / [red]#♦# | Vi flesker til! Du korrigerer til riktig minor om nødvendig
+          6 [.clubs]#♣# / 6 [.diamonds]#♦# = Jeg har AKQxxxx, +
+          7 [.clubs]#♣# / [.diamonds]#♦# = Jeg har AKQJxxx/AKQxxxxx
+| 6 [.clubs]#♣# / [.diamonds]#♦# | Vi flesker til! Du korrigerer til riktig minor om nødvendig
 |===
 
-== 4 [red]#♦# Har du singleton?
-Hvorfor spørre om single med 4 [red]#♦#?
+== 4 [.diamonds]#♦# Har du singleton?
+Hvorfor spørre om single med 4 [.diamonds]#♦#?
 
 .Eksempel
 
-[black]#♠# AKQx
-[red]#♥# xxxx
-[red]#♦# AKQx
-[black]#♣# xxx
+[.spades]#♠# AKQx
+[.hearts]#♥# xxxx
+[.diamonds]#♦# AKQx
+[.clubs]#♣# xxx
 
 |===
 | Åpner | Svarer
 
-| 3 NT | 4 [red]#♦#
-| 4 [red]#♥# | 6 [black]#♣#
+| 3 NT | 4 [.diamonds]#♦#
+| 4 [.hearts]#♥# | 6 [.clubs]#♣#
 |===
 
-med single hjerter står 6 [black]#♣#.
+med single hjerter står 6 [.clubs]#♣#.
 
 Hva gjør åpner hvis han har en (usannsynlig) renons?
 Hvis makker melder 6, hadde du korrekt kortfarge, korriger til 7!

@@ -4,15 +4,15 @@
 |===
 | melding | beskrivelse
 
-| 1 [black]#♣# / [red]#♦# | 11-22 hp beste minor
-| 1 [red]#♥# / [black]#♠# | 11-22 hp 5+ kort
+| 1 [.clubs]#♣# / [.diamonds]#♦# | 11-22 hp beste minor
+| 1 [.hearts]#♥# / [.spades]#♠# | 11-22 hp 5+ kort
 | 1 NT | 14-16 hp, jevn hånd kan inneholde 5-kort major
-| 2 [black]#♣# | Stor sterk
-| 2 [red]#♦# / [red]#♥# / [black]#♠# | Sperr, aggresiv
+| 2 [.clubs]#♣# | Stor sterk
+| 2 [.diamonds]#♦# / [.hearts]#♥# / [.spades]#♠# | Sperr, aggresiv
 | 2 NT | 20-21 NT, kan inneholde 5-kort major
-| 3 [black]#♣# / [red]#♦# / [red]#♥# / [black]#♠# | Sperr, aggressiv
+| 3 [.clubs]#♣# / [.diamonds]#♦# / [.hearts]#♥# / [.spades]#♠# | Sperr, aggressiv
 | 3 NT | Sjansegrand, Stålfarge i minor 7+
-| 4 [black]#♣# / [red]#♦# / [red]#♥# / [black]#♠# | Sperr, aggressiv
+| 4 [.clubs]#♣# / [.diamonds]#♦# / [.hearts]#♥# / [.spades]#♠# | Sperr, aggressiv
 
 
 |===

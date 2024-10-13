@@ -17,45 +17,45 @@ Ideen er:
 
 == Meldinger etter Bergen raises
 
-=== Etter 3 [black]#♣#
-3 [black]#♣# viser 4-kort støtte og 7-9. "Konstruktiv støtte".
+=== Etter 3 [.clubs]#♣#
+3 [.clubs]#♣# viser 4-kort støtte og 7-9. "Konstruktiv støtte".
 
 |===
 | melding | Beskrivelse
 
-| 3 [red]#♦#
+| 3 [.diamonds]#♦#
 | Viser sidefarge. Interesse for utgang. +
 Åpner slår av i 3 major med minimum. +
 Åpner melder utgang med max.
 
-| 3 [red]#♥#
-| Hvis major er [red]#♥# = Avslag +
-Hvis major er [black]#♠# = sidefarge. Invitt.
+| 3 [.hearts]#♥#
+| Hvis major er [.hearts]#♥# = Avslag +
+Hvis major er [.spades]#♠# = sidefarge. Invitt.
 
-| 3 [black]#♠#
-| Hvis major er [black]#♠# = Avslag +
-Hvis major er [red]#♥# = Sterk og naturlig med interesse for slem. Svarhånda forventes å oppføre seg intelligent. Avslå med utgang, eller cue-bids
+| 3 [.spades]#♠#
+| Hvis major er [.spades]#♠# = Avslag +
+Hvis major er [.hearts]#♥# = Sterk og naturlig med interesse for slem. Svarhånda forventes å oppføre seg intelligent. Avslå med utgang, eller cue-bids
 |===
 
-=== Etter 3 [red]#♦#
+=== Etter 3 [.diamonds]#♦#
 
-3 [red]#♦# viser 10-12 og 4-kort støtte.
+3 [.diamonds]#♦# viser 10-12 og 4-kort støtte.
 
 |===
 | melding | beskrivelse
 
-| 3 [red]#♥#
-| Hvis major er [red]#♥# = Avslag +
-Hvis major er [black]#♠# = Sidefarge med interesse for utgang
+| 3 [.hearts]#♥#
+| Hvis major er [.hearts]#♥# = Avslag +
+Hvis major er [.spades]#♠# = Sidefarge med interesse for utgang
 
-| 3 [black]#♠#
-| Hvis major er [black]#♠# = Avslag +
-Hvis major er [red]#♥# = Sterk naturlig med interesse for slem.
+| 3 [.spades]#♠#
+| Hvis major er [.spades]#♠# = Avslag +
+Hvis major er [.hearts]#♥# = Sterk naturlig med interesse for slem.
 |===
 
 === Etter sperr i major
 
-1 [red]#♥# -> 3 [red]#♥# viser 4 kort støtte og 0-6 poeng. Sperrebetont.
+1 [.hearts]#♥# -> 3 [.hearts]#♥# viser 4 kort støtte og 0-6 poeng. Sperrebetont.
 
 |===
 | melding | beskrivelse
@@ -67,39 +67,39 @@ Hvis major er [red]#♥# = Sterk naturlig med interesse for slem.
 | Vi knaller til! 18+
 |===
 
-=== Åpners melding etter 1 [black]#♠# -> 3 [red]#♥#
+=== Åpners melding etter 1 [.spades]#♠# -> 3 [.hearts]#♥#
 
 Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
 
 |===
 | melding | beskrivelse
 
-| 3 [black]#♠#
+| 3 [.spades]#♠#
 | Rele. Spør etter kortfargen +
-3 NT = kortfarge [black]#♣# +
-4 [black]#♣# kortfarge [red]#♦# +
-4 [red]#♦# kortfarge [red]#♥#
+3 NT = kortfarge [.clubs]#♣# +
+4 [.clubs]#♣# kortfarge [.diamonds]#♦# +
+4 [.diamonds]#♦# kortfarge [.hearts]#♥#
 
-| 4 [black]#♠#
+| 4 [.spades]#♠#
 | Avslag
 |===
 
-Eksempel etter 1 [red]#♥# -> 3 [black]#♠#:
+Eksempel etter 1 [.hearts]#♥# -> 3 [.spades]#♠#:
 
 |===
 | Åpner | Svarer
 
-| [black]#♠# A5 | [black]#♠# KQ42
-| [red]#♥# AK843 | [red]#♥# QJ52
-| [red]#♦# DKJT9 | [red]#♦# 5
-| [black]#♣# T5 | [black]#♣# A983
+| [.spades]#♠# A5 | [.spades]#♠# KQ42
+| [.hearts]#♥# AK843 | [.hearts]#♥# QJ52
+| [.diamonds]#♦# DKJT9 | [.diamonds]#♦# 5
+| [.clubs]#♣# T5 | [.clubs]#♣# A983
 
 | meldinger
 |
 
-| 1 [red]#♥# | 3 [black]#♠# (1)
-| 3 NT (2) | 4 [red]#♦# (3)
-| 4 [red]#♥# (4)
+| 1 [.hearts]#♥# | 3 [.spades]#♠# (1)
+| 3 NT (2) | 4 [.diamonds]#♦# (3)
+| 4 [.hearts]#♥# (4)
 |===
 
 1. GF. 4-kort støtte. Ukjent kortfarge
@@ -107,7 +107,7 @@ Eksempel etter 1 [red]#♥# -> 3 [black]#♠#:
 3. Rutern min er kort!
 4. Fan, da har jeg bortkastede verdier i ruter. Hvorfor var du ikke kort i kløver istedet?
 
-=== Åpners melding etter 1 [red]#♥# -> 3 [black]#♠#
+=== Åpners melding etter 1 [.hearts]#♥# -> 3 [.spades]#♠#
 
 Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
 
@@ -116,7 +116,7 @@ Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
 
 | 3 NT
 | Rele. Spør etter kortfargen +
-4 [black]#♣# / [red]#♦# / [red]#♥# viser den.
+4 [.clubs]#♣# / [.diamonds]#♦# / [.hearts]#♥# viser den.
 
 | 4 hj
 | Avslag

@@ -3,6 +3,6 @@
 Denne har effekt når vi åpner, de melder inn, og vi dobler.
 Gjelder uendelig høyt.
 
-1 [black]#♣# - (1 [black]#♠#) - X
+1 [.clubs]#♣# - (1 [.spades]#♠#) - X
 
 Viser 4-kort i andre major / begge major. Hvis begge major er meldt, viser det begge minor.

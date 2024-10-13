@@ -22,7 +22,7 @@ Etter åpners revers er
 == Hopp revers
 
 Hopp revers er når man hopper i en revers farge: Eksempel:
-1 [red]#♦# -> 1 [red]#♥# -> 2 [black]#♠#.
+1 [.diamonds]#♦# -> 1 [.hearts]#♥# -> 2 [.spades]#♠#.
 
 Det er krav til utgang (19+). Naturlig fortsettelse
 

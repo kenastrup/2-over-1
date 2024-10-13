@@ -22,11 +22,11 @@ Etter
 | Pass
 | Javel!
 
-| 2 [black]#♣#
+| 2 [.clubs]#♣#
 | kunstig, invitt-verdier, normalt 5-kort i egen (major)farge. Evt 4-kort i andre major. "Checkback stayman". +
 Åpner prioriterer å støtte makker med 3-kort, eller melder den andre 4-kort majoren.
 
-| 2 [red]#♦#
+| 2 [.diamonds]#♦#
 | kunstig, krav til utgang. Alle andre GF hender. +
 Meld naturlig etter dette
 
@@ -51,7 +51,7 @@ Meld naturlig etter dette
 |===
 |melding |beskrivelse
 
-| 2 [red]#♦#
+| 2 [.diamonds]#♦#
 | Jeg har ikke 3-kort i din farge eller 4-kort i andre major
 
 | 2Y
