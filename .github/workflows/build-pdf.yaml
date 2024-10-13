@@ -19,7 +19,7 @@ jobs:
         steps:
             - uses: actions/upload-artifact@v4
               with:
-                name: 2-over-1-pdf-upload
+                name: 2-over-1-pdf
                 path: build/docs/asciidocPdf/2-over-1.pdf
     upload-html-artifact:
         runs-on: ubuntu-latest
@@ -27,7 +27,7 @@ jobs:
         steps:
             -   uses: actions/upload-artifact@v4
                 with:
-                    name: 2-over-1-html-upload
+                    name: 2-over-1-html
                     path: build/docs/asciidoc
     deploy-pages:
         runs-on: ubuntu-latest
@@ -36,7 +36,7 @@ jobs:
             pages: write
             id-token: write
         environment:
-            name: github-pages
+            name: 2-over-1-html
             url: ${{ steps.deployment.outputs.page_url }}
         steps:
             - name: Deploy to github pages
