@@ -34,10 +34,10 @@ jobs:
             id-token: write
         environment:
             name: github-pages
-            url: 2-over-1
+            url: ${{ steps.deployment.outputs.page_url }}
         steps:
             - name: Deploy to github pages
-              id: html-deployment
+              id: deployment
               uses: actions/deploy-pages@v4
 
 
