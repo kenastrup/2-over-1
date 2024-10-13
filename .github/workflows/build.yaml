@@ -30,7 +30,7 @@ jobs:
             - uses: actions/upload-pages-artifact@v3
               with:
                 name: github-pages
-                path: build/docs/asciidoc/
+                path: build/docs/asciidoc
     deploy-pages:
         runs-on: ubuntu-latest
         needs: upload-html-artifact
