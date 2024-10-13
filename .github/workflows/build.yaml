@@ -1,18 +1,15 @@
-name: build-system
+name: Build
 on: [push]
 jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
-            - name: Setup java 21 for amd64
-              uses: actions/setup-java@v4
-              with:
-                  java-version: '21'
-                  distribution: 'zulu'
-                  # architecture: 'amd64'
-                  cache: 'gradle'
-            - run: ./gradlew asciidoctor asciidoctorPdf
+            - name: Checkout sources
+              uses: actions/checkout@v4
+            - name: Setup gradle
+              uses: gradle/actions/setup-gradle@v3
+            - name: Build with gradle
+              run: ./gradlew asciidoctor asciidoctorPdf
             - name: Setup pages
               if: github.ref == 'refs/heads/master'
               uses: actions/configure-pages@v5
