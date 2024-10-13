@@ -1,8 +1,0 @@
-= Negativ dobling
-
-Denne har effekt når vi åpner, de melder inn, og vi dobler.
-Gjelder uendelig høyt.
-
-1 [black]#♣# - (1 [black]#♠#) - X
-
-Viser 4-kort i andre major / begge major. Hvis begge major er meldt, viser det begge minor.

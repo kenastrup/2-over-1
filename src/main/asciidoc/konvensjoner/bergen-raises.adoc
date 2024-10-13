@@ -1,0 +1,124 @@
+= Nøyaktig 4 kort støtte: Bergen raises
+
+Bergen raises er basert på https://www.bridgebum.com/law_of_total_tricks.php[Law of Total Tricks], som sier at man kan spille til det nivået man har nok trumf til. Har man ni trumf kan man melde 3.
+
+Bergen raises oppstår etter åpning i 1 major farge og farge svar på 3-trinnet.
+
+Det er ikke alle som liker denne!
+
+Bergen raises er kun på hvis pass eller doble fra fienden. Ellers ikke.
+
+Ideen er:
+
+* Vi ikke har nok rom verdier til å kreve til utgang, da bruker vi andre metoder.
+* Eller vi har krav til utgang og en single/renons.
+* Vi vet hvilken trumf vi kan spille, og vi har minst 9 stk. Ifølge Loven.
+* Vi sperrer motparten til venstre ute fra hele to-trinnet. Vanskeligere å komme inn
+
+== Meldinger etter Bergen raises
+
+=== Etter 3 [.clubs]#♣#
+3 [.clubs]#♣# viser 4-kort støtte og 7-9. "Konstruktiv støtte".
+
+|===
+| melding | Beskrivelse
+
+| 3 [.diamonds]#♦#
+| Viser sidefarge. Interesse for utgang. +
+Åpner slår av i 3 major med minimum. +
+Åpner melder utgang med max.
+
+| 3 [.hearts]#♥#
+| Hvis major er [.hearts]#♥# = Avslag +
+Hvis major er [.spades]#♠# = sidefarge. Invitt.
+
+| 3 [.spades]#♠#
+| Hvis major er [.spades]#♠# = Avslag +
+Hvis major er [.hearts]#♥# = Sterk og naturlig med interesse for slem. Svarhånda forventes å oppføre seg intelligent. Avslå med utgang, eller cue-bids
+|===
+
+=== Etter 3 [.diamonds]#♦#
+
+3 [.diamonds]#♦# viser 10-12 og 4-kort støtte.
+
+|===
+| melding | beskrivelse
+
+| 3 [.hearts]#♥#
+| Hvis major er [.hearts]#♥# = Avslag +
+Hvis major er [.spades]#♠# = Sidefarge med interesse for utgang
+
+| 3 [.spades]#♠#
+| Hvis major er [.spades]#♠# = Avslag +
+Hvis major er [.hearts]#♥# = Sterk naturlig med interesse for slem.
+|===
+
+=== Etter sperr i major
+
+1 [.hearts]#♥# -> 3 [.hearts]#♥# viser 4 kort støtte og 0-6 poeng. Sperrebetont.
+
+|===
+| melding | beskrivelse
+
+| Pass
+| Javel! Mindre enn 18 hp
+
+| 4 M
+| Vi knaller til! 18+
+|===
+
+=== Åpners melding etter 1 [.spades]#♠# -> 3 [.hearts]#♥#
+
+Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
+
+|===
+| melding | beskrivelse
+
+| 3 [.spades]#♠#
+| Rele. Spør etter kortfargen +
+3 NT = kortfarge [.clubs]#♣# +
+4 [.clubs]#♣# kortfarge [.diamonds]#♦# +
+4 [.diamonds]#♦# kortfarge [.hearts]#♥#
+
+| 4 [.spades]#♠#
+| Avslag
+|===
+
+Eksempel etter 1 [.hearts]#♥# -> 3 [.spades]#♠#:
+
+|===
+| Åpner | Svarer
+
+| [.spades]#♠# A5 | [.spades]#♠# KQ42
+| [.hearts]#♥# AK843 | [.hearts]#♥# QJ52
+| [.diamonds]#♦# DKJT9 | [.diamonds]#♦# 5
+| [.clubs]#♣# T5 | [.clubs]#♣# A983
+
+| meldinger
+|
+
+| 1 [.hearts]#♥# | 3 [.spades]#♠# (1)
+| 3 NT (2) | 4 [.diamonds]#♦# (3)
+| 4 [.hearts]#♥# (4)
+|===
+
+1. GF. 4-kort støtte. Ukjent kortfarge
+2. Javel, jeg kan være interessert i slem! Hvilken kort farge har du?
+3. Rutern min er kort!
+4. Fan, da har jeg bortkastede verdier i ruter. Hvorfor var du ikke kort i kløver istedet?
+
+=== Åpners melding etter 1 [.hearts]#♥# -> 3 [.spades]#♠#
+
+Denne meldingen viser en kortfarge og 4-kort støtte. Krav til utgang.
+
+|===
+| melding | beskrivelse
+
+| 3 NT
+| Rele. Spør etter kortfargen +
+4 [.clubs]#♣# / [.diamonds]#♦# / [.hearts]#♥# viser den.
+
+| 4 hj
+| Avslag
+|===
+

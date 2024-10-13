@@ -1,0 +1,74 @@
+= 2/1 Game Force
+:description: 2-over-1
+:authors: Ken Are Astrup
+:icons: font
+:toc: left
+:sectnums:
+:leveloffset: +1
+:docinfo: shared
+
+TODO: https://bridge-tips.co.il/wp-content/uploads/2012/05/BB10-Larry-Cohens-12.pdf[Larrys 12 conventions]
+TODO: Fit-bids.
+
+<<<
+include::ordliste.adoc[]
+
+<<<
+include::introduksjon.adoc[]
+
+<<<
+include::åpninger.adoc[]
+
+//<<<
+// OBSOLETE tatt inn i introduksjon
+//include::etter-2-over-1.adoc[]
+
+<<<
+include::eksempler-2-over-1.adoc[]
+
+<<<
+include::minor-åpning.adoc[]
+
+<<<
+include::major-åpning.adoc[]
+
+<<<
+include::oversikt-nt-åpninger.adoc[]
+
+<<<
+include::1NT-åpning.adoc[]
+
+<<<
+include::2NT-åpning.adoc[]
+
+<<<
+include::2kl-åpning.adoc[]
+
+<<<
+include::svake-to.adoc[]
+
+<<<
+include::3-NT-åpning.adoc[]
+
+<<<
+include::sperreåpninger.adoc[]
+
+<<<
+include::slemverktøy.adoc[]
+
+<<<
+include::konkurranse.adoc[]
+
+<<<
+include::prinsipper.adoc[]
+
+<<<
+include::konvensjoner.adoc[]
+
+<<<
+include::diskusjonspunkter.adoc[]
+
+<<<
+include::ressurser.adoc[]
+
+:leveloffset: -1

@@ -1,16 +1,20 @@
-extends: default
+extends: base
+#-with-font-fallbacks
 page:
     size: A4
 base:
     font-family: Arial
 role:
-    red:
-        font-color: #ff0000
-    black:
+    clubs:
+        font-color: #008000
+    diamonds:
+        font-color: #FF6F00
+    hearts:
+        font-color: #FF0000
+    spades:
         font-color: #000000
 font:
     catalog:
-        merge: false
         Arial:
             normal: Arial.ttf
             italic: Arial Italic.ttf

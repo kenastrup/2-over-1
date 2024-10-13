@@ -1,0 +1,20 @@
+= Ordliste / forkortelser
+
+[horizontal]
+
+1430:: Svar etter RKC. 1. trinn = 1 eller 4
+4fk:: 4 farge krav (til utgang)
+DONT:: Disturbing Opponents No Trump
+DOPI:: D = 0, P = 1, se ROPI
+DOSO:: Disturbing Opponents Strong Openings
+FADS:: Fast Arrival Denies Stoppers. Lebensohl
+m:: Minor
+M:: Major
+OBAR BIDS:: Opponents Bid And Raise - Balancing In Direct Seat
+P:: Pass
+PH:: Passet Hånd
+RKC:: Roman KeyCard Blackwood aka 5-ess blackwood
+ROPI:: R = 0, P = 1, se DOPI
+UK:: UtgangsKrav
+X:: Dobling
+XX:: Redobling

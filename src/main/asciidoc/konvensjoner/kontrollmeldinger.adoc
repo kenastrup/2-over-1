@@ -1,0 +1,10 @@
+= Kontrollmeldinger
+
+Vi bruker uttrykket kontroll meldinger om meldinger som viser kontroll i en farge: A/K/single/renons.
+
+Under 3 i vår farge bruker vi ikke kontrollmeldinger
+Over 3 i vår farge bruker vi kontrollmeldinger.
+
+Ikke hopp til kontrollmelding.
+
+Italiensk metode: Meld 1 og 2 kontroller om hverandre.

@@ -1,0 +1,30 @@
+= Hva skjer etter 2/1 åpning?
+
+OBSOLETE: tatt inn i introduksjon
+
+Når vi har etablert utgangskrav er det ikke lenger noen fare for at noen skal passe under utgang. Det er derfor ikke noen vits å hoppe uten god grunn.
+
+== Åpners gjenmelding
+* Hopp i egen farge viser solid farge = = AKQJxx, AKQxxxx eller bedre. Hvis makker har 1 kort, så forventer vi at fargen skal stå helt til bunnen. "Hvis vi ikke ender opp i NT, så er min farge trumf". Viser bare gode kort i fargen, ikke ekstra i sidefargene. Fortsett med cue-bids.
+* Gjenta egen farge viser ekstra lengde 6+
+* Ny farge viser 4-korts sidefarge, gjentas hvis 5-5
+* Reverseringer viser ikke nødvendigvis ikke ekstra styrke, kan være helt minimum
+* 2 NT er også naturlig. Lover ikke noe ekstra. Vanligvis 5-3-3-2 med 12-14 hp eller 18-19 hp. Hvis sistenevnte, vises det senere. Husk det er sjelden kost.
+* Fast Arrival (hopp til utgang) hvis du "vet" kontrakten og ikke har noe ekstra viser minimum
+* Unngå hopp. Vi skal i utgang, vis form først. Når vi vet trumf eller NT, viser vi styrke.
+* Hopp i ny farge er ALDRI naturlig farge.
+* Hopp i ny farge = splinter i sidefargen til åpner. Minst 4-kort støtte og single/renons. Splinter kan utføres med minimumshender. Sleminteresse kan vises senere
+
+Målet med det neste svaret er å beskrive "formen" på hånda uten å antyde styrke. Meldingene er NATURLIG i de fleste tilfeller.
+
+=== Åpners hoppmeldinger:
+
+* Hopp i egen farge: "Jeg vet trumf, har solid farge"
+* Hopp i ny farge: Splinter med støtte til makkers farge
+* Hopp i 3 NT, ikke gjør det. Vi har ikke hast.
+
+=== Med 4-kort minor og den andre major
+
+Vi foretrekker å etablere GF, og går gjerne forbi major fargen for å etablere 2-over-1. Husk, makker må vise formen sin først.
+
+Eksempel: etter 1 [.diamonds]#♦# / 1 [.hearts]#♥# åpning. Hvis vi har 4-4 i [.spades]#♠# og [.clubs]#♣#, med verdier til utgang melder vi 2 [.clubs]#♣# først.

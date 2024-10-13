@@ -1,0 +1,45 @@
+= Negative Free Bids (NFB)
+
+|===
+| Brukes | Vi har åpnet og fienden melder inn med en en-farge hånd, ikke Michaels/Unusual mv. Makkeren melder ny farge på 2 og 3 trinnet.
+| NB | Ny farge på en trinnet og 4-trinnet er krav
+| Viser | Egen 5+ farge, ikke krav. Vanligvis 5-10hp ikke spesielt oppmuntrende. Avhengig av posisjon kan man ha så lite som 3 og opptil 11hp
+|===
+
+== Eksempler på NFB
+|===
+| Makker | RHO | Du
+
+| 1 [.diamonds]#♦# | 1 [.spades]#♠# | 2 [.hearts]#♥#
+| 1 [.hearts]#♥# | 2 [.clubs]#♣# | 2 [.spades]#♠#
+| 1 [.spades]#♠# | 3 [.clubs]#♣# | 3 [.hearts]#♥#
+| 1 [.clubs]#♣# | 3 [.diamonds]#♦# | 3 [.hearts]#♥#
+| 1 [.clubs]#♣# | 1 [.spades]#♠# | 2 [.diamonds]#♦#
+| you | get | the point...
+|===
+
+== Ikke NFB
+
+|===
+| Makker | RHO | Du | Hvorfor
+
+| 1 [.diamonds]#♦# | 1 [.hearts]#♥# | 1 [.spades]#♠# | 1-trinnet
+| 1 [.clubs]#♣# | 3 [.hearts]#♥# | 4 [.clubs]#♣# | 4-trinnet
+| 1 [.clubs]#♣# | 2 [.clubs]#♣#* | 2 [.diamonds]#♦# | Michaels (2 farge hånd)
+| you | get | the point...
+|===
+
+== For sterk for NFB
+
+Da må vi doble negativt, for så å melde egen farge:
+
+|===
+| # | Makker | RHO | Du | LHO
+
+| 1 | 1 [.hearts]#♥# | 1 [.spades]#♠# | X | Pass
+| | 2 [.clubs]#♣# | Pass | 2 [.diamonds]#♦# |
+| 2 | 1 [.spades]#♠# |2 [.clubs]#♣# | X | Pass
+| | 3 [.diamonds]#♦# | Pass | 3 [.hearts]#♥# |
+|===
+
+NB! Negativ

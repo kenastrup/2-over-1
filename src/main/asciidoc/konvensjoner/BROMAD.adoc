@@ -1,0 +1,26 @@
+= BROMAD - Bergen Raises of a Major After Double
+
+Fit bids?
+
+Denne trer i kraft når vi åpner i 1 major, og fienden dobler.
+
+|===
+| melding |beskrivelse
+
+| XX | 10+, benekter 3-kort støtte
+| 1 NT | 6-9, stopp i andre major(dobler har den) +
+ <= 2 i makkers farge
+| 2 [.clubs]#♣# | nøyaktig 3-kort støtte 7-10
+| 2 [.diamonds]#♦# | nøyaktig 3-kort støtte 10+
+| 2 [.hearts]#♥# / [.spades]#♠# | nøyaktig 3-kort 0-6 (sperr)
+| 2 NT | <= 2 støtte, god stopp i andre major, 10-12
+| 3 [.clubs]#♣# | 4-kort støtte, 7-9
+| 3 [.diamonds]#♦# | 4-kort støtte, 10-12
+| 3 [.hearts]#♥# / [.spades]#♠# | 4-kort støtte 0-6
+| 3 andre major | udefinert splinter farge, UK
+| 3 NT | spill med god stopp i andre major
+|===
+
+NOTE: 2/3 trinns direkte støtte er fast-arrival. Stjele mest mulig meldeplass for fienden.
+
+NOTE: 3 trinnet er identisk med Bergen Raises

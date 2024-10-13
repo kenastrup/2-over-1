@@ -1,7 +1,0 @@
-= Støttedobling og redobling
-
-Opp til 2 i vår farge. Viser nøyaktig 3-kort støtte
-
-1 [black]#♣# - (P) - 1 [red]#♥# - (2 [red]#♦#) - X
-
-1 [black]#♣# - (P) - 1 [red]#♥# - (X) - XX

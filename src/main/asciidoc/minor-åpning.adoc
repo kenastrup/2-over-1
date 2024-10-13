@@ -1,0 +1,57 @@
+= Minor åpning
+
+Minor åpning er beste minor, dvs kan være på tre kort.
+
+* Etter 1 [.clubs]#♣# finnes ingen 2-over-1 melding.
+* Etter 1 [.diamonds]#♦# er det bare 2 [.clubs]#♣# som er 2-over-1.
+
+Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
+
+== Svar etter minor-åpning
+
+|===
+| melding | beskrivelse
+
+| 1 [.diamonds]#♦#
+| Walsh diamond (alert), 6+ hp. Hvis 3-3-5-2 og under 8 hp. alert! Benekter vanligvis 4 kort major.
+
+| 1 [.hearts]#♥# / [.spades]#♠#
+| 4-kort, 6+ hp, kan ha like lang eller lengre ruter, alert.
+
+| 1 NT
+| 6-10 hp benekter 4 kort major, jevn fordeling, kan ha 5 kort ruter. men da 8-10 hp
+
+| 2 [.clubs]#♣#
+| Etter 1 [.clubs]#♣# omvendt minor (5+ [.clubs]#♣#, 10+) +
+  Etter 1 [.diamonds]#♦#, 2/1, naturlig farge
+
+| 2 [.diamonds]#♦#
+| Etter 1 [.clubs]#♣# sperrebetont +
+  Etter 1 [.diamonds]#♦#, omvendt minor (5+ [.diamonds]#♦#)
+
+| 2 [.hearts]#♥# / [.spades]#♠#
+| Lang egen farge, sperrebetont, under 6 hp
+
+| 2 NT
+| 11-12, benekter 4-kort major
+
+| 3 [.clubs]#♣#
+| Etter 1 [.clubs]#♣# (5+ [.clubs]#♣#, 0-7) +
+  Etter 1 [.diamonds]#♦# sperr, under 6 hp
+
+| 3 [.diamonds]#♦#
+| Etter 1 [.clubs]#♣#. Sperr +
+  Etter 1 [.diamonds]#♦# (5+ [.diamonds]#♦#, 0-7).
+
+| 3 [.hearts]#♥# / [.spades]#♠#
+| Sperr. under 6 hp
+
+| 3 NT
+| 13-15
+
+|===
+
+include::konvensjoner/walsh-diamond.adoc[leveloffset=+1]
+
+include::konvensjoner/omvendt-minor-høyning.adoc[leveloffset=+1]
+

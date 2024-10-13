@@ -1,0 +1,12 @@
+= Uvanlig balansering
+
+Med 2-farge hånd er det vanskelig å balansere etter at fienden har funnet tilpass på to trinnet. 2 NT er redningen!
+
+|===
+| Nord | Øst | Syd | Vest
+
+| 1 [.spades]#♠# | P | 2 [.spades]#♠# | P
+| P | ? | |
+|===
+
+2 NT er balansering og viser minst 4-4 i minor. Makker velger!

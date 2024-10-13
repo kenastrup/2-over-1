@@ -1,0 +1,232 @@
+= Sjekkliste (diskusjonspunkter)
+
+Her er noen diskusjonspunkter. Med mine forslag til svar
+
+TODO: https://www.larryco.com/bridge-learning-center/detail/399[dobbeltsjekk mot denne, jeg skjønner ikke alt]
+
+== 2/1
+. Er 2/1 100% utgangskrav? Jepp
+. Hva om fienden melder inn eller noen av oss har passet først? Ikke UK
+. Er 1 [.diamonds]#♦# -> 2 [.clubs]#♣# UK, og i såfall hva er videre meldinger? Ja. Åpner viser 4-kort major hvis hen har det.
+. Viser disse meldingene ekstra verdier/styrke?
+.. 1 [.hearts]#♥# - 2 [.clubs]#♣# - 2 [.spades]#♠#?  Nei.
+.. 1 [.hearts]#♥# - 2 [.diamonds]#♦# - 2 NT? Nei
+.. 1 [.hearts]#♥# - 2 [.diamonds]#♦# - 3 [.clubs]#♣#? Nei
+. Hvis åpner hopper i egen farge 1 [.hearts]#♥# - 2 [.clubs]#♣# - 3 [.hearts]#♥#? Solid farge, ikke helt minimum.
+. Hva er åpners hopp-skift? (1 [.hearts]#♥# - 2 [.clubs]#♣# - 3 [.diamonds]#♦#)?   Splinter
+. Hva er standard gjenmelding or en balansert minimumshånd _uten_ stopper i en umeldt farge?
+  For example:  [.spades]#♠# AJ2 [.hearts]#♥# KJ876 [.diamonds]#♦# 876  [.clubs]#♣# KJ etter 1 [.hearts]#♥# - 2 [.clubs]#♣# - ? ?  Ikke meld 2 NT uten stoppere. Ikke gjenmeld en dårlig 5-kortsfarge. Noen ganger har man ikke noen god melding og må lyge.
+. Hva er hopp til utgang?  Fast Arrival - Svakeste melding.
+.Er 1M - 1 NT, etterfulgt av hopp i ny farge, etterfulgt av svarhåndens 4 M støtte limit raise?? Ja (3M er tvetydig - Vanligvis preferanse).
+
+== Etter vår 1 NT åpning:
+
+. Avhengig av hvor nøyaktig vi vil være, må alle svar på Stayman diskuteres (f.eks. 1 N - 2 [.clubs]#♣# - 2 [.diamonds]#♦# - 2 M og 1 N - 2 [.clubs]#♣# - 2 X - 3 Y). Det er flere muligheter her.
+. Hvis de dobler Stayman? XX=Spill.
+.. Pass=Ingen kløverstopper, Stayman-melderen Redobler for ny Stayman. Direkte svar viser kløverstopper. (Rask svar viser; vanlig for Lebensohl-brukere.  NB: Noen bruker "direkte benekter kløverstopp" med Lebensohl -- men den bør snus om for at riktig hånd skal bli spillefører, stopperen er beskyttet i utspill).
+. Hvis de dobler overføring?
+.. Pass = 2-kort støtte.
+.. XX = 3-kort støtte og max.
+.. Gjennomføre overføring = 3-/ 4-kort støtte, minimum.
+.. Alt annet = 4-kort støtte, max. Vær forsiktig hvis vi bruker XX som beskrevet, slik at vi ikke ender opp med å passe overføringen redoblet.
+. Videre meldinger etter overføring - endrer det seg med en passet hånd?
+.. Ny farge = UK (selv med passet hånd).
+.. Overføring, så ny farge på 4-trinnet = splinter.
+.. Overføring deretter 4M = balansert sleminvitt (6-3-2-2). Husk at vi kan bruke Texas for å lande i utgang.
+. Hvis åpner dobler etter deres innmelding (f.eks. 1N - P - 2 [.clubs]#♣# 2 [.hearts]#♥# - D? Takeout.
+. Hva viser D av svarhånd (f.eks. 1 N - P - P - 2 [.spades]#♠# - P - P - D enten direkte eller i balanseringsposisjon? Kort
+. Hva er åpners D hvis de balanserer (1 N - P - P - 2 [.spades]#♠# - D? Takeout
+. Hva gjør vi hvis de bruker kunstige innmeldinger? Vet ikke.
+. Forskjell på Jacoby overføring og Texas?
+.. Texas - deretter 4 NT = RKC. Texas slår fast trumf!
+.. Jacoby - deretter 4 NT = kvantitativt.
+. Bruker vi Texas etter 1N - 2 [.clubs]#♣# - 2 [.diamonds]#♦#? Ja. "Utvidet Texas". Hopp til 4 [.diamonds]#♦#/[.hearts]#♥# viser da 6-4 i major.
+. Hvordan håndterer vi innmelding 2 [.clubs]#♣#? D = stayman, ellers som normalt (overføring, 2NT, puppet stayman)
+
+== Etter vår 1 [.clubs]#♣# / [.diamonds]#♦# åpning
+
+. Hva er hopp-skift? Tilpasning og sidefarge. TODO
+. Hva endrer seg med en passet hånd? fit (minst 3) og sidefarge
+. Hvordan gjør vi sterk støtte? Omvendt minor-høyning
+. Hva er 2 NT / 3 NT svar?  2N=11-12   3N=13-15
+. Walsh? Ja.
+. Etter 2 NT gjenmelding? New minor Forcing
+
+== Etter vår 1 [.hearts]#♥# / [.spades]#♠# åpning
+
+. Vanlig eller modifisert Jacoby 2NT? Modifisert
+. Hva er 2 NT og andre meldinger fra en passet hånd? Naturlig
+. Hva er hopp i ny farge etter passet hånd? Fit
+. Bruker vi Bergen Raises - Er de på hvis fienden forstyrrer? TODO
+. Er 1 [.spades]#♠# - 4 [.hearts]#♥# splinter? TODO
+. 1 NT svar og videre meldinger? Absolutt krav eller halv-krav? Vi kan passe med 5-3-3-2 og minimum
+
+== Etter sterk 2 [.clubs]#♣#
+
+. Kan vi stoppe under utgang? Kun etter 2 [.diamonds]#♦# og andre negativ og åpner repeterer sin farge på 3-trinnet, eller åpner melder 2 NT som andre melding
+
+. Innblanding -  Hvis de melder inn, hva er svarhåndens D? 0-3, Pass=UK
+
+. Åpners D? Takeout/Gode kort
+
+. Hvis de doble 2 [.clubs]#♣# for å vise [.clubs]#♣#? Pass=0-3. Alt annet=UK. RD=Business
+
+== Etter vår svake 2
+
+. Etter innblanding, er 2 NT fortsatt spørsmål etter "features"? Ja.
+. Er dobling fra svarhånd straff? Ja
+. Etter 2M - P - 2 NT - innmelding, Hva gjør åpner? Pass=min, D = 3+ kort i deres farge (straffeforslag)
+
+== Andre konvensjonelle meldinger
+
+. Fjerde farge - er det UK? Alltid
+. Fjerde farge av passet hånd? Naturlig, ikke krav.
+
+. Ny minor - Hva bruker vi etter 1 NT gjenmelding? New Minor Forcing (eller 2-veis Checkback)
+. Ny minor i bruk av passet hånd? Nei. I konkuranse? Nei
+. Hopp i fjerde fare (1 [.hearts]#♥# - 1 [.spades]#♠# - 2 [.clubs]#♣# - 3 [.diamonds]#♦#?  Naturlig, Invitt
+. Alle hopp i konkurranse er? Svake
+. Reverseringer? Svarhåndens gjenmelding av egen farge = 5+ kort, rundekrav. Billigste av 2 NT og 4. farge = potensiell avslag. Alt annet UK.
+. Seriøs 3 NT åpning? Absolutt ikke
+. Er 2 NT kunstig i disse situasjonene? 1M - 2M - 2N eller 1m - 1M - 2M - 2N? Ja. Krav, kunstig, spørsmål
+
+== Over deres 1 NT åpning
+. Her må vi diskutere alle videre meldinger og hvis de dobler. Bruker vi samme mot både sterk/svak NT? I balanseringsposisjon? Samme system, men vi trenger straffedobling mot svak NT. Samme i balanseringsposisjon.
+
+== Over deres sperr
+. Hva er cue-bid (som 2 [.hearts]#♥# / 3 [.hearts]#♥#)?  Spør etter stopper. God løpende farge(7+ kort). Makker melder 3 NT med stopper, ellers billigste melding.
+. 4m = Roman Jump Overcall (Michaels cue-bid hopper i den minoren vi har (sterk hånd). NB! Vi sperrer ikke deres sperr. Husker vi dette?
+. Lebensohl på etter passethånd? Ja
+
+
+== Michaels cue-bid
+
+. Kan det være midt-i-mellom styrke? Nei. 5-10 eller 15+
+. Hva betyr 2 NT svar? Spør etter minor. Hvis begge major vises: spør etter min/max.
+
+== RKC
+
+. Bruker vi noen gang 4-ess blackwood? Nei
+. Hva er trumf? Sist meldte farge eller første fargen vi ble enig om.
+. Hva med Q/K spm? Rele=har du dama? (5 i trumf benekter, ellers meldes neste konge elle 6)
+. 1430? Ja
+. Etter innblanding, eller de Dobler 4 NT) DOPI/ROPI
+. Melde vår major på 5-trinnet: Meld 6 med god trumf eller pass. Hvis de har meldt: Har du kontroll i fiendens farge, Pass eller 6!
+. 5 NT, velg-en-slem? Ja, alltid, unntatt etter RKC.
+. Hva med renons? Det er et helvete. Ignorer?
+
+
+== Motspill
+
+. Aside from methods, agree on what the primary signal is.   Attitude.
+. Discuss the "BIG" lead against notrump.   Ace asks for Attitude, King asks for Count/Unblock
+. Discuss "middle of the hand" plays.  Low from good holding, top of nothing
+. If using SMITH ECHO, discuss exceptions.  When count takes priority.
+. What are signals in the trump suit?  Hi-lo wants ruff if possible, otherwise suit preference.
+
+Other Competition (general)
+
+
+== Hva betyr dette, videre meldinger?
+
+NB! Jeg skjønner ikke dette helt...
+
+.De åpner
+[cols=">1,1,1,1,1,5, 5"]
+|===
+| # | De | Vi | De | Vi | hva betyr dette? | Larry says!
+
+|1 | 1 [.clubs]#♣# |  P | 1 [.hearts]#♥# | 2 [.clubs]#♣# | | Naturlig,
+|2 | 1 [.clubs]#♣# | P | 1 [.hearts]#♥# | 2 [.hearts]#♥#  | | Naturlig
+|3 | 1 [.clubs]#♣# |P | 1 [.hearts]#♥# | 1NT | | Naturlig, system på
+|4 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 2 [.clubs]#♣# | | Fit-bid 3+, invitt
+|5 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 3 [.clubs]#♣# | | Fit-bid 3+, 6-9
+|6 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | Ny farge | |
+|7 | 1 [.clubs]#♣# |1 [.hearts]#♥# | P | 2 [.clubs]#♣# | |
+| | D | ? | | | Hvilke muligheter har vi her? |
+|8 |1 [.clubs]#♣# |X |P | 2 [.clubs]#♣# | Åpenbart krav, hvor høyt? +
+Hva med PH? |
+| 9 | 1 [.spades]#♠# | X | XX | P | Hva er neste melding?
+|===
+
+.Vi åpner
+[cols=">1,1,1,1,1,5"]
+|===
+| # | Vi | De | Vi | De | ?
+
+|1 | 1 [.clubs]#♣# | X | XX | | Krav til hvor mye? +
+Hva er framtidige doblinger?
+|2 | 1 [.hearts]#♥# | P | 1 [.spades]#♠# | 2 [.clubs]#♣# |
+| | 2 [.clubs]#♣# | | | |Ekstra?
+| 3 | 1 [.clubs]#♣# | 1 [.spades]#♠# | X | P |
+| | 2 [.diamonds]#♦# | | | | Ekstra?
+| 4 | 1 [.diamonds]#♦# | P |P | X |
+| | XX? | | | |
+| | 1 [.hearts]#♥#? | | | |
+|===
+
+=== Annet
+. Vi utforsker på 3+ trinn og de dobler vårt kunstige cue-bid? Hva betyr +
+.. P? +
+.. XX? +
+.. Direkte melding +
+.. Hvis neste spiller passer og cue-biddern XX?
+. De dobler vår kunstige melding som Stayman, Overføring?
+. De melder inn etter 1 NT?
+. Generell standardregel for alle doblinger av oss?
+. Generell standardregel for kravpass av oss?
+. 2NT meldinger: I konkurranse, når er de naturlig, og når er det scrambling?
+. Mot kunstige meldinger som Bergen Raises, Drury osv.
+. Mot Michaels and Unusual Notrump
+. Mot presisjon, Kunstige 1 minor åpninger?
+. Mot Flannery, Multi, Namyats, Sjanse NT, osv?
+
+Larry's Suggestions:
+
+1-2-3): Natural  (After 1NT, "SYSTEM ON" -- and in fact, SYSTEM ON after any natural NOTRUMP OVERCALL BY US)
+4) 100% guarantees 3+ card support (Limit raise or better). This works in conjunction with #5 below...   (Jump-cue = mixed raise)
+5) NF unless change of Level.  If "advancer" of the overcall wants to force in his own suit, he has to change level.
+6) Fast Arrival -- Return to the trump suit is the WEAKEST.  Pass or anything else is more encouraging.
+7) Dbl=Penalty  Bids=2-suited: lowest of a 2-suiter (not including partner's suit).  2N=Limit-Raise+  Jumps=weak
+8a) On 3-level, nothing to say.  On 4+ level -- denies control, but MORE encouraging than return to trump suit
+8b) On 3-level -- values in that suit; stopper, encouraging.  On 4+level : Control (1st or 2nd round)
+8c) Weakest action on any level. No control/stopper
+8d) On 3-level -- a punt.  On 4+ level -- 1st round control
+9) Stayman/Jacoby discussed above.  After other doubles, if we have agreed on a trump suit, then XX is control.
+
+10) Forcing to suit agreement or notrump.  By a PH: same
+11) Forcing only to 2?.  All future doubles are penalty.
+12) Unless defined in notes (or on this checklist), ALL DOUBLES on 1- and 2-level are NEVER Penalty
+13) Unless defined in notes (or on this checklist), Pass is forcing only if 100% "obvious."
+14) No, No
+15) Extras -- good hand -- not fear  (in both cases)
+16) In general, use all in-comp 2NT as NOT Natural.  The default is "takeout/scrambling" if it ever could be.
+
+   Example:  1? (P) 1NT (P)   P (2?)  P  (P)  2NT -- is something like:  ?7 5 4?4 3?K J 8?A J 10 8 3.
+   Example:  1? (2?) P  (P)  X (P)  2NT -- is something like: ?8765 ?42 ?J32 ?J432 (scrambling).
+17) Double of their artificial suit shows that suit--lead directional type (on low level=length).  Bidding their artificial suit is also natural. "Accepting" their transfer (for example, if they bid ? to show ? and you bid ?) = cue-bid.
+18) Double=penalty minded (next double=penalty).  Bids=Lo-to-lo, Hi-to-Hi -- for example:  1? (2NT) : 3?=Good ? hand, 3?=Limit+ ?, 3?=NF, 3?=weaker raise than 3?.  If only 1 suit known, then cue-bid = the raise, new suits=F.
+19) Versus Big Club: CRASH -- or just preempt a lot.  Versus Polish 1?, Short ?, etc. :  Unless you are highly
+experienced, treat as completely natural and use your regular agreements.
+20) Versus Flannery: 2?=Takeout, 2?=natural, 2NT=natural, X=cards
+  Versus Multi: Use ACBL Defense (opponents must provide)
+  Versus Namyats: Double=cards/takeout oriented, pass then X=lighter takeout.
+   Versus Gambling 3NT: Double = Good hand, 4?=Majors, at least 5?, 4?=Majors better or longer ?
+   Versus Other: Discuss at table
+
+21) Not business. Just nothing to say.  However, if behind the bidder (like 1?  P  P  X  XX), then business.
+
+Abbreviations:
+
+2/1  =  "Two over one"
+
+GF = Game Force
+
+M = Major
+
+m = minor
+
+( ) = Calls in parenthesis are actions taken by the opponents
+
+Click Here for Michael Teaches Touring the Convention Card.
+

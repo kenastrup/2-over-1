@@ -1,0 +1,7 @@
+= Støttedobling og redobling
+
+Opp til 2 i vår farge. Viser nøyaktig 3-kort støtte
+
+1 [.clubs]#♣# - (P) - 1 [.hearts]#♥# - (2 [.diamonds]#♦#) - X
+
+1 [.clubs]#♣# - (P) - 1 [.hearts]#♥# - (X) - XX

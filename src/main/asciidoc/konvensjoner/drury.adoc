@@ -1,0 +1,28 @@
+= Reverse-drury
+
+Bruk: etter åpning 1 i major etter at makker har passet.
+
+Hvorfor: Vi kan åpne tynt i 3. og 4. hånd.
+
+Viser: 3-kort støtte og 10+ inkl fordeling
+
+Brukes ikke: Etter innblanding fra fienden.
+
+== Svar
+
+|===
+| melding | beskrivelse
+
+| 2 [.diamonds]#♦# | "Normal" åpning ca 12-13. Invitt. Ikke noe ekstra
+| Ny farge | Sidefarge, invitt, søker etter 4-4 tilpass
+| 2 M | Ikke interessert i utgang, svak åpning
+| 2 NT | Jevn hånd, sterkere enn 1 NT åpning
+| 3 M | 6-kort, invitt
+| 4 M | Utgang!
+| Hopp ny farge | Splinter, sleminvitt
+| Alle andre | minst invitt, sidefarge. Trenger hjelp?
+|===
+
+== Videre meldinger
+
+Diskusjon. Bør være enkelt?
