@@ -26,7 +26,7 @@ tasks {
             include("css/**")
         }
         baseDirFollowsSourceFile()
-        sources("2-over-1.adoc")
+        sources("index.adoc")
         outputOptions {
             backends("spring-html")
         }
