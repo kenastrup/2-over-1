@@ -31,7 +31,7 @@ jobs:
               uses: actions/upload-pages-artifact@v3
               with:
                 path: build/docs/asciidoc
-    deploy-pages:
+    deploy-github-pages:
         runs-on: ubuntu-latest
         needs: build
         permissions:
@@ -44,5 +44,6 @@ jobs:
             - name: Deploy to github pages
               id: deployment
               uses: actions/deploy-pages@v4
+
 
 
