@@ -12,10 +12,11 @@ jobs:
                   distribution: 'zulu'
                   java-version: '21'
                   cache: gradle
-            - name: Setup gradle
-              uses: gradle/actions/setup-gradle@v3
+            - name: Setup gradle 8.10.2
+              uses: gradle/actions/setup-gradle@v4
               with:
                   cache-read-only: false
+                  gradle-version: "8.10.2"
             - name: Build with gradle
               run: ./gradlew asciidoctor asciidoctorPdf
             - name: Setup pages
