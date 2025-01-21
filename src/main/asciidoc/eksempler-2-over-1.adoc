@@ -187,14 +187,14 @@ D. 3 [.clubs]#♣#. Kan ikke melde NT med 2 små kort i en farge. Hvis makker me
 |===
 | A | B | C | D
 
-|[.spades]#♠# K J 8 7 6
-[.hearts]#♥# A Q
-[.diamonds]#♦# 8 6 5
+|[.spades]#♠# K J 8 7 6 +
+[.hearts]#♥# A Q +
+[.diamonds]#♦# 8 6 5 +
 [.clubs]#♣# A Q 2
 
-|[.spades]#♠# A K Q 6
-[.hearts]#♥# A 3
-[.diamonds]#♦# Q J 2
+|[.spades]#♠# A K Q 6 +
+[.hearts]#♥# A 3 +
+[.diamonds]#♦# Q J 2 +
 [.clubs]#♣# 9 8 7 2
 
 |[.spades]#♠# A Q J 4 +
