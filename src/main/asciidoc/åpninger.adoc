@@ -1,4 +1,4 @@
-== Åpninger
+= Åpninger
 
 [cols="1,3"]
 |===
@@ -6,7 +6,7 @@
 
 | 1 [.clubs]#♣# / [.diamonds]#♦# | 11-22 hp beste minor
 | 1 [.hearts]#♥# / [.spades]#♠# | 11-22 hp 5+ kort
-| 1 NT | 14-16 hp, jevn hånd kan inneholde 5-kort major
+| 1 NT | 15-17 hp, jevn hånd kan inneholde 5-kort major
 | 2 [.clubs]#♣# | Stor sterk
 | 2 [.diamonds]#♦# / [.hearts]#♥# / [.spades]#♠# | Sperr, aggresiv
 | 2 NT | 20-21 NT, kan inneholde 5-kort major

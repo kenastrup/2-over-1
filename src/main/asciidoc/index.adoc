@@ -11,9 +11,6 @@ TODO: https://bridge-tips.co.il/wp-content/uploads/2012/05/BB10-Larry-Cohens-12.
 TODO: Fit-bids.
 
 <<<
-include::ordliste.adoc[]
-
-<<<
 include::introduksjon.adoc[]
 
 <<<
@@ -70,5 +67,8 @@ include::diskusjonspunkter.adoc[]
 
 <<<
 include::ressurser.adoc[]
+
+<<<
+include::ordliste.adoc[]
 
 :leveloffset: -1

@@ -13,10 +13,11 @@ Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er p
 | melding | beskrivelse
 
 | 1 [.diamonds]#♦#
-| Walsh diamond (alert), 6+ hp. Hvis 3-3-5-2 og under 8 hp. alert! Benekter vanligvis 4 kort major.
+| Walsh diamond (alert), 6+ hp. Hvis 3-3-5-2 og under 8 hp. alert! Benekter vanligvis 4 kort major. +
+  Hvis man kommer tilbake med major i neste melding, 5 [.diamonds]#♦# + 4 i major. GF.
 
 | 1 [.hearts]#♥# / [.spades]#♠#
-| 4-kort, 6+ hp, kan ha like lang eller lengre ruter, alert.
+| 4-kort, 6+ hp. Etter 1 [.clubs]#♣# kan ha like lang eller lengre ruter, alert.
 
 | 1 NT
 | 6-10 hp benekter 4 kort major, jevn fordeling, kan ha 5 kort ruter. men da 8-10 hp
@@ -27,7 +28,7 @@ Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er p
 
 | 2 [.diamonds]#♦#
 | Etter 1 [.clubs]#♣# sperrebetont +
-  Etter 1 [.diamonds]#♦#, omvendt minor (5+ [.diamonds]#♦#)
+  Etter 1 [.diamonds]#♦#, omvendt minor (5+ [.diamonds]#♦#, 10+hp)
 
 | 2 [.hearts]#♥# / [.spades]#♠#
 | Lang egen farge, sperrebetont, under 6 hp

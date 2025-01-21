@@ -4,49 +4,49 @@
 |===
 |A | B | C | D
 
-|[.spades]#♠# K J 8 7 6 2
-|[.spades]#♠# A K Q 6 5 2
-|[.spades]#♠# A K Q J 7 4
-|[.spades]#♠# A Q J 5 3
+|[.spades]#♠# K J 8 7 6 2 +
+[.hearts]#♥# A Q +
+[.diamonds]#♦# A 6 5 +
+[.clubs]#♣# A 2
 
-| [.hearts]#♥# A Q
-| [.hearts]#♥# A 3
-| [.hearts]#♥# K 6 2
-| [.hearts]#♥# K 8 5 4
+|[.spades]#♠# A K Q 6 5 2 +
+[.hearts]#♥# A 3 +
+[.diamonds]#♦# K Q 2 +
+[.clubs]#♣# 7 2 +
 
-| [.diamonds]#♦# A 6 5
-| [.diamonds]#♦# K Q 2
-| [.diamonds]#♦# 9 8 6
-| [.diamonds]#♦# A K Q
+|[.spades]#♠# A K Q J 7 4 +
+[.hearts]#♥# K 6 2 +
+[.diamonds]#♦# 9 8 6 +
+[.clubs]#♣# 2
 
-| [.clubs]#♣# A 2
-| [.clubs]#♣# 7 2
-| [.clubs]#♣# 2
-| [.clubs]#♣# 4
+|[.spades]#♠# A Q J 5 3 +
+[.hearts]#♥# K 8 5 4 +
+[.diamonds]#♦# A K Q +
+[.clubs]#♣# 4
 |===    
 
 |===
 |E |F |G |H
 
-|[.spades]#♠# J 7 6 5 4
-|[.spades]#♠# A K 6 5 2
-|[.spades]#♠# K Q 9 8 7 3 2
-|[.spades]#♠# A K Q J 10 9 8
+|[.spades]#♠# J 7 6 5 4 +
+[.hearts]#♥# K Q J +
+[.diamonds]#♦# 6 +
+[.clubs]#♣# A Q 6 5
 
-|[.hearts]#♥# K Q J
-|[.hearts]#♥# A K 2
-|[.hearts]#♥# K 6
-|[.hearts]#♥# J 7
+|[.spades]#♠# A K 6 5 2 +
+[.hearts]#♥# A K 2 +
+[.diamonds]#♦# A 9 2 +
+[.clubs]#♣# 7 6
 
-| [.diamonds]#♦# 6
-| [.diamonds]#♦# A 9 2
-| [.diamonds]#♦# A 2
-| [.diamonds]#♦# J 7
+|[.spades]#♠# K Q 9 8 7 3 2 +
+[.hearts]#♥# K 6 +
+[.diamonds]#♦# A 2 +
+[.clubs]#♣# A J
 
-| [.clubs]#♣# A Q 6 5
-| [.clubs]#♣# 7 6
-| [.clubs]#♣# A J
-| [.clubs]#♣# J 6
+|[.spades]#♠# A K Q J 10 9 8 +
+[.hearts]#♥# J 7 +
+[.diamonds]#♦# J 7 +
+[.clubs]#♣# J 6
 |===    
 
 A. 2 [.spades]#♠#. 6+

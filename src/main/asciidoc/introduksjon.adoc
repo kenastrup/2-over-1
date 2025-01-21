@@ -1,12 +1,10 @@
 = Introduksjon
 
-2/1 Game Force eller bare "2 over 1" er et naturlig meldesystem som blablabla
-
-Følgende hovedkjennetegn:
+2/1 Game Force eller bare "2 over 1" er et naturlig meldesystem som har disse hovedkjennetegn:
 
 * beste minor
 * 5-kort majoråpning
-* 15-17 NT
+* 15-17 NT, kan innehold 5 kort major (5332-ish)
 * 2 [.clubs]#♣# er sterkere enn normalt
 * Mer aggressive sperremeldinger, avhengig av soneforhold.
 
@@ -23,7 +21,7 @@ Dette gjelder selvsagt IKKE i 3 og 4 posisjon når SH har passet først.
 
 2 over 1 kommer IKKE i effekt i disse situasjonene:
 
-* Etter åpning 1 [.clubs]#♣#, da gjelder normale meldinger.
+* Etter åpning 1 [.clubs]#♣#.
 * Etter 1 [.diamonds]#♦# er alle andre svar enn 2 [.clubs]#♣# ikke GF.
 * Når fienden melder inn eller dobler
 * Etter åpning i 3. og 4. hånd
@@ -36,11 +34,11 @@ Etter 2-over-1 er etablert gjelder disse reglene for meldinger
 
 . *2 NT er Catch-all*: hvis vi ikke har annet å melde.
 . *Opprinnelig major på to-trinnet*: 6-kort eller 5 sterke kort i fargen
-. To i ny farge (ikke revers). 4+ kort. Med 6-4 og svak hånd prioriterer vi åpningsfargen, med sterk hånd prioriterer vi 4-korts fargen
+. *To i ny farge (ikke revers)*: 4+ kort. Med 6-4 og svak hånd prioriterer vi åpningsfargen, med sterk hånd prioriterer vi 4-korts fargen
 . *2 [.spades]#♠# etter 1 [.hearts]#♥# åpning*: (eneste revers på 2-trinnet). Prioriterer å melde sparen med både 4-6 og 4-5. Vi vil vise andre majoren.
 . *3 i ny minor*: Vanligvis 5-kort farge, eller veldig sterk 4-kort (AKQx). Ikke ekstra styrke
-. *Høyne makker på 3-trinnet:* Vi er forsktig med dette. Krever 4-kortsfarge, evt god 3-kort. Til og med for 1 [.spades]#♠# - 2 [.hearts]#♥# - 3 [.hearts]#♥#. Vi melder istedet 2 NT, og korrigerer til 4 [.hearts]#♥# hvis makker melder 3 NT.
-. Hopp til 3-trinnet i ny farge. Splinter med minst 4-kort støtte.
+. *Høyne makker på 3-trinnet:* Vi er forsiktig med dette. Krever 4-kortsfarge, evt god 3-kort. Til og med for 1 [.spades]#♠# - 2 [.hearts]#♥# - 3 [.hearts]#♥#. Vi melder istedet 2 NT, og korrigerer til 4 [.hearts]#♥# hvis makker melder 3 NT.
+. *Hopp til 3-trinnet i ny farge*. Splinter med minst 4-kort støtte i makkers farge
 . *3 i åpners major:* Solid farge minst AKQxxxx/AKQJxx/KQJxxxx/KQJTxx. Lover ikke ekstra styrke, men ikke helt minimum
 . *3 NT:* Jevn hånd, sterkere enn 1 NT åpning (17-19?)
 . *Enkelt hopp til ny farge på 4-trinnet:* Splinter
