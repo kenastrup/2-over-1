@@ -56,3 +56,4 @@ include::konvensjoner/walsh-diamond.adoc[leveloffset=+1]
 
 include::konvensjoner/omvendt-minor-høyning.adoc[leveloffset=+1]
 
+include::eksempler/minoråpning-eksempler.adoc[leveloffset=+1]

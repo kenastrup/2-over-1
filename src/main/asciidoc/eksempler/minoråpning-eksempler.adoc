@@ -1,0 +1,92 @@
+= Eksempler
+
+== Eksempel. Svar på 1 [.diamonds]#♦#
+
+|===
+| A | B | C | D
+
+|[.spades]#♠# K J 8 7 6 +
+[.hearts]#♥# A Q +
+[.diamonds]#♦# 8 6 5 +
+[.clubs]#♣# A Q 2
+
+|[.spades]#♠# A K Q 6 +
+[.hearts]#♥# A 3 +
+[.diamonds]#♦# Q J 2 +
+[.clubs]#♣# 9 8 7 2
+
+|[.spades]#♠# A Q J 4 +
+[.hearts]#♥# K 6 2 +
+[.diamonds]#♦# 9 +
+[.clubs]#♣# A Q J 8 2
+
+|[.spades]#♠# A 5 3 +
+[.hearts]#♥# K 8 5 +
+[.diamonds]#♦# A K +
+[.clubs]#♣# Q J 8 4 2
+
+|===
+
+A. 1 [.spades]#♠#. Vi kan ikke melde 2-over-1 på disse kortene. Dette viser 6+.
+B. 1 [.spades]#♠# viser 6+. 2 [.clubs]#♣# (GF) er også mulig. Kan vise spar senere.
+C. 2 [.clubs]#♣#. med 5 [.clubs]#♣# og 4 [.spades]#♠# er dette best.
+D. 2 [.clubs]#♣#. Ikke stress til NT.
+
+
+== Eksempel 1 [.diamonds]#♦# -> 2 [.clubs]#♣# (GF)
+
+|===
+| A | B | C | D
+
+|[.spades]#♠# A 2 +
+[.hearts]#♥# A Q 6 5 +
+[.diamonds]#♦# K J 7 6 5 +
+[.clubs]#♣# 6 4
+
+|[.spades]#♠# K 5 4 +
+[.hearts]#♥# K J 6 5 +
+[.diamonds]#♦# J 10 8 7 +
+[.clubs]#♣# A 4
+
+|[.spades]#♠# K J 4 +
+[.hearts]#♥# Q 8 7 +
+[.diamonds]#♦# A J 8 7 +
+[.clubs]#♣# Q 7 6
+
+|[.spades]#♠# A Q 4 +
+[.hearts]#♥# 7 6 +
+[.diamonds]#♦# A Q 5 4 +
+[.clubs]#♣# J 9 4 2
+
+|E | F |G |H
+
+|[.spades]#♠# A K 6 5 +
+[.hearts]#♥# A K 2 +
+[.diamonds]#♦# A 9 3 2 +
+[.clubs]#♣# 7 6
+
+|[.spades]#♠# K J 9 +
+[.hearts]#♥# K J 7 6 +
+[.diamonds]#♦# A 8 7 2 +
+[.clubs]#♣# 3 2
+
+|[.spades]#♠# Q 10 9 8 +
+[.hearts]#♥# J 7 +
+[.diamonds]#♦# K J 8 7 2 +
+[.clubs]#♣# A Q
+
+|[.spades]#♠# Q J 4 +
+[.hearts]#♥# Q J 4 +
+[.diamonds]#♦# Q J 8 7 +
+[.clubs]#♣# K Q 2
+
+|===
+
+A. 2 [.diamonds]#♦#. Vis 5+ kort. Makker vil melde 2 [.hearts]#♥# med 4-kort [.hearts]#♥#
+B. 2 [.hearts]#♥#. Vis sidefarge. Reversreglene gjelder ikke i 2-over-1
+C. 2 NT. 12-14 / 18-19 hp. Ikke 5-kort [.diamonds]#♦#, ingen 4-kort major. Altså 3-3-4-3 hånd
+D. 3 [.clubs]#♣#. Kan ikke melde NT med 2 små kort i en farge. Hvis makker melder 3 [.hearts]#♥#, er neste melding 3 NT.
+E. 2 [.spades]#♠#. 4-kort spar. Benekter 5-kort [.diamonds]#♦#
+F. 2 [.hearts]#♥#. 4-kort [.hearts]#♥#. Benekter 5-kort [.diamonds]#♦#
+G. 2 [.diamonds]#♦#. 5-kort [.diamonds]#♦#. Hvis makker har 4 [.spades]#♠# vil han melde den.
+H. 2 NT. Benekter 5-kort [.diamonds]#♦# og 4-kort major. Vanligvis 3-3-4-3.

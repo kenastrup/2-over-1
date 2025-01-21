@@ -1,8 +1,8 @@
-= 1 NT Forcing
+= 1 NT (semi) Forcing
 
-Dette er ulempen med 2/1. Man må opprette en melding som man kan bruke for å vise en rekke ulike hender. 1 NT er denne meldingen.
+Dette er ulempen med 2/1. Man må opprette en sekkemelding som man kan bruke for å vise en rekke ulike hender. 1 NT er denne meldingen.
 
-1 NT forcing er som navnet antyder ABSOLUTT krav til runde.
+1 NT forcing er som navnet antyder SEMI krav til runde.
 
 Etter majoråpning er svar 1 NT en "sekkemelding" som viser 6-12 hp. Du kan IKKE ha 4-kort støtte. Vi kan ikke melde lavere farger på to-trinnet siden det er GF.
 
@@ -36,29 +36,30 @@ Eksempler etter 1 [.spades]#♠# -> 1 NT:
 |===
 | A | B | C | D | E
 
-| [.spades]#♠# A Q 9 8 2
-| [.spades]#♠# Q J 10 6 5 2
-| [.spades]#♠# A K Q 5 2
-| [.spades]#♠# A J 5 4 2
-| [.spades]#♠# A Q J 10 5 4 2
+| [.spades]#♠# A Q 9 8 2 +
+[.hearts]#♥# A 5 2 +
+[.diamonds]#♦# Q J 2 +
+[.clubs]#♣# 7 3
 
-| [.hearts]#♥# A 5 2
-| [.hearts]#♥# A 5 2
-| [.hearts]#♥# A K Q 10 2
-| [.hearts]#♥# A K 2
-| [.hearts]#♥# A J 2
+| [.spades]#♠# Q J 10 6 5 2 +
+[.hearts]#♥# A 5 2 +
+[.diamonds]#♦# Q J 2 +
+[.clubs]#♣# A
 
-| [.diamonds]#♦# Q J 2
-| [.diamonds]#♦# Q J 2
-| [.diamonds]#♦# 10 5 2
-| [.diamonds]#♦# K 2
-| [.diamonds]#♦# K 2
+| [.spades]#♠# A K Q 5 2 +
+[.hearts]#♥# A K Q 10 2 +
+[.diamonds]#♦# 10 5 2 +
+[.clubs]#♣# -
 
-| [.clubs]#♣# 7 3
-| [.clubs]#♣# A
-| [.clubs]#♣# -
-| [.clubs]#♣# K 8 3
-| [.clubs]#♣# 3
+| [.spades]#♠# A J 5 4 2 +
+[.hearts]#♥# A K 2 +
+[.diamonds]#♦# K 2 +
+[.clubs]#♣# K 8 3
+
+| [.spades]#♠# A Q J 10 5 4 2 +
+[.hearts]#♥# A J 2 +
+[.diamonds]#♦# K 2 +
+[.clubs]#♣# 3
 
 |===
 
@@ -99,29 +100,30 @@ Eksempler. Etter 1 [.spades]#♠# -> 1 NT -> 2 [.clubs]#♣#
 |===
 | A | B | C | D | E
 
-| [.spades]#♠# 6
-| [.spades]#♠# A 5 2
-| [.spades]#♠# Q 7
-| [.spades]#♠# 10
-| [.spades]#♠# 4
+| [.spades]#♠# 6 +
+[.hearts]#♥# 10 3 2 +
+[.diamonds]#♦# Q 5 4 2 +
+[.clubs]#♣# A K J 6 4
 
-| [.hearts]#♥# 10 3 2
-| [.hearts]#♥# Q J 9 8 2
-| [.hearts]#♥# A Q 6 2
-| [.hearts]#♥# Q 10 9 8 7
-| [.hearts]#♥# K Q 10 8 7 6
+| [.spades]#♠# A 5 2 +
+[.hearts]#♥# Q J 9 8 2 +
+[.diamonds]#♦# K 10 2 +
+[.clubs]#♣# 10 9
 
-| [.diamonds]#♦# Q 5 4 2
-| [.diamonds]#♦# K 10 2
-| [.diamonds]#♦# 9 8 7 6
-| [.diamonds]#♦# K Q 10 8 7
-| [.diamonds]#♦# Q 4 3 2
+| [.spades]#♠# Q 7 +
+[.hearts]#♥# A Q 6 2 +
+[.diamonds]#♦# 9 8 7 6 +
+[.clubs]#♣# 5 4 2
 
-| [.clubs]#♣# A K J 6 4
-| [.clubs]#♣# 10 9
-| [.clubs]#♣# 5 4 2
-| [.clubs]#♣# A 8 2
-| [.clubs]#♣# J 2
+| [.spades]#♠# 10 +
+[.hearts]#♥# Q 10 9 8 7 +
+[.diamonds]#♦# K Q 10 8 7 +
+[.clubs]#♣# A 8 2
+
+| [.spades]#♠# 4 +
+[.hearts]#♥# K Q 10 8 7 6 +
+[.diamonds]#♦# Q 4 3 2 +
+[.clubs]#♣# J 2
 |===
 
 A. 3 [.clubs]#♣#. Støtte invitt

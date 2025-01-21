@@ -16,5 +16,5 @@ Hvis makker melder 2 NT eller 3 [.clubs]#♣# kan det passes.
 
 Om svarhånden melder videre etter 2NT eller 3 i minoren, så viser dette sleminteresse og kortfarge. GF.
 
-Hvor mange kort for å bruke omvendt minor? Vanligvis 5+ i [.clubs]#♣.
+Hvor mange kort for å bruke omvendt minor? Vanligvis 5+ i [.clubs]#♣#.
 Samme gjelder [.diamonds]#♦#, men kan av og til ha 4 siden 1 [.diamonds]#♦# som oftest er på 4-kort.
