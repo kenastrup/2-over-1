@@ -1,20 +1,22 @@
 == Omvendte minorhøyninger
 
-Vanligvis viser enkel høyning 6-9 og dobbelt høyning 10-12.
+Når::
+* Vi åpner 1 [.clubs]#♣# eller 1 [.diamond]#♦#
+* Også etter å ha passet først.
 
-Omvendte minorhøyninger:
-
+Viser::
+* Vanligvis 5+ hvis [.clubs]#♣#, kan til nød være 4-kort hvis [.diamond]#♦#, siden åpningen vanligvis er på 4-kort.
 * Benekter 4-kort major.
-* Brukes også etter å ha passet først.
-* Brukes ikke etter at motparten har meldt eller doblet
-* Enkel høyning viser 10+ og minst 5-kort støtte. Krav til 2 NT eller 3 m
-* Dobbel høyning viser 0-6 hp
-* hva skal man gjøre med 7-9 hp? Melde 1 NT? Ugh? TODO
 
-Hva betyr det hvis åpner melder major etter omvendt minorhøyning? Det har jo ingen hensikt å melde 4-kort major, siden makker benekter det. Det viser stopper/konsentrasjon.
-Hvis makker melder 2 NT eller 3 [.clubs]#♣# kan det passes.
+Ikke:: etter at motparten har meldt eller doblet.
 
-Om svarhånden melder videre etter 2NT eller 3 i minoren, så viser dette sleminteresse og kortfarge. GF.
+.Eksempel etter 1 [.clubs]#♣# åpning
+|===
+| 2 [.clubs]#♣# | 5+ kort, 10+ hp +
+                  Krav til å ikke stoppe før 2 NT eller 3 [.clubs]#♣#
+| 3 [.clubs]#♣# | 5/6+ kort, 0-6 hp
+|===
 
-Hvor mange kort for å bruke omvendt minor? Vanligvis 5+ i [.clubs]#♣#.
-Samme gjelder [.diamonds]#♦#, men kan av og til ha 4 siden 1 [.diamonds]#♦# som oftest er på 4-kort.
+* Hvis ÅH melder major etter omvendt minorhøyning: Det har jo hensikt å melde 4-kort major, siden SH benekter det. Det viser stopper/konsentrasjon.
+* Hvis en melder 2 NT eller 3 [.clubs]#♣# kan det passes.
+* Om svarhånden melder videre etter 2NT eller 3 i minoren, så viser dette sleminteresse og kortfarge. GF.

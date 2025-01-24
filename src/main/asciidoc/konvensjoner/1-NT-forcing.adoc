@@ -1,34 +1,94 @@
 = 1 NT (semi) Forcing
 
-Dette er ulempen med 2/1. Man må opprette en sekkemelding som man kan bruke for å vise en rekke ulike hender. 1 NT er denne meldingen.
+Når:: Etter majoråpning
 
-1 NT forcing er som navnet antyder SEMI krav til runde.
+Ikke::
+* i konkurranse
+* med 4-korts støtte
 
-Etter majoråpning er svar 1 NT en "sekkemelding" som viser 6-12 hp. Du kan IKKE ha 4-kort støtte. Vi kan ikke melde lavere farger på to-trinnet siden det er GF.
+Viser::
+* "sekkemelding" som viser 5-12 hp.
+* Kan bare passes med 5-3-3-2 fordeling og dritthånd.
+* Kan ha 3-kort støtte med 6-7 hp (submin) eller limit raise(10-12 hp).
+* fordeling: Hvilken som helst.
 
-Etter 1 [.hearts]#♥# benekter den også 4-kort spar?
+Benekter:: Etter 1 [.hearts]#♥# åpning benekter SH 4-kort spar.
 
-== Åpners svar på 1 NT forcing
+Dette er ulempen med 2/1. Man må opprette en sekkemelding som man kan bruke for å vise en rekke ulike hender.
+
+== ÅH svar på 1 NT forcing
+
+Det eneste som er krav er jump shift.
 
 |===
 | svar | beskrivelse
 
+| pass
+| 5-3-3-2 fordeling. Svak åpning.
+
 | 2 [.clubs]#♣#/[.diamonds]#♦#
-| Minst 3-kort farge. +
+| Minst 3-kort farge. Max 18 hp +
 NB! 2 [.clubs]#♣# KAN vise nøyaktig 4-5-2-2 fordeling, altså 2-kort farge i kløver hvis man ikke har styrke til revers melding. +
 1 [.hearts]#♥# -> 1 NT -> 2 [.spades]#♠# er revers og viser ekstra verdier.
 
-| 2 i motsatt major
-| minst 4-kort.
+| 2 [.hearts]#♥#
+| Etter 1 [.hearts]#♥#: 6+ kort, max 15 hp.
+  Etter 1 [.spades]#♠#: 4+ kort max 18 hp.
 
-| 2 i åpningsfargen
-| 6+ kort. Ikke krav.
+| 2 i [.spades]#♠#
+| Etter 1 [.hearts]#♥#: 6+ kort. Max 15 hp Ikke krav.
 
 | 2 NT
-| Sterk NT, balansert. Altså 17+
+| 17-18hp NT, 5-3-3-2.
 
-| 3 trinnet
-| Som vanlig
+| 3 [.clubs]#♣# / [.diamonds]#♦#
+| 4+ kort, 19+ hp. GF
+
+| 3 [.hearts]#♥#
+| Etter 1 [.hearts]#♥#: 6 kort, 16-17 hp NF.
+  Etter 1 [.spades]#♠#: 4+ kort, 19+ hp. GF
+
+| 3 [.spades]#♠#
+| Etter 1 [.hearts]#♥#: ??? +
+  Etter 1 [.spades]#♠#: 6+ kort, 16-17 hp. NF.
+
+| utgang i egen farge
+| 7 kort 14+ hp +
+  8 kort 12+ hp
+
+| 3 NT
+| 19hp+   5-3-3-2
+|===
+
+== SH gjeldmeldinger etter svar 2 minor
+
+|===
+| melding | beskrivelse
+
+| pass
+| 5-8hp, ingen gode meldinger
+
+| preferanse til major
+| 2-korts støtte, max 10hp
+
+| 2 NT
+| 10-12 hp ingen fit +
+  stoppere i umeldte farger
+
+| støtte i ÅHs minor
+| 5-kort støtte, 10+ hp, inkl fordeling
+
+| hopp statte i ÅHs major
+| 3-kort støtte, 10 - dårlige 12 hp
+
+| Ny farge 2-trinnet
+| 6+ kort 5-9 hp
+
+| Ny farge 3-trinnet (ikke hopp)
+| God 6+ kort, 5-11 hp
+
+| Ny farge 3-trinnet (hopp)
+| Veldig God 6+ kort, 10-11 hp
 |===
 
 Eksempler etter 1 [.spades]#♠# -> 1 NT:

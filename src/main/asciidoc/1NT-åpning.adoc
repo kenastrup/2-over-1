@@ -1,9 +1,10 @@
 = 1 NT åpning
 
-Åpning 1 NT
+Viser::
+* viser 15-17 hp, jevn hånd
+* kan inneholde 5-kort major, 15-16 hp
 
-* viser 15-17 hp
-* kan inneholde 5-kort major og 5-3-3-2
+Unngå:: 5-kort major og 17hp. Åpne heller med major.
 
 == Svar på 1 NT åpning
 

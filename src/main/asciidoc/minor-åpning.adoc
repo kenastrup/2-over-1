@@ -4,6 +4,7 @@ Minor åpning er beste minor, dvs kan være på tre kort.
 
 * Etter 1 [.clubs]#♣# finnes ingen 2-over-1 melding.
 * Etter 1 [.diamonds]#♦# er det bare 2 [.clubs]#♣# som er 2-over-1.
+* Vi bruker Walsh diamond etter 1 [.clubs]#♣#.
 
 Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er på 4 kort. Eneste unntak er 4-4-3-2 fordeling.
 
@@ -17,7 +18,7 @@ Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er p
   Hvis man kommer tilbake med major i neste melding, 5 [.diamonds]#♦# + 4 i major. GF.
 
 | 1 [.hearts]#♥# / [.spades]#♠#
-| 4-kort, 6+ hp. Etter 1 [.clubs]#♣# kan ha like lang eller lengre ruter, alert.
+| 4-kort, 6+ hp. NB! Walsh etter 1 [.clubs]#♣# kan ha like lang eller lengre ruter, alert.
 
 | 1 NT
 | 6-10 hp benekter 4 kort major, jevn fordeling, kan ha 5 kort ruter. men da 8-10 hp
@@ -51,6 +52,14 @@ Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er p
 | 13-15
 
 |===
+
+NT-svarene gjelder også etter innmelding/dobling.
+
+I konkurranse::
+* etter overmelding viser cue-bid limit raise eller bedre.
+* etter dobling viser redobling 10+, uten 4-korts major?
+* etter innmelding - hoppstøtte er sperr.
+* etter dobling - hopp til 2 NT limit raise eller bedre.
 
 include::konvensjoner/walsh-diamond.adoc[leveloffset=+1]
 

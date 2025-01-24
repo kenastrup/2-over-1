@@ -149,4 +149,5 @@ Udefinert single/renons
   Ingen single/renons
 |===
 
-include::konvensjoner/drury.adoc[leveloffset+=1]
+include::eksempler-etter-major-åpning.adoc[leveloffset=+1]
+include::konvensjoner/drury.adoc[leveloffset=+1]

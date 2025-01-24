@@ -1,29 +1,35 @@
 == Walsh diamond
 
-Dette gjelder kun etter 1 [.clubs]#♣# åpning.
+Når:: Kun etter 1 [.clubs]#♣# åpning.
 
-Filosofien er; meld majorfarger umiddelbart så lenge du ikke har nok til å kreve til utgang.
+Hvordan::
+* med svak hånd(under 12 hp) og 4+ ruter, og 4+ major hopper vi over [.diamonds]#♦# og melder majoren.
+* med sterk hånd(12+ hp) og 4+ ruter, og 4+ major melder vi [.diamonds]#♦# først og melder majoren senere. Detter er utgangskrav.
+* Når vi har en svak hånd med minst 7 ruter og en _svak_ major, da _kan_ vi melde ruteren først.
+* Etter 1 [.clubs]#♣# - 1 [.diamonds]#♦#, hopper svarhånden også over major med jevnish hånd.
+* Hvis ÅH melder major etter 1 [.clubs]#♣# - 1 [.diamonds]#♦#, viser det en ubalansert hånd.
+* Altså; med både ruter og en majorfarge, vil vi kun melde ruteren først hvis vi kan kreve til utgang, ellers melder vi 4-korts major.
+* 1 [.clubs]#♣# - 1 [.diamonds]#♦# benekter _vanligvis_ 4-korts major. Hvis den ikke benekter major, har man verdier til utgang.
 
-Altså, med både ruter og en majorfarge, vil vi kun melde ruteren først hvis vi kan kreve til utgang, ellers melder vi 4-korts major.
-
-Unntaket er når vi har en svak hånd med minst 7 ruter og en svak major, da melder vi ruteren først.
-
-Dette betyr at man ofte melder major på tross at man har like lang eller lengre ruter.
-
-Dette innebærer at 1 [.diamonds]#♦# vanligvis benekter 4-korts major.  Hvis den ikke benekter major, har man verdier til utgang.
-
-Det betyr også at hvis man melder ruter først, og senere melder major, er dette utgangskrav.
+NB! Både 1 [.diamonds]#♦# / 1 [.hearts]#♥# / 1 [.spades]#♠# skal alerteres
 
 Dette innebærer også at 1 [.clubs]#♣# - 1 [.hearts]#♥#
  /1 [.spades]#♠#; 1NT - 2 [.diamonds]#♦# viser 4-korts major og normalt 5-6 korts ruter og svak hånd.
 
-Åpners andre melding er normalt basert på fordeling.  Har man grandfordeling, så meldes ikke eventuell(e) 4-korts major(er) etter at vi har startet med 1 [.clubs]#♣# -> 1 [.diamonds]#♦#.
+ÅH sin andre melding er normalt basert på fordeling. Har man grandfordeling, så meldes ikke eventuell(e) 4-korts major(er) etter at vi har startet med 1 [.clubs]#♣# -> 1 [.diamonds]#♦#.
 
-Et par unntak finnes.
-
+Unntak::
 * Hvis man har 4-4-3-2 fordeling og alle poengene i 4-korts fargene, så er det bedre å melde farge framfor fordeling.
-* Andre unntak er med 4-korts spar å vurdere å melde 1 [.spades]#♠# etter 1 [.clubs]#♣# - 1 [.hearts]#♥# , avhengig av poengfordelingen.
 
-TODO: Dette var krøkkete formulert.
+OBS:: Etter 1 [.clubs]#♣# - 1 [.hearts]#♥# vil ÅH melde 1 [.spades]#♠# også med flat minimum.
 
 Se https://www.bridgehands.com/W/Walsh_Diamond_Responses.htm[her for nærmere detaljer]
+
+|===
+| melding | beskrivelse
+
+| 1 [.clubs]#♣# - 1 [.diamonds]#♦#
+|
+
+
+|===
