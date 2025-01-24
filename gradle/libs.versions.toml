@@ -1,0 +1,7 @@
+[versions]
+asciidoctor = "4.0.3"
+
+[plugins]
+asciidoctor-convert = { id="org.asciidoctor.jvm.convert", version.ref = "asciidoctor" }
+asciidoctor-pdf = { id="org.asciidoctor.jvm.pdf", version.ref = "asciidoctor" }
+asciidoctor-gems = { id = "org.asciidoctor.jvm.gems", version.ref = "asciidoctor" }

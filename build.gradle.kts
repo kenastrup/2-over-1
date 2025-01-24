@@ -2,9 +2,9 @@ import org.asciidoctor.gradle.jvm.AsciidoctorTask
 import org.asciidoctor.gradle.jvm.pdf.AsciidoctorPdfTask
 
 plugins {
-    id("org.asciidoctor.jvm.convert") version "4.0.3"
-    id("org.asciidoctor.jvm.pdf") version "4.0.3"
-    id("org.asciidoctor.jvm.gems") version "4.0.3"
+    alias(libs.plugins.asciidoctor.convert)
+    alias(libs.plugins.asciidoctor.pdf)
+    alias(libs.plugins.asciidoctor.gems)
 }
 
 repositories {
@@ -35,7 +35,7 @@ tasks {
     named<AsciidoctorPdfTask>("asciidoctorPdf") {
         dependsOn(asciidoctorGemsPrepare)
         sourceDir(file("src/main/asciidoc"))
-        sources("2-over-1.adoc")
+        sources("index.adoc")
         setFontsDirs(
             listOf(
                 "src/main/resources/fonts",
@@ -43,7 +43,6 @@ tasks {
         )
         baseDirFollowsSourceFile()
         setTheme("bridge")
-        sources("2-over-1.adoc")
     }
 }
 
