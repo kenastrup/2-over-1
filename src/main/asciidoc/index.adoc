@@ -11,14 +11,10 @@ TODO: https://bridge-tips.co.il/wp-content/uploads/2012/05/BB10-Larry-Cohens-12.
 TODO: Fit-bids.
 
 <<<
-include::introduksjon.adoc[]
-
-<<<
 include::åpninger.adoc[]
 
-//<<<
-// OBSOLETE tatt inn i introduksjon
-//include::etter-2-over-1.adoc[]
+<<<
+include::introduksjon.adoc[]
 
 <<<
 include::minor-åpning.adoc[]

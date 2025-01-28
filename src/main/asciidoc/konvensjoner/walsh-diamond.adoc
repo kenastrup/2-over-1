@@ -4,7 +4,7 @@ Når:: Kun etter 1 [.clubs]#♣# åpning.
 
 Hvordan::
 * med svak hånd(under 12 hp) og 4+ ruter, og 4+ major hopper vi over [.diamonds]#♦# og melder majoren.
-* med sterk hånd(12+ hp) og 4+ ruter, og 4+ major melder vi [.diamonds]#♦# først og melder majoren senere. Detter er utgangskrav.
+* med sterk hånd(12+ hp) og 4+ ruter, og 4+ major melder vi [.diamonds]#♦# først og melder majoren senere. Dette er utgangskrav.
 * Når vi har en svak hånd med minst 7 ruter og en _svak_ major, da _kan_ vi melde ruteren først.
 * Etter 1 [.clubs]#♣# - 1 [.diamonds]#♦#, hopper svarhånden også over major med jevnish hånd.
 * Hvis ÅH melder major etter 1 [.clubs]#♣# - 1 [.diamonds]#♦#, viser det en ubalansert hånd.

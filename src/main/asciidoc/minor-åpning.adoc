@@ -18,7 +18,7 @@ Med 3-3 i minor, åpne med 1 [.clubs]#♣#. 1 [.diamonds]#♦# kan man anta er p
   Hvis man kommer tilbake med major i neste melding, 5 [.diamonds]#♦# + 4 i major. GF.
 
 | 1 [.hearts]#♥# / [.spades]#♠#
-| 4-kort, 6+ hp. NB! Walsh etter 1 [.clubs]#♣# kan ha like lang eller lengre ruter, alert.
+| 4-kort, 6+ hp. NB! Walsh etter 1 [.clubs]#♣# kan ha like lang eller lengre ruter. *Alert*.
 
 | 1 NT
 | 6-10 hp benekter 4 kort major, jevn fordeling, kan ha 5 kort ruter. men da 8-10 hp
